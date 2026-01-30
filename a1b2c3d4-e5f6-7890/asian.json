@@ -23,7 +23,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:20:09.340Z"
+    "createdAt": "2025-11-06T02:20:09.340Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "257787",
@@ -49,7 +51,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:20:10.345Z"
+    "createdAt": "2025-11-06T02:20:10.345Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "250463",
@@ -75,7 +79,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:20:11.315Z"
+    "createdAt": "2025-11-06T02:20:11.315Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "238084",
@@ -101,7 +107,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:20:13.401Z"
+    "createdAt": "2025-11-06T02:20:13.401Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "258357",
@@ -127,7 +135,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:20:14.384Z"
+    "createdAt": "2025-11-06T02:20:14.384Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "238673",
@@ -153,7 +163,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:20:16.638Z"
+    "createdAt": "2025-11-06T02:20:16.638Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "295782",
@@ -179,7 +191,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:20:17.630Z"
+    "createdAt": "2025-11-06T02:20:17.630Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "211224",
@@ -205,7 +219,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:20:31.211Z"
+    "createdAt": "2025-11-06T02:20:31.211Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "294925",
@@ -231,7 +247,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:20:32.267Z"
+    "createdAt": "2025-11-06T02:20:32.267Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "231462",
@@ -257,7 +275,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:20:33.264Z"
+    "createdAt": "2025-11-06T02:20:33.264Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "293795",
@@ -283,7 +303,9 @@
         "episodesCount": 27
       }
     ],
-    "createdAt": "2025-11-06T02:20:34.265Z"
+    "createdAt": "2025-11-06T02:20:34.265Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "261128",
@@ -309,7 +331,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:20:35.250Z"
+    "createdAt": "2025-11-06T02:20:35.250Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "232402",
@@ -335,7 +359,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:20:36.222Z"
+    "createdAt": "2025-11-06T02:20:36.222Z",
+    "ageRating": "TV-MA",
+    "network": "wavve"
   },
   {
     "id": "240445",
@@ -361,7 +387,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:20:38.210Z"
+    "createdAt": "2025-11-06T02:20:38.210Z",
+    "ageRating": "TV-MA",
+    "network": "iQiyi"
   },
   {
     "id": "280100",
@@ -387,7 +415,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:20:39.184Z"
+    "createdAt": "2025-11-06T02:20:39.184Z",
+    "ageRating": null,
+    "network": "Viki"
   },
   {
     "id": "252579",
@@ -413,7 +443,9 @@
         "episodesCount": 15
       }
     ],
-    "createdAt": "2025-11-06T02:20:40.229Z"
+    "createdAt": "2025-11-06T02:20:40.229Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "280107",
@@ -439,7 +471,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:20:41.229Z"
+    "createdAt": "2025-11-06T02:20:41.229Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "273418",
@@ -465,7 +499,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:20:44.293Z"
+    "createdAt": "2025-11-06T02:20:44.293Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "217945",
@@ -495,7 +531,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:20:45.703Z"
+    "createdAt": "2025-11-06T02:20:45.703Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "214994",
@@ -525,7 +563,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:20:48.026Z"
+    "createdAt": "2025-11-06T02:20:48.026Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "284449",
@@ -551,7 +591,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:20:48.998Z"
+    "createdAt": "2025-11-06T02:20:48.998Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "263161",
@@ -577,7 +619,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:20:50.046Z"
+    "createdAt": "2025-11-06T02:20:50.046Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "250670",
@@ -607,7 +651,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:21:05.895Z"
+    "createdAt": "2025-11-06T02:21:05.895Z",
+    "ageRating": "TV-MA",
+    "network": "Prime Video"
   },
   {
     "id": "93405",
@@ -641,7 +687,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:21:07.642Z"
+    "createdAt": "2025-11-06T02:21:07.642Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "96164",
@@ -667,7 +715,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:08.637Z"
+    "createdAt": "2025-11-06T02:21:08.637Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "196526",
@@ -693,7 +743,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:11.057Z"
+    "createdAt": "2025-11-06T02:21:11.057Z",
+    "ageRating": "TV-MA",
+    "network": "SBS"
   },
   {
     "id": "117376",
@@ -719,7 +771,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:21:12.060Z"
+    "createdAt": "2025-11-06T02:21:12.060Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "243083",
@@ -749,7 +803,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:21:13.397Z"
+    "createdAt": "2025-11-06T02:21:13.397Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "129473",
@@ -775,7 +831,9 @@
         "episodesCount": 52
       }
     ],
-    "createdAt": "2025-11-06T02:21:18.443Z"
+    "createdAt": "2025-11-06T02:21:18.443Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "74114",
@@ -801,7 +859,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:20.483Z"
+    "createdAt": "2025-11-06T02:21:20.483Z",
+    "ageRating": "NR",
+    "network": "KBS2"
   },
   {
     "id": "130330",
@@ -827,7 +887,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:21:21.466Z"
+    "createdAt": "2025-11-06T02:21:21.466Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "93097",
@@ -853,7 +915,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:21:22.536Z"
+    "createdAt": "2025-11-06T02:21:22.536Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "79434",
@@ -879,7 +943,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:23.568Z"
+    "createdAt": "2025-11-06T02:21:23.568Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "196907",
@@ -905,7 +971,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:21:24.588Z"
+    "createdAt": "2025-11-06T02:21:24.588Z",
+    "ageRating": null,
+    "network": "Kakao TV"
   },
   {
     "id": "236838",
@@ -931,7 +999,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:25.591Z"
+    "createdAt": "2025-11-06T02:21:25.591Z",
+    "ageRating": null,
+    "network": "ONE 31"
   },
   {
     "id": "96648",
@@ -965,7 +1035,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:21:27.331Z"
+    "createdAt": "2025-11-06T02:21:27.331Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "136368",
@@ -991,7 +1063,9 @@
         "episodesCount": 9
       }
     ],
-    "createdAt": "2025-11-06T02:21:28.388Z"
+    "createdAt": "2025-11-06T02:21:28.388Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "154824",
@@ -1017,7 +1091,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:21:29.420Z"
+    "createdAt": "2025-11-06T02:21:29.420Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "119878",
@@ -1043,7 +1119,9 @@
         "episodesCount": 50
       }
     ],
-    "createdAt": "2025-11-06T02:21:30.512Z"
+    "createdAt": "2025-11-06T02:21:30.512Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "74829",
@@ -1069,7 +1147,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:31.537Z"
+    "createdAt": "2025-11-06T02:21:31.537Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "282905",
@@ -1095,7 +1175,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:21:32.569Z"
+    "createdAt": "2025-11-06T02:21:32.569Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "290160",
@@ -1121,7 +1203,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:21:34.524Z"
+    "createdAt": "2025-11-06T02:21:34.524Z",
+    "ageRating": null,
+    "network": "Prime Video"
   },
   {
     "id": "68945",
@@ -1147,7 +1231,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:21:37.539Z"
+    "createdAt": "2025-11-06T02:21:37.539Z",
+    "ageRating": null,
+    "network": "NAVER TV"
   },
   {
     "id": "84155",
@@ -1177,7 +1263,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:21:38.907Z"
+    "createdAt": "2025-11-06T02:21:38.907Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "113268",
@@ -1207,7 +1295,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:21:40.223Z"
+    "createdAt": "2025-11-06T02:21:40.223Z",
+    "ageRating": "TV-MA",
+    "network": "OCN"
   },
   {
     "id": "82462",
@@ -1233,7 +1323,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:41.212Z"
+    "createdAt": "2025-11-06T02:21:41.212Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "96777",
@@ -1259,7 +1351,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:21:48.034Z"
+    "createdAt": "2025-11-06T02:21:48.034Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "214422",
@@ -1285,7 +1379,9 @@
         "episodesCount": 50
       }
     ],
-    "createdAt": "2025-11-06T02:21:49.071Z"
+    "createdAt": "2025-11-06T02:21:49.071Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "258025",
@@ -1311,7 +1407,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:21:51.096Z"
+    "createdAt": "2025-11-06T02:21:51.096Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "86546",
@@ -1337,7 +1435,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:21:53.130Z"
+    "createdAt": "2025-11-06T02:21:53.130Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "67018",
@@ -1363,7 +1463,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:21:54.158Z"
+    "createdAt": "2025-11-06T02:21:54.158Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "211746",
@@ -1389,7 +1491,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:21:55.133Z"
+    "createdAt": "2025-11-06T02:21:55.133Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "230775",
@@ -1415,7 +1519,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:21:56.150Z"
+    "createdAt": "2025-11-06T02:21:56.150Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "241473",
@@ -1441,7 +1547,9 @@
         "episodesCount": 4
       }
     ],
-    "createdAt": "2025-11-06T02:21:58.188Z"
+    "createdAt": "2025-11-06T02:21:58.188Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "206693",
@@ -1467,7 +1575,9 @@
         "episodesCount": 21
       }
     ],
-    "createdAt": "2025-11-06T02:21:59.154Z"
+    "createdAt": "2025-11-06T02:21:59.154Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "110356",
@@ -1493,7 +1603,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:22:00.148Z"
+    "createdAt": "2025-11-06T02:22:00.148Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "271018",
@@ -1519,7 +1631,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:22:05.660Z"
+    "createdAt": "2025-11-06T02:22:05.660Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "281967",
@@ -1545,7 +1659,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:22:07.697Z"
+    "createdAt": "2025-11-06T02:22:07.697Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "108146",
@@ -1571,7 +1687,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:22:09.698Z"
+    "createdAt": "2025-11-06T02:22:09.698Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "293017",
@@ -1597,7 +1715,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:22:10.768Z"
+    "createdAt": "2025-11-06T02:22:10.768Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "109629",
@@ -1623,7 +1743,9 @@
         "episodesCount": 50
       }
     ],
-    "createdAt": "2025-11-06T02:22:11.771Z"
+    "createdAt": "2025-11-06T02:22:11.771Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "288717",
@@ -1649,7 +1771,9 @@
         "episodesCount": 18
       }
     ],
-    "createdAt": "2025-11-06T02:22:13.797Z"
+    "createdAt": "2025-11-06T02:22:13.797Z",
+    "ageRating": null,
+    "network": "bilibili"
   },
   {
     "id": "205319",
@@ -1675,7 +1799,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:22:15.843Z"
+    "createdAt": "2025-11-06T02:22:15.843Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "110534",
@@ -1705,7 +1831,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:22:17.154Z"
+    "createdAt": "2025-11-06T02:22:17.154Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "233205",
@@ -1731,7 +1859,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:22:19.193Z"
+    "createdAt": "2025-11-06T02:22:19.193Z",
+    "ageRating": "TV-PG",
+    "network": "tvN"
   },
   {
     "id": "258256",
@@ -1757,7 +1887,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:22:21.216Z"
+    "createdAt": "2025-11-06T02:22:21.216Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "135238",
@@ -1787,7 +1919,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:22:26.997Z"
+    "createdAt": "2025-11-06T02:22:26.997Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "67915",
@@ -1813,7 +1947,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:22:28.007Z"
+    "createdAt": "2025-11-06T02:22:28.007Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "68947",
@@ -1839,7 +1975,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:22:29.023Z"
+    "createdAt": "2025-11-06T02:22:29.023Z",
+    "ageRating": "NR",
+    "network": "KBS2"
   },
   {
     "id": "152511",
@@ -1865,7 +2003,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:22:30.021Z"
+    "createdAt": "2025-11-06T02:22:30.021Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "90814",
@@ -1891,7 +2031,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:22:30.993Z"
+    "createdAt": "2025-11-06T02:22:30.993Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "278331",
@@ -1917,7 +2059,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:22:32.023Z"
+    "createdAt": "2025-11-06T02:22:32.023Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "194797",
@@ -1943,7 +2087,9 @@
         "episodesCount": 9
       }
     ],
-    "createdAt": "2025-11-06T02:23:37.687Z"
+    "createdAt": "2025-11-06T02:23:37.687Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "222233",
@@ -1969,7 +2115,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:23:38.630Z"
+    "createdAt": "2025-11-06T02:23:38.630Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "215001",
@@ -1995,7 +2143,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:23:39.554Z"
+    "createdAt": "2025-11-06T02:23:39.554Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "290054",
@@ -2021,7 +2171,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:23:40.479Z"
+    "createdAt": "2025-11-06T02:23:40.479Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "67084",
@@ -2047,7 +2199,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:23:47.994Z"
+    "createdAt": "2025-11-06T02:23:47.994Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "216310",
@@ -2073,7 +2227,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:23:48.937Z"
+    "createdAt": "2025-11-06T02:23:48.937Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "210107",
@@ -2099,7 +2255,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:23:49.911Z"
+    "createdAt": "2025-11-06T02:23:49.911Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "157236",
@@ -2125,7 +2283,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:23:50.835Z"
+    "createdAt": "2025-11-06T02:23:50.835Z",
+    "ageRating": null,
+    "network": "TV Chosun"
   },
   {
     "id": "74074",
@@ -2151,7 +2311,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:23:51.813Z"
+    "createdAt": "2025-11-06T02:23:51.813Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "232766",
@@ -2177,7 +2339,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:23:52.792Z"
+    "createdAt": "2025-11-06T02:23:52.792Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "247590",
@@ -2207,7 +2371,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:23:55.014Z"
+    "createdAt": "2025-11-06T02:23:55.014Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "233219",
@@ -2233,7 +2399,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:23:56.872Z"
+    "createdAt": "2025-11-06T02:23:56.872Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "233221",
@@ -2259,7 +2427,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:23:57.805Z"
+    "createdAt": "2025-11-06T02:23:57.805Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "292609",
@@ -2285,7 +2455,9 @@
         "episodesCount": 29
       }
     ],
-    "createdAt": "2025-11-06T02:23:58.778Z"
+    "createdAt": "2025-11-06T02:23:58.778Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "283776",
@@ -2311,7 +2483,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:23:59.697Z"
+    "createdAt": "2025-11-06T02:23:59.697Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "285631",
@@ -2337,7 +2511,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:24:01.566Z"
+    "createdAt": "2025-11-06T02:24:01.566Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "231280",
@@ -2363,7 +2539,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:24:02.542Z"
+    "createdAt": "2025-11-06T02:24:02.542Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "259857",
@@ -2389,7 +2567,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:24:03.469Z"
+    "createdAt": "2025-11-06T02:24:03.469Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "283167",
@@ -2415,7 +2595,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:24:05.335Z"
+    "createdAt": "2025-11-06T02:24:05.335Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "196474",
@@ -2441,7 +2623,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:24:06.286Z"
+    "createdAt": "2025-11-06T02:24:06.286Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "132171",
@@ -2467,7 +2651,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:24:07.304Z"
+    "createdAt": "2025-11-06T02:24:07.304Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "114395",
@@ -2493,7 +2679,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:24:14.698Z"
+    "createdAt": "2025-11-06T02:24:14.698Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "81821",
@@ -2519,7 +2707,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:24:15.633Z"
+    "createdAt": "2025-11-06T02:24:15.633Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "88463",
@@ -2549,7 +2739,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:24:17.825Z"
+    "createdAt": "2025-11-06T02:24:17.825Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "135157",
@@ -2579,7 +2771,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:24:19.091Z"
+    "createdAt": "2025-11-06T02:24:19.091Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "261980",
@@ -2605,7 +2799,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:24:24.288Z"
+    "createdAt": "2025-11-06T02:24:24.288Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "253769",
@@ -2631,7 +2827,9 @@
         "episodesCount": 33
       }
     ],
-    "createdAt": "2025-11-06T02:24:26.168Z"
+    "createdAt": "2025-11-06T02:24:26.168Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "246093",
@@ -2657,7 +2855,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:24:27.090Z"
+    "createdAt": "2025-11-06T02:24:27.090Z",
+    "ageRating": null,
+    "network": "True4U"
   },
   {
     "id": "250178",
@@ -2683,7 +2883,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:24:28.017Z"
+    "createdAt": "2025-11-06T02:24:28.017Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "288091",
@@ -2709,7 +2911,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-06T02:24:29.896Z"
+    "createdAt": "2025-11-06T02:24:29.896Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "214582",
@@ -2739,7 +2943,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:24:31.490Z"
+    "createdAt": "2025-11-06T02:24:31.490Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "227191",
@@ -2765,7 +2971,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:24:32.416Z"
+    "createdAt": "2025-11-06T02:24:32.416Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "270848",
@@ -2791,7 +2999,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:24:33.346Z"
+    "createdAt": "2025-11-06T02:24:33.346Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "288888",
@@ -2817,7 +3027,9 @@
         "episodesCount": 31
       }
     ],
-    "createdAt": "2025-11-06T02:24:34.271Z"
+    "createdAt": "2025-11-06T02:24:34.271Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "259486",
@@ -2843,7 +3055,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:24:35.297Z"
+    "createdAt": "2025-11-06T02:24:35.297Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "99966",
@@ -2869,7 +3083,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:24:39.348Z"
+    "createdAt": "2025-11-06T02:24:39.348Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "261592",
@@ -2895,7 +3111,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T02:24:40.386Z"
+    "createdAt": "2025-11-06T02:24:40.386Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "288009",
@@ -2921,7 +3139,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:24:41.445Z"
+    "createdAt": "2025-11-06T02:24:41.445Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "288006",
@@ -2947,7 +3167,9 @@
         "episodesCount": 31
       }
     ],
-    "createdAt": "2025-11-06T02:24:42.419Z"
+    "createdAt": "2025-11-06T02:24:42.419Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "235355",
@@ -2973,7 +3195,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:24:43.405Z"
+    "createdAt": "2025-11-06T02:24:43.405Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "262828",
@@ -2999,7 +3223,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:24:44.467Z"
+    "createdAt": "2025-11-06T02:24:44.467Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "138291",
@@ -3025,7 +3251,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:24:45.535Z"
+    "createdAt": "2025-11-06T02:24:45.535Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "288556",
@@ -3051,7 +3279,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:24:46.515Z"
+    "createdAt": "2025-11-06T02:24:46.515Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "283161",
@@ -3077,7 +3307,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:24:53.148Z"
+    "createdAt": "2025-11-06T02:24:53.148Z",
+    "ageRating": null,
+    "network": "Mango TV"
   },
   {
     "id": "255095",
@@ -3103,7 +3335,9 @@
         "episodesCount": 28
       }
     ],
-    "createdAt": "2025-11-06T02:24:55.114Z"
+    "createdAt": "2025-11-06T02:24:55.114Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "196131",
@@ -3129,7 +3363,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:24:57.192Z"
+    "createdAt": "2025-11-06T02:24:57.192Z",
+    "ageRating": null,
+    "network": "YouTube"
   },
   {
     "id": "212204",
@@ -3155,7 +3391,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:24:58.164Z"
+    "createdAt": "2025-11-06T02:24:58.164Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "286445",
@@ -3181,7 +3419,9 @@
         "episodesCount": 31
       }
     ],
-    "createdAt": "2025-11-06T02:24:59.270Z"
+    "createdAt": "2025-11-06T02:24:59.270Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "239077",
@@ -3207,7 +3447,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:25:01.278Z"
+    "createdAt": "2025-11-06T02:25:01.278Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "233686",
@@ -3233,7 +3475,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:25:02.280Z"
+    "createdAt": "2025-11-06T02:25:02.280Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "258070",
@@ -3259,7 +3503,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T02:25:03.262Z"
+    "createdAt": "2025-11-06T02:25:03.262Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "252572",
@@ -3285,7 +3531,9 @@
         "episodesCount": 17
       }
     ],
-    "createdAt": "2025-11-06T02:25:04.234Z"
+    "createdAt": "2025-11-06T02:25:04.234Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "258764",
@@ -3311,7 +3559,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:25:05.220Z"
+    "createdAt": "2025-11-06T02:25:05.220Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "235611",
@@ -3337,7 +3587,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:25:10.163Z"
+    "createdAt": "2025-11-06T02:25:10.163Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "285872",
@@ -3363,7 +3615,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:25:11.205Z"
+    "createdAt": "2025-11-06T02:25:11.205Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "87606",
@@ -3389,7 +3643,9 @@
         "episodesCount": 34
       }
     ],
-    "createdAt": "2025-11-06T02:25:12.183Z"
+    "createdAt": "2025-11-06T02:25:12.183Z",
+    "ageRating": null,
+    "network": "ONE 31"
   },
   {
     "id": "262741",
@@ -3415,7 +3671,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:25:13.243Z"
+    "createdAt": "2025-11-06T02:25:13.243Z",
+    "ageRating": null,
+    "network": "Mango TV"
   },
   {
     "id": "224819",
@@ -3441,7 +3699,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:25:14.248Z"
+    "createdAt": "2025-11-06T02:25:14.248Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "261981",
@@ -3467,7 +3727,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:25:16.230Z"
+    "createdAt": "2025-11-06T02:25:16.230Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "281006",
@@ -3493,7 +3755,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:25:17.309Z"
+    "createdAt": "2025-11-06T02:25:17.309Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "206219",
@@ -3519,7 +3783,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:25:18.362Z"
+    "createdAt": "2025-11-06T02:25:18.362Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "287267",
@@ -3545,7 +3811,9 @@
         "episodesCount": 101
       }
     ],
-    "createdAt": "2025-11-06T02:25:20.423Z"
+    "createdAt": "2025-11-06T02:25:20.423Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "280016",
@@ -3571,7 +3839,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:25:22.726Z"
+    "createdAt": "2025-11-06T02:25:22.726Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "286446",
@@ -3597,7 +3867,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:25:36.266Z"
+    "createdAt": "2025-11-06T02:25:36.266Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "289814",
@@ -3623,7 +3895,9 @@
         "episodesCount": 22
       }
     ],
-    "createdAt": "2025-11-06T02:25:39.369Z"
+    "createdAt": "2025-11-06T02:25:39.369Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "260555",
@@ -3649,7 +3923,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:25:40.370Z"
+    "createdAt": "2025-11-06T02:25:40.370Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "261588",
@@ -3675,7 +3951,9 @@
         "episodesCount": 28
       }
     ],
-    "createdAt": "2025-11-06T02:25:42.494Z"
+    "createdAt": "2025-11-06T02:25:42.494Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "288702",
@@ -3701,7 +3979,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:25:43.543Z"
+    "createdAt": "2025-11-06T02:25:43.543Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "204160",
@@ -3727,7 +4007,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:25:44.582Z"
+    "createdAt": "2025-11-06T02:25:44.582Z",
+    "ageRating": null,
+    "network": "Mango TV"
   },
   {
     "id": "226270",
@@ -3753,7 +4035,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:25:45.561Z"
+    "createdAt": "2025-11-06T02:25:45.561Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "252920",
@@ -3779,7 +4063,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:25:46.545Z"
+    "createdAt": "2025-11-06T02:25:46.545Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "254389",
@@ -3805,7 +4091,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:25:47.552Z"
+    "createdAt": "2025-11-06T02:25:47.552Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "200709",
@@ -3835,7 +4123,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:25:48.903Z"
+    "createdAt": "2025-11-06T02:25:48.903Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "287429",
@@ -3861,7 +4151,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:25:50.903Z"
+    "createdAt": "2025-11-06T02:25:50.903Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "137040",
@@ -3887,7 +4179,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:25:51.868Z"
+    "createdAt": "2025-11-06T02:25:51.868Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "261586",
@@ -3913,7 +4207,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:25:52.854Z"
+    "createdAt": "2025-11-06T02:25:52.854Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "248244",
@@ -3939,7 +4235,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:25:53.854Z"
+    "createdAt": "2025-11-06T02:25:53.854Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "203164",
@@ -3965,7 +4263,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:25:55.825Z"
+    "createdAt": "2025-11-06T02:25:55.825Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "68814",
@@ -3991,7 +4291,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:25:56.852Z"
+    "createdAt": "2025-11-06T02:25:56.852Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "96462",
@@ -4017,7 +4319,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:25:57.910Z"
+    "createdAt": "2025-11-06T02:25:57.910Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "128995",
@@ -4047,7 +4351,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:25:59.641Z"
+    "createdAt": "2025-11-06T02:25:59.641Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "158347",
@@ -4073,7 +4379,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:26:00.665Z"
+    "createdAt": "2025-11-06T02:26:00.665Z",
+    "ageRating": null,
+    "network": "DRAMAcube"
   },
   {
     "id": "136644",
@@ -4099,7 +4407,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:01.650Z"
+    "createdAt": "2025-11-06T02:26:01.650Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "283300",
@@ -4125,7 +4435,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:26:02.683Z"
+    "createdAt": "2025-11-06T02:26:02.683Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "210213",
@@ -4155,7 +4467,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:10.678Z"
+    "createdAt": "2025-11-06T02:26:10.678Z",
+    "ageRating": "TV-14",
+    "network": "Disney+"
   },
   {
     "id": "245079",
@@ -4181,7 +4495,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:11.659Z"
+    "createdAt": "2025-11-06T02:26:11.659Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "242912",
@@ -4207,7 +4523,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:26:13.659Z"
+    "createdAt": "2025-11-06T02:26:13.659Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "153169",
@@ -4233,7 +4551,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:14.630Z"
+    "createdAt": "2025-11-06T02:26:14.630Z",
+    "ageRating": null,
+    "network": "bilibili"
   },
   {
     "id": "146102",
@@ -4259,7 +4579,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:26:15.698Z"
+    "createdAt": "2025-11-06T02:26:15.698Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "127008",
@@ -4285,7 +4607,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:16.714Z"
+    "createdAt": "2025-11-06T02:26:16.714Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "154230",
@@ -4311,7 +4635,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:17.742Z"
+    "createdAt": "2025-11-06T02:26:17.742Z",
+    "ageRating": null,
+    "network": "Seezn"
   },
   {
     "id": "156248",
@@ -4337,7 +4663,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:18.738Z"
+    "createdAt": "2025-11-06T02:26:18.738Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "138246",
@@ -4363,7 +4691,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:19.730Z"
+    "createdAt": "2025-11-06T02:26:19.730Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "132926",
@@ -4389,7 +4719,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:26:20.727Z"
+    "createdAt": "2025-11-06T02:26:20.727Z",
+    "ageRating": null,
+    "network": "iHQ"
   },
   {
     "id": "157208",
@@ -4415,7 +4747,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:21.805Z"
+    "createdAt": "2025-11-06T02:26:21.805Z",
+    "ageRating": null,
+    "network": "watcha"
   },
   {
     "id": "272030",
@@ -4441,7 +4775,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:26:22.783Z"
+    "createdAt": "2025-11-06T02:26:22.783Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "129889",
@@ -4467,7 +4803,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:23.816Z"
+    "createdAt": "2025-11-06T02:26:23.816Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "155535",
@@ -4493,7 +4831,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:26:24.819Z"
+    "createdAt": "2025-11-06T02:26:24.819Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "194820",
@@ -4519,7 +4859,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:25.818Z"
+    "createdAt": "2025-11-06T02:26:25.818Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "204654",
@@ -4549,7 +4891,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:26:27.141Z"
+    "createdAt": "2025-11-06T02:26:27.141Z",
+    "ageRating": null,
+    "network": "Coupang Play"
   },
   {
     "id": "115538",
@@ -4579,7 +4923,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:28.489Z"
+    "createdAt": "2025-11-06T02:26:28.489Z",
+    "ageRating": "TV-14",
+    "network": "Viki"
   },
   {
     "id": "157214",
@@ -4605,7 +4951,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:29.479Z"
+    "createdAt": "2025-11-06T02:26:29.479Z",
+    "ageRating": "TV-PG",
+    "network": "WeTV"
   },
   {
     "id": "270719",
@@ -4631,7 +4979,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:26:30.513Z"
+    "createdAt": "2025-11-06T02:26:30.513Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "263166",
@@ -4657,7 +5007,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:26:31.512Z"
+    "createdAt": "2025-11-06T02:26:31.512Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "154051",
@@ -4683,7 +5035,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:32.505Z"
+    "createdAt": "2025-11-06T02:26:32.505Z",
+    "ageRating": "TV-PG",
+    "network": "Viki"
   },
   {
     "id": "74021",
@@ -4709,7 +5063,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:33.517Z"
+    "createdAt": "2025-11-06T02:26:33.517Z",
+    "ageRating": null,
+    "network": "KBS1"
   },
   {
     "id": "135654",
@@ -4735,7 +5091,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:34.548Z"
+    "createdAt": "2025-11-06T02:26:34.548Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "247207",
@@ -4761,7 +5119,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-06T02:26:36.603Z"
+    "createdAt": "2025-11-06T02:26:36.603Z",
+    "ageRating": "TV-PG",
+    "network": "Youku"
   },
   {
     "id": "255298",
@@ -4787,7 +5147,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:26:37.619Z"
+    "createdAt": "2025-11-06T02:26:37.619Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "256050",
@@ -4813,7 +5175,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:26:38.617Z"
+    "createdAt": "2025-11-06T02:26:38.617Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "219246",
@@ -4839,7 +5203,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:26:39.579Z"
+    "createdAt": "2025-11-06T02:26:39.579Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "277050",
@@ -4865,7 +5231,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:26:49.694Z"
+    "createdAt": "2025-11-06T02:26:49.694Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "233961",
@@ -4891,7 +5259,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:26:50.723Z"
+    "createdAt": "2025-11-06T02:26:50.723Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "254391",
@@ -4917,7 +5287,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:26:51.847Z"
+    "createdAt": "2025-11-06T02:26:51.847Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "263043",
@@ -4943,7 +5315,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:26:52.864Z"
+    "createdAt": "2025-11-06T02:26:52.864Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "284914",
@@ -4969,7 +5343,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:26:53.849Z"
+    "createdAt": "2025-11-06T02:26:53.849Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "282792",
@@ -4995,7 +5371,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:26:55.845Z"
+    "createdAt": "2025-11-06T02:26:55.845Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "233860",
@@ -5021,7 +5399,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:26:56.844Z"
+    "createdAt": "2025-11-06T02:26:56.844Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "278421",
@@ -5047,7 +5427,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:26:57.926Z"
+    "createdAt": "2025-11-06T02:26:57.926Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "243081",
@@ -5073,7 +5455,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:26:58.993Z"
+    "createdAt": "2025-11-06T02:26:58.993Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "256128",
@@ -5099,7 +5483,9 @@
         "episodesCount": 28
       }
     ],
-    "createdAt": "2025-11-06T02:26:59.998Z"
+    "createdAt": "2025-11-06T02:26:59.998Z",
+    "ageRating": null,
+    "network": "Jiangsu Television"
   },
   {
     "id": "284857",
@@ -5125,7 +5511,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:27:01.045Z"
+    "createdAt": "2025-11-06T02:27:01.045Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "110533",
@@ -5151,7 +5539,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:02.038Z"
+    "createdAt": "2025-11-06T02:27:02.038Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "152471",
@@ -5177,7 +5567,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:03.095Z"
+    "createdAt": "2025-11-06T02:27:03.095Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "271309",
@@ -5203,7 +5595,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:04.211Z"
+    "createdAt": "2025-11-06T02:27:04.211Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "99480",
@@ -5233,7 +5627,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:05.517Z"
+    "createdAt": "2025-11-06T02:27:05.517Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "259015",
@@ -5259,7 +5655,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:08.606Z"
+    "createdAt": "2025-11-06T02:27:08.606Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "250060",
@@ -5285,7 +5683,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:27:09.631Z"
+    "createdAt": "2025-11-06T02:27:09.631Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "214997",
@@ -5311,7 +5711,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:10.617Z"
+    "createdAt": "2025-11-06T02:27:10.617Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "231281",
@@ -5337,7 +5739,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:27:11.634Z"
+    "createdAt": "2025-11-06T02:27:11.634Z",
+    "ageRating": null,
+    "network": "Coupang Play"
   },
   {
     "id": "155222",
@@ -5363,7 +5767,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:12.606Z"
+    "createdAt": "2025-11-06T02:27:12.606Z",
+    "ageRating": "TV-PG",
+    "network": "SBS"
   },
   {
     "id": "226331",
@@ -5389,7 +5795,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:27:13.595Z"
+    "createdAt": "2025-11-06T02:27:13.595Z",
+    "ageRating": null,
+    "network": "MBC Drama"
   },
   {
     "id": "211065",
@@ -5415,7 +5823,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:27:15.639Z"
+    "createdAt": "2025-11-06T02:27:15.639Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "205454",
@@ -5441,7 +5851,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:16.658Z"
+    "createdAt": "2025-11-06T02:27:16.658Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "255369",
@@ -5467,7 +5879,9 @@
         "episodesCount": 22
       }
     ],
-    "createdAt": "2025-11-06T02:27:26.339Z"
+    "createdAt": "2025-11-06T02:27:26.339Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "275179",
@@ -5493,7 +5907,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T02:27:27.342Z"
+    "createdAt": "2025-11-06T02:27:27.342Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "243964",
@@ -5519,7 +5935,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:27:28.298Z"
+    "createdAt": "2025-11-06T02:27:28.298Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "239017",
@@ -5545,7 +5963,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:29.309Z"
+    "createdAt": "2025-11-06T02:27:29.309Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "214557",
@@ -5571,7 +5991,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:27:30.307Z"
+    "createdAt": "2025-11-06T02:27:30.307Z",
+    "ageRating": null,
+    "network": "Viki"
   },
   {
     "id": "230524",
@@ -5597,7 +6019,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:31.311Z"
+    "createdAt": "2025-11-06T02:27:31.311Z",
+    "ageRating": null,
+    "network": "MBN"
   },
   {
     "id": "214891",
@@ -5623,7 +6047,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:32.619Z"
+    "createdAt": "2025-11-06T02:27:32.619Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "229915",
@@ -5649,7 +6075,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:33.688Z"
+    "createdAt": "2025-11-06T02:27:33.688Z",
+    "ageRating": null,
+    "network": "U+ Mobile TV"
   },
   {
     "id": "233277",
@@ -5675,7 +6103,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:34.655Z"
+    "createdAt": "2025-11-06T02:27:34.655Z",
+    "ageRating": null,
+    "network": "TV Chosun"
   },
   {
     "id": "197073",
@@ -5701,7 +6131,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:36.626Z"
+    "createdAt": "2025-11-06T02:27:36.626Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "201146",
@@ -5727,7 +6159,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:37.672Z"
+    "createdAt": "2025-11-06T02:27:37.672Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "116377",
@@ -5753,7 +6187,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:39.688Z"
+    "createdAt": "2025-11-06T02:27:39.688Z",
+    "ageRating": "TV-14",
+    "network": "Viki"
   },
   {
     "id": "75123",
@@ -5779,7 +6215,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:27:41.670Z"
+    "createdAt": "2025-11-06T02:27:41.670Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "197084",
@@ -5805,7 +6243,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:42.666Z"
+    "createdAt": "2025-11-06T02:27:42.666Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "218538",
@@ -5831,7 +6271,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:43.663Z"
+    "createdAt": "2025-11-06T02:27:43.663Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "206674",
@@ -5857,7 +6299,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:45.352Z"
+    "createdAt": "2025-11-06T02:27:45.352Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "209408",
@@ -5883,7 +6327,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:27:46.381Z"
+    "createdAt": "2025-11-06T02:27:46.381Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "84107",
@@ -5909,7 +6355,9 @@
         "episodesCount": 52
       }
     ],
-    "createdAt": "2025-11-06T02:27:48.487Z"
+    "createdAt": "2025-11-06T02:27:48.487Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "237508",
@@ -5935,7 +6383,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:50.474Z"
+    "createdAt": "2025-11-06T02:27:50.474Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "200707",
@@ -5965,7 +6415,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:27:51.831Z"
+    "createdAt": "2025-11-06T02:27:51.831Z",
+    "ageRating": "TV-MA",
+    "network": "SBS"
   },
   {
     "id": "271890",
@@ -5991,7 +6443,9 @@
         "episodesCount": 54
       }
     ],
-    "createdAt": "2025-11-06T02:27:53.903Z"
+    "createdAt": "2025-11-06T02:27:53.903Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "272945",
@@ -6017,7 +6471,9 @@
         "episodesCount": 28
       }
     ],
-    "createdAt": "2025-11-06T02:27:54.995Z"
+    "createdAt": "2025-11-06T02:27:54.995Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "254477",
@@ -6043,7 +6499,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:28:04.847Z"
+    "createdAt": "2025-11-06T02:28:04.847Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "275998",
@@ -6069,7 +6527,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:28:05.863Z"
+    "createdAt": "2025-11-06T02:28:05.863Z",
+    "ageRating": "TV-MA",
+    "network": "TBS"
   },
   {
     "id": "233742",
@@ -6095,7 +6555,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:28:08.895Z"
+    "createdAt": "2025-11-06T02:28:08.895Z",
+    "ageRating": null,
+    "network": "Coupang Play"
   },
   {
     "id": "238618",
@@ -6121,7 +6583,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:28:09.880Z"
+    "createdAt": "2025-11-06T02:28:09.880Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "119769",
@@ -6155,7 +6619,9 @@
         "episodesCount": 1
       }
     ],
-    "createdAt": "2025-11-06T02:28:11.538Z"
+    "createdAt": "2025-11-06T02:28:11.538Z",
+    "ageRating": "TV-MA",
+    "network": "SBS"
   },
   {
     "id": "259882",
@@ -6181,7 +6647,9 @@
         "episodesCount": 9
       }
     ],
-    "createdAt": "2025-11-06T02:28:12.547Z"
+    "createdAt": "2025-11-06T02:28:12.547Z",
+    "ageRating": "TV-MA",
+    "network": "WOWOW Prime"
   },
   {
     "id": "210781",
@@ -6207,7 +6675,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:28:15.628Z"
+    "createdAt": "2025-11-06T02:28:15.628Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "95212",
@@ -6233,7 +6703,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:28:16.657Z"
+    "createdAt": "2025-11-06T02:28:16.657Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "243761",
@@ -6259,7 +6731,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:28:18.002Z"
+    "createdAt": "2025-11-06T02:28:18.002Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "218632",
@@ -6285,7 +6759,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:28:19.976Z"
+    "createdAt": "2025-11-06T02:28:19.976Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "209502",
@@ -6311,7 +6787,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:28:20.978Z"
+    "createdAt": "2025-11-06T02:28:20.978Z",
+    "ageRating": "TV-14",
+    "network": "MBC"
   },
   {
     "id": "232610",
@@ -6337,7 +6815,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:28:22.024Z"
+    "createdAt": "2025-11-06T02:28:22.024Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "252774",
@@ -6363,7 +6843,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:28:23.016Z"
+    "createdAt": "2025-11-06T02:28:23.016Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "283022",
@@ -6389,7 +6871,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:28:24.030Z"
+    "createdAt": "2025-11-06T02:28:24.030Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "254821",
@@ -6415,7 +6899,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:28:25.083Z"
+    "createdAt": "2025-11-06T02:28:25.083Z",
+    "ageRating": "TV-14",
+    "network": "Mango TV"
   },
   {
     "id": "263139",
@@ -6441,7 +6927,9 @@
         "episodesCount": 33
       }
     ],
-    "createdAt": "2025-11-06T02:28:26.191Z"
+    "createdAt": "2025-11-06T02:28:26.191Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "217553",
@@ -6467,7 +6955,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:28:27.558Z"
+    "createdAt": "2025-11-06T02:28:27.558Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "233347",
@@ -6493,7 +6983,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:28:28.588Z"
+    "createdAt": "2025-11-06T02:28:28.588Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "106761",
@@ -6523,7 +7015,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:28:30.012Z"
+    "createdAt": "2025-11-06T02:28:30.012Z",
+    "ageRating": null,
+    "network": "OCN"
   },
   {
     "id": "282511",
@@ -6549,7 +7043,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:28:30.990Z"
+    "createdAt": "2025-11-06T02:28:30.990Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "229213",
@@ -6575,7 +7071,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:28:32.974Z"
+    "createdAt": "2025-11-06T02:28:32.974Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "263035",
@@ -6601,7 +7099,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:28:33.978Z"
+    "createdAt": "2025-11-06T02:28:33.978Z",
+    "ageRating": null,
+    "network": "Fuji TV"
   },
   {
     "id": "282261",
@@ -6627,7 +7127,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:28:35.007Z"
+    "createdAt": "2025-11-06T02:28:35.007Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "259188",
@@ -6653,7 +7155,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:28:36.991Z"
+    "createdAt": "2025-11-06T02:28:36.991Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "263050",
@@ -6679,7 +7183,9 @@
         "episodesCount": 42
       }
     ],
-    "createdAt": "2025-11-06T02:28:37.991Z"
+    "createdAt": "2025-11-06T02:28:37.991Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "274055",
@@ -6705,7 +7211,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:28:39.021Z"
+    "createdAt": "2025-11-06T02:28:39.021Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "239006",
@@ -6731,7 +7239,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:28:40.016Z"
+    "createdAt": "2025-11-06T02:28:40.016Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "279694",
@@ -6757,7 +7267,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:28:41.034Z"
+    "createdAt": "2025-11-06T02:28:41.034Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "130817",
@@ -6783,7 +7295,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:28:48.834Z"
+    "createdAt": "2025-11-06T02:28:48.834Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "278247",
@@ -6809,7 +7323,9 @@
         "episodesCount": 21
       }
     ],
-    "createdAt": "2025-11-06T02:28:49.881Z"
+    "createdAt": "2025-11-06T02:28:49.881Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "256725",
@@ -6835,7 +7351,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:28:50.880Z"
+    "createdAt": "2025-11-06T02:28:50.880Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "280983",
@@ -6861,7 +7379,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:28:51.880Z"
+    "createdAt": "2025-11-06T02:28:51.880Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "277488",
@@ -6887,7 +7407,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:28:52.911Z"
+    "createdAt": "2025-11-06T02:28:52.911Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "279849",
@@ -6913,7 +7435,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:28:53.912Z"
+    "createdAt": "2025-11-06T02:28:53.912Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "278969",
@@ -6939,7 +7463,9 @@
         "episodesCount": 31
       }
     ],
-    "createdAt": "2025-11-06T02:28:54.939Z"
+    "createdAt": "2025-11-06T02:28:54.939Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "90237",
@@ -6965,7 +7491,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:28:57.275Z"
+    "createdAt": "2025-11-06T02:28:57.275Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "238680",
@@ -6991,7 +7519,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:28:58.276Z"
+    "createdAt": "2025-11-06T02:28:58.276Z",
+    "ageRating": "NR",
+    "network": "iQiyi"
   },
   {
     "id": "261792",
@@ -7017,7 +7547,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:28:59.245Z"
+    "createdAt": "2025-11-06T02:28:59.245Z",
+    "ageRating": null,
+    "network": "Fuji TV"
   },
   {
     "id": "226103",
@@ -7043,7 +7575,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:00.235Z"
+    "createdAt": "2025-11-06T02:29:00.235Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "154822",
@@ -7069,7 +7603,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:29:01.256Z"
+    "createdAt": "2025-11-06T02:29:01.256Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "233100",
@@ -7095,7 +7631,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:02.228Z"
+    "createdAt": "2025-11-06T02:29:02.228Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "90706",
@@ -7121,7 +7659,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:29:03.243Z"
+    "createdAt": "2025-11-06T02:29:03.243Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "261360",
@@ -7147,7 +7687,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:29:04.235Z"
+    "createdAt": "2025-11-06T02:29:04.235Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "210218",
@@ -7173,7 +7715,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:29:05.202Z"
+    "createdAt": "2025-11-06T02:29:05.202Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "157847",
@@ -7199,7 +7743,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:06.196Z"
+    "createdAt": "2025-11-06T02:29:06.196Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "88974",
@@ -7225,7 +7771,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:29:10.242Z"
+    "createdAt": "2025-11-06T02:29:10.242Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "206619",
@@ -7251,7 +7799,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:29:11.287Z"
+    "createdAt": "2025-11-06T02:29:11.287Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "108285",
@@ -7277,7 +7827,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:12.262Z"
+    "createdAt": "2025-11-06T02:29:12.262Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "70649",
@@ -7303,7 +7855,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:29:13.407Z"
+    "createdAt": "2025-11-06T02:29:13.407Z",
+    "ageRating": "TV-14",
+    "network": "SBS"
   },
   {
     "id": "65712",
@@ -7329,7 +7883,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:14.567Z"
+    "createdAt": "2025-11-06T02:29:14.567Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "66272",
@@ -7355,7 +7911,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:29:15.584Z"
+    "createdAt": "2025-11-06T02:29:15.584Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "127358",
@@ -7381,7 +7939,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:16.578Z"
+    "createdAt": "2025-11-06T02:29:16.578Z",
+    "ageRating": "TV-MA",
+    "network": "MBC"
   },
   {
     "id": "93541",
@@ -7407,7 +7967,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:29:17.652Z"
+    "createdAt": "2025-11-06T02:29:17.652Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "246740",
@@ -7433,7 +7995,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:18.633Z"
+    "createdAt": "2025-11-06T02:29:18.633Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "279987",
@@ -7459,7 +8023,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:29:19.660Z"
+    "createdAt": "2025-11-06T02:29:19.660Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "132925",
@@ -7485,7 +8051,9 @@
         "episodesCount": 17
       }
     ],
-    "createdAt": "2025-11-06T02:29:20.629Z"
+    "createdAt": "2025-11-06T02:29:20.629Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "67391",
@@ -7511,7 +8079,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:29:22.641Z"
+    "createdAt": "2025-11-06T02:29:22.641Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "202625",
@@ -7537,7 +8107,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:31.747Z"
+    "createdAt": "2025-11-06T02:29:31.747Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "70452",
@@ -7563,7 +8135,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:29:32.720Z"
+    "createdAt": "2025-11-06T02:29:32.720Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "244071",
@@ -7589,7 +8163,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:33.760Z"
+    "createdAt": "2025-11-06T02:29:33.760Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "211796",
@@ -7615,7 +8191,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:35.714Z"
+    "createdAt": "2025-11-06T02:29:35.714Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "251444",
@@ -7641,7 +8219,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:29:36.684Z"
+    "createdAt": "2025-11-06T02:29:36.684Z",
+    "ageRating": null,
+    "network": "Channel A"
   },
   {
     "id": "197271",
@@ -7667,7 +8247,9 @@
         "episodesCount": 55
       }
     ],
-    "createdAt": "2025-11-06T02:29:37.732Z"
+    "createdAt": "2025-11-06T02:29:37.732Z",
+    "ageRating": null,
+    "network": "GMA Network"
   },
   {
     "id": "64812",
@@ -7693,7 +8275,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:29:38.731Z"
+    "createdAt": "2025-11-06T02:29:38.731Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "153496",
@@ -7719,7 +8303,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:29:39.700Z"
+    "createdAt": "2025-11-06T02:29:39.700Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "221007",
@@ -7745,7 +8331,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:40.708Z"
+    "createdAt": "2025-11-06T02:29:40.708Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "130789",
@@ -7771,7 +8359,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:29:41.757Z"
+    "createdAt": "2025-11-06T02:29:41.757Z",
+    "ageRating": null,
+    "network": "Coupang Play"
   },
   {
     "id": "68115",
@@ -7801,7 +8391,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:43.089Z"
+    "createdAt": "2025-11-06T02:29:43.089Z",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "243028",
@@ -7827,7 +8419,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:29:45.166Z"
+    "createdAt": "2025-11-06T02:29:45.166Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "127529",
@@ -7853,7 +8447,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:29:46.501Z"
+    "createdAt": "2025-11-06T02:29:46.501Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "221550",
@@ -7879,7 +8475,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:47.527Z"
+    "createdAt": "2025-11-06T02:29:47.527Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "261011",
@@ -7905,7 +8503,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:29:48.515Z"
+    "createdAt": "2025-11-06T02:29:48.515Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "276525",
@@ -7931,7 +8531,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-06T02:29:49.529Z"
+    "createdAt": "2025-11-06T02:29:49.529Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "272042",
@@ -7957,7 +8559,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:29:50.538Z"
+    "createdAt": "2025-11-06T02:29:50.538Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "274878",
@@ -7983,7 +8587,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:29:55.357Z"
+    "createdAt": "2025-11-06T02:29:55.357Z",
+    "ageRating": null,
+    "network": "KBS Joy"
   },
   {
     "id": "272043",
@@ -8009,7 +8615,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:29:56.377Z"
+    "createdAt": "2025-11-06T02:29:56.377Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "116042",
@@ -8079,7 +8687,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:01.261Z"
+    "createdAt": "2025-11-06T02:30:01.261Z",
+    "ageRating": "TV-PG",
+    "network": null
   },
   {
     "id": "262954",
@@ -8105,7 +8715,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:30:02.265Z"
+    "createdAt": "2025-11-06T02:30:02.265Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "278960",
@@ -8131,7 +8743,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:30:03.311Z"
+    "createdAt": "2025-11-06T02:30:03.311Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "275624",
@@ -8157,7 +8771,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:30:04.333Z"
+    "createdAt": "2025-11-06T02:30:04.333Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "277234",
@@ -8183,7 +8799,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:30:05.355Z"
+    "createdAt": "2025-11-06T02:30:05.355Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "278646",
@@ -8209,7 +8827,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:30:08.736Z"
+    "createdAt": "2025-11-06T02:30:08.736Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "276418",
@@ -8235,7 +8855,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:30:09.729Z"
+    "createdAt": "2025-11-06T02:30:09.729Z",
+    "ageRating": null,
+    "network": null
   },
   {
     "id": "226529",
@@ -8261,7 +8883,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:30:10.771Z"
+    "createdAt": "2025-11-06T02:30:10.771Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "271001",
@@ -8287,7 +8911,9 @@
         "episodesCount": 4
       }
     ],
-    "createdAt": "2025-11-06T02:30:11.804Z"
+    "createdAt": "2025-11-06T02:30:11.804Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "277764",
@@ -8313,7 +8939,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:30:12.814Z"
+    "createdAt": "2025-11-06T02:30:12.814Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "226649",
@@ -8339,7 +8967,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:30:14.903Z"
+    "createdAt": "2025-11-06T02:30:14.903Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "258463",
@@ -8365,7 +8995,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:30:21.662Z"
+    "createdAt": "2025-11-06T02:30:21.662Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "244463",
@@ -8391,7 +9023,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:22.667Z"
+    "createdAt": "2025-11-06T02:30:22.667Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "230777",
@@ -8417,7 +9051,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:30:23.660Z"
+    "createdAt": "2025-11-06T02:30:23.660Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "233971",
@@ -8443,7 +9079,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:30:26.719Z"
+    "createdAt": "2025-11-06T02:30:26.719Z",
+    "ageRating": "TV-PG",
+    "network": "CCTV-8"
   },
   {
     "id": "277882",
@@ -8469,7 +9107,9 @@
         "episodesCount": 48
       }
     ],
-    "createdAt": "2025-11-06T02:30:27.731Z"
+    "createdAt": "2025-11-06T02:30:27.731Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "277037",
@@ -8495,7 +9135,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:30:28.728Z"
+    "createdAt": "2025-11-06T02:30:28.728Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "277520",
@@ -8521,7 +9163,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:30:29.732Z"
+    "createdAt": "2025-11-06T02:30:29.732Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "253905",
@@ -8547,7 +9191,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:30.798Z"
+    "createdAt": "2025-11-06T02:30:30.798Z",
+    "ageRating": "TV-14",
+    "network": "MBC"
   },
   {
     "id": "270853",
@@ -8573,7 +9219,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:30:31.786Z"
+    "createdAt": "2025-11-06T02:30:31.786Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "275969",
@@ -8599,7 +9247,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:30:32.779Z"
+    "createdAt": "2025-11-06T02:30:32.779Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "275963",
@@ -8625,7 +9275,9 @@
         "episodesCount": 35
       }
     ],
-    "createdAt": "2025-11-06T02:30:33.754Z"
+    "createdAt": "2025-11-06T02:30:33.754Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "83246",
@@ -8651,7 +9303,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:30:34.760Z"
+    "createdAt": "2025-11-06T02:30:34.760Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "236437",
@@ -8677,7 +9331,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:35.767Z"
+    "createdAt": "2025-11-06T02:30:35.767Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "281011",
@@ -8703,7 +9359,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:36.764Z"
+    "createdAt": "2025-11-06T02:30:36.764Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "277021",
@@ -8729,7 +9387,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:30:37.719Z"
+    "createdAt": "2025-11-06T02:30:37.719Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "276270",
@@ -8755,7 +9415,9 @@
         "episodesCount": 21
       }
     ],
-    "createdAt": "2025-11-06T02:30:38.767Z"
+    "createdAt": "2025-11-06T02:30:38.767Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "272940",
@@ -8781,7 +9443,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:30:39.796Z"
+    "createdAt": "2025-11-06T02:30:39.796Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "276300",
@@ -8807,7 +9471,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:30:40.765Z"
+    "createdAt": "2025-11-06T02:30:40.765Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "86830",
@@ -8837,7 +9503,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:42.093Z"
+    "createdAt": "2025-11-06T02:30:42.093Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "253767",
@@ -8863,7 +9531,9 @@
         "episodesCount": 34
       }
     ],
-    "createdAt": "2025-11-06T02:30:43.127Z"
+    "createdAt": "2025-11-06T02:30:43.127Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "230448",
@@ -8889,7 +9559,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:30:45.171Z"
+    "createdAt": "2025-11-06T02:30:45.171Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "245264",
@@ -8915,7 +9587,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:46.201Z"
+    "createdAt": "2025-11-06T02:30:46.201Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "218631",
@@ -8941,7 +9615,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:30:49.256Z"
+    "createdAt": "2025-11-06T02:30:49.256Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "253029",
@@ -8967,7 +9643,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:30:50.225Z"
+    "createdAt": "2025-11-06T02:30:50.225Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "273081",
@@ -8993,7 +9671,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:30:51.214Z"
+    "createdAt": "2025-11-06T02:30:51.214Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "240440",
@@ -9019,7 +9699,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:30:52.240Z"
+    "createdAt": "2025-11-06T02:30:52.240Z",
+    "ageRating": "TV-14",
+    "network": "Youku"
   },
   {
     "id": "243084",
@@ -9045,7 +9727,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:30:53.282Z"
+    "createdAt": "2025-11-06T02:30:53.282Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "275381",
@@ -9071,7 +9755,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:30:54.307Z"
+    "createdAt": "2025-11-06T02:30:54.307Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "287010",
@@ -9097,7 +9783,9 @@
         "episodesCount": 50
       }
     ],
-    "createdAt": "2025-11-06T02:30:56.339Z"
+    "createdAt": "2025-11-06T02:30:56.339Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "239389",
@@ -9123,7 +9811,9 @@
         "episodesCount": 34
       }
     ],
-    "createdAt": "2025-11-06T02:31:06.234Z"
+    "createdAt": "2025-11-06T02:31:06.234Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "273177",
@@ -9149,7 +9839,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:31:07.236Z"
+    "createdAt": "2025-11-06T02:31:07.236Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "106651",
@@ -9179,7 +9871,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:31:08.580Z"
+    "createdAt": "2025-11-06T02:31:08.580Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "271336",
@@ -9205,7 +9899,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:31:09.559Z"
+    "createdAt": "2025-11-06T02:31:09.559Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "256116",
@@ -9231,7 +9927,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:31:10.570Z"
+    "createdAt": "2025-11-06T02:31:10.570Z",
+    "ageRating": "TV-14",
+    "network": "Prime Video"
   },
   {
     "id": "270713",
@@ -9257,7 +9955,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-06T02:31:11.595Z"
+    "createdAt": "2025-11-06T02:31:11.595Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "255074",
@@ -9283,7 +9983,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:31:13.765Z"
+    "createdAt": "2025-11-06T02:31:13.765Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "249826",
@@ -9309,7 +10011,9 @@
         "episodesCount": 18
       }
     ],
-    "createdAt": "2025-11-06T02:31:14.772Z"
+    "createdAt": "2025-11-06T02:31:14.772Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "97758",
@@ -9335,7 +10039,9 @@
         "episodesCount": 115
       }
     ],
-    "createdAt": "2025-11-06T02:31:15.759Z"
+    "createdAt": "2025-11-06T02:31:15.759Z",
+    "ageRating": null,
+    "network": "ABS-CBN"
   },
   {
     "id": "243073",
@@ -9361,7 +10067,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:31:16.754Z"
+    "createdAt": "2025-11-06T02:31:16.754Z",
+    "ageRating": "TV-14",
+    "network": "Youku"
   },
   {
     "id": "95734",
@@ -9387,7 +10095,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:31:17.779Z"
+    "createdAt": "2025-11-06T02:31:17.779Z",
+    "ageRating": null,
+    "network": "ICI TOU.TV Extra"
   },
   {
     "id": "214528",
@@ -9413,7 +10123,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:31:18.782Z"
+    "createdAt": "2025-11-06T02:31:18.782Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "255086",
@@ -9439,7 +10151,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:31:19.815Z"
+    "createdAt": "2025-11-06T02:31:19.815Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "220089",
@@ -9465,7 +10179,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:31:20.825Z"
+    "createdAt": "2025-11-06T02:31:20.825Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "229036",
@@ -9491,7 +10207,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:31:21.835Z"
+    "createdAt": "2025-11-06T02:31:21.835Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "263037",
@@ -9517,7 +10235,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:31:22.849Z"
+    "createdAt": "2025-11-06T02:31:22.849Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "237565",
@@ -9543,7 +10263,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:31:23.907Z"
+    "createdAt": "2025-11-06T02:31:23.907Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "255105",
@@ -9569,7 +10291,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T02:31:24.921Z"
+    "createdAt": "2025-11-06T02:31:24.921Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "271290",
@@ -9595,7 +10319,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:31:25.903Z"
+    "createdAt": "2025-11-06T02:31:25.903Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "252523",
@@ -9621,7 +10347,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:31:26.917Z"
+    "createdAt": "2025-11-06T02:31:26.917Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "263051",
@@ -9647,7 +10375,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T02:31:27.893Z"
+    "createdAt": "2025-11-06T02:31:27.893Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "273307",
@@ -9673,7 +10403,9 @@
         "episodesCount": 2
       }
     ],
-    "createdAt": "2025-11-06T02:31:28.855Z"
+    "createdAt": "2025-11-06T02:31:28.855Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "250385",
@@ -9699,7 +10431,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:31:29.857Z"
+    "createdAt": "2025-11-06T02:31:29.857Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "263040",
@@ -9725,7 +10459,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T02:31:31.175Z"
+    "createdAt": "2025-11-06T02:31:31.175Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "260835",
@@ -9751,7 +10487,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:31:34.260Z"
+    "createdAt": "2025-11-06T02:31:34.260Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "263078",
@@ -9777,7 +10515,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:31:35.281Z"
+    "createdAt": "2025-11-06T02:31:35.281Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "246808",
@@ -9803,7 +10543,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:31:37.220Z"
+    "createdAt": "2025-11-06T02:31:37.220Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "259771",
@@ -9829,7 +10571,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:31:38.258Z"
+    "createdAt": "2025-11-06T02:31:38.258Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "128722",
@@ -9855,7 +10599,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:31:39.241Z"
+    "createdAt": "2025-11-06T02:31:39.241Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "235577",
@@ -9881,7 +10627,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:31:40.231Z"
+    "createdAt": "2025-11-06T02:31:40.231Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "270680",
@@ -9907,7 +10655,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:31:41.204Z"
+    "createdAt": "2025-11-06T02:31:41.204Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "248818",
@@ -9933,7 +10683,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:31:42.225Z"
+    "createdAt": "2025-11-06T02:31:42.225Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "228414",
@@ -9959,7 +10711,9 @@
         "episodesCount": 27
       }
     ],
-    "createdAt": "2025-11-06T02:31:43.225Z"
+    "createdAt": "2025-11-06T02:31:43.225Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "250783",
@@ -9985,7 +10739,9 @@
         "episodesCount": 5
       }
     ],
-    "createdAt": "2025-11-06T02:31:44.220Z"
+    "createdAt": "2025-11-06T02:31:44.220Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "270503",
@@ -10011,7 +10767,9 @@
         "episodesCount": 29
       }
     ],
-    "createdAt": "2025-11-06T02:31:50.990Z"
+    "createdAt": "2025-11-06T02:31:50.990Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "243086",
@@ -10037,7 +10795,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:31:52.012Z"
+    "createdAt": "2025-11-06T02:31:52.012Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "239005",
@@ -10063,7 +10823,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:31:52.988Z"
+    "createdAt": "2025-11-06T02:31:52.988Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "252544",
@@ -10089,7 +10851,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:32:00.235Z"
+    "createdAt": "2025-11-06T02:32:00.235Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "94425",
@@ -10115,7 +10879,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:02.268Z"
+    "createdAt": "2025-11-06T02:32:02.268Z",
+    "ageRating": null,
+    "network": "OCN"
   },
   {
     "id": "108284",
@@ -10141,7 +10907,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:03.269Z"
+    "createdAt": "2025-11-06T02:32:03.269Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "119466",
@@ -10167,7 +10935,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:32:04.265Z"
+    "createdAt": "2025-11-06T02:32:04.265Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "82834",
@@ -10193,7 +10963,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:32:06.277Z"
+    "createdAt": "2025-11-06T02:32:06.277Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "157926",
@@ -10227,7 +10999,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:32:07.933Z"
+    "createdAt": "2025-11-06T02:32:07.933Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "68349",
@@ -10253,7 +11027,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:08.978Z"
+    "createdAt": "2025-11-06T02:32:08.978Z",
+    "ageRating": "TV-PG",
+    "network": "MBC"
   },
   {
     "id": "155459",
@@ -10279,7 +11055,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:32:09.973Z"
+    "createdAt": "2025-11-06T02:32:09.973Z",
+    "ageRating": "TV-14",
+    "network": "ENA"
   },
   {
     "id": "156406",
@@ -10305,7 +11083,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:11.004Z"
+    "createdAt": "2025-11-06T02:32:11.004Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "129888",
@@ -10331,7 +11111,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:12.039Z"
+    "createdAt": "2025-11-06T02:32:12.039Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "131028",
@@ -10357,7 +11139,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:32:13.051Z"
+    "createdAt": "2025-11-06T02:32:13.051Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "71497",
@@ -10383,7 +11167,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:32:16.014Z"
+    "createdAt": "2025-11-06T02:32:16.014Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "262905",
@@ -10409,7 +11195,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:32:17.041Z"
+    "createdAt": "2025-11-06T02:32:17.041Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "260868",
@@ -10435,7 +11223,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:18.059Z"
+    "createdAt": "2025-11-06T02:32:18.059Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "214999",
@@ -10461,7 +11251,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:32:19.058Z"
+    "createdAt": "2025-11-06T02:32:19.058Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "224732",
@@ -10487,7 +11279,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:32:23.437Z"
+    "createdAt": "2025-11-06T02:32:23.437Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "257221",
@@ -10513,7 +11307,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:32:24.435Z"
+    "createdAt": "2025-11-06T02:32:24.435Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "96977",
@@ -10539,7 +11335,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:25.475Z"
+    "createdAt": "2025-11-06T02:32:25.475Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "78797",
@@ -10565,7 +11363,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:32:27.453Z"
+    "createdAt": "2025-11-06T02:32:27.453Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "76557",
@@ -10595,7 +11395,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:29.959Z"
+    "createdAt": "2025-11-06T02:32:29.959Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "96161",
@@ -10621,7 +11423,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:30.968Z"
+    "createdAt": "2025-11-06T02:32:30.968Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "92983",
@@ -10647,7 +11451,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:31.932Z"
+    "createdAt": "2025-11-06T02:32:31.932Z",
+    "ageRating": "TV-MA",
+    "network": "SBS"
   },
   {
     "id": "123349",
@@ -10673,7 +11479,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:32:32.933Z"
+    "createdAt": "2025-11-06T02:32:32.933Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "252318",
@@ -10699,7 +11507,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:32:33.978Z"
+    "createdAt": "2025-11-06T02:32:33.978Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "229480",
@@ -10725,7 +11535,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:32:34.946Z"
+    "createdAt": "2025-11-06T02:32:34.946Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "93846",
@@ -10751,7 +11563,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:35.932Z"
+    "createdAt": "2025-11-06T02:32:35.932Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "197078",
@@ -10777,7 +11591,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:32:55.078Z"
+    "createdAt": "2025-11-06T02:32:55.078Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "72396",
@@ -10803,7 +11619,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:56.104Z"
+    "createdAt": "2025-11-06T02:32:56.104Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "233349",
@@ -10829,7 +11647,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:32:57.152Z"
+    "createdAt": "2025-11-06T02:32:57.152Z",
+    "ageRating": null,
+    "network": "Coupang Play"
   },
   {
     "id": "99048",
@@ -10855,7 +11675,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:58.176Z"
+    "createdAt": "2025-11-06T02:32:58.176Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "78385",
@@ -10881,7 +11703,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:32:59.167Z"
+    "createdAt": "2025-11-06T02:32:59.167Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "113965",
@@ -10907,7 +11731,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:01.204Z"
+    "createdAt": "2025-11-06T02:33:01.204Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "121695",
@@ -10933,7 +11759,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:03.613Z"
+    "createdAt": "2025-11-06T02:33:03.613Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "243076",
@@ -10959,7 +11787,9 @@
         "episodesCount": 37
       }
     ],
-    "createdAt": "2025-11-06T02:33:04.643Z"
+    "createdAt": "2025-11-06T02:33:04.643Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "245265",
@@ -10985,7 +11815,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:33:06.661Z"
+    "createdAt": "2025-11-06T02:33:06.661Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "130020",
@@ -11011,7 +11843,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:07.676Z"
+    "createdAt": "2025-11-06T02:33:07.676Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "72374",
@@ -11037,7 +11871,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:08.700Z"
+    "createdAt": "2025-11-06T02:33:08.700Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "90721",
@@ -11063,7 +11899,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:33:09.663Z"
+    "createdAt": "2025-11-06T02:33:09.663Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "97970",
@@ -11089,7 +11927,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:33:12.671Z"
+    "createdAt": "2025-11-06T02:33:12.671Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "71347",
@@ -11115,7 +11955,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:33:13.680Z"
+    "createdAt": "2025-11-06T02:33:13.680Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "69850",
@@ -11141,7 +11983,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:33:14.662Z"
+    "createdAt": "2025-11-06T02:33:14.662Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "70372",
@@ -11167,7 +12011,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:33:15.661Z"
+    "createdAt": "2025-11-06T02:33:15.661Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "258306",
@@ -11193,7 +12039,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:33:16.621Z"
+    "createdAt": "2025-11-06T02:33:16.621Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "241454",
@@ -11219,7 +12067,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:17.649Z"
+    "createdAt": "2025-11-06T02:33:17.649Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "240622",
@@ -11245,7 +12095,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:18.676Z"
+    "createdAt": "2025-11-06T02:33:18.676Z",
+    "ageRating": null,
+    "network": "TV Chosun"
   },
   {
     "id": "135658",
@@ -11271,7 +12123,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:33:19.686Z"
+    "createdAt": "2025-11-06T02:33:19.686Z",
+    "ageRating": "TV-MA",
+    "network": "MBC"
   },
   {
     "id": "261007",
@@ -11297,7 +12151,9 @@
         "episodesCount": 18
       }
     ],
-    "createdAt": "2025-11-06T02:33:21.681Z"
+    "createdAt": "2025-11-06T02:33:21.681Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "246748",
@@ -11323,7 +12179,9 @@
         "episodesCount": 4
       }
     ],
-    "createdAt": "2025-11-06T02:33:22.662Z"
+    "createdAt": "2025-11-06T02:33:22.662Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "237335",
@@ -11349,7 +12207,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:33:23.694Z"
+    "createdAt": "2025-11-06T02:33:23.694Z",
+    "ageRating": null,
+    "network": "GMM 25"
   },
   {
     "id": "84327",
@@ -11375,7 +12235,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:33:24.702Z"
+    "createdAt": "2025-11-06T02:33:24.702Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "258707",
@@ -11401,7 +12263,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:33:31.692Z"
+    "createdAt": "2025-11-06T02:33:31.692Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "112888",
@@ -11427,7 +12291,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:32.662Z"
+    "createdAt": "2025-11-06T02:33:32.662Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "88783",
@@ -11453,7 +12319,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:33:33.656Z"
+    "createdAt": "2025-11-06T02:33:33.656Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "136283",
@@ -11479,7 +12347,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:34.637Z"
+    "createdAt": "2025-11-06T02:33:34.637Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "119772",
@@ -11505,7 +12375,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:35.650Z"
+    "createdAt": "2025-11-06T02:33:35.650Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "80919",
@@ -11531,7 +12403,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:33:38.008Z"
+    "createdAt": "2025-11-06T02:33:38.008Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "110545",
@@ -11557,7 +12431,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:33:40.341Z"
+    "createdAt": "2025-11-06T02:33:40.341Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "113622",
@@ -11583,7 +12459,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:41.385Z"
+    "createdAt": "2025-11-06T02:33:41.385Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "215003",
@@ -11609,7 +12487,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:33:42.408Z"
+    "createdAt": "2025-11-06T02:33:42.408Z",
+    "ageRating": null,
+    "network": "Lifetime"
   },
   {
     "id": "127356",
@@ -11635,7 +12515,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:45.455Z"
+    "createdAt": "2025-11-06T02:33:45.455Z",
+    "ageRating": "TV-14",
+    "network": "KBS2"
   },
   {
     "id": "228547",
@@ -11661,7 +12543,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:33:46.475Z"
+    "createdAt": "2025-11-06T02:33:46.475Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "254993",
@@ -11687,7 +12571,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:33:47.512Z"
+    "createdAt": "2025-11-06T02:33:47.512Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "251599",
@@ -11713,7 +12599,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:33:48.477Z"
+    "createdAt": "2025-11-06T02:33:48.477Z",
+    "ageRating": null,
+    "network": "Beijing Television"
   },
   {
     "id": "133775",
@@ -11739,7 +12627,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:33:50.484Z"
+    "createdAt": "2025-11-06T02:33:50.484Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "112834",
@@ -11765,7 +12655,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:51.482Z"
+    "createdAt": "2025-11-06T02:33:51.482Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "69067",
@@ -11791,7 +12683,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:33:54.564Z"
+    "createdAt": "2025-11-06T02:33:54.564Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "133678",
@@ -11817,7 +12711,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:33:55.524Z"
+    "createdAt": "2025-11-06T02:33:55.524Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "113240",
@@ -11843,7 +12739,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:57.512Z"
+    "createdAt": "2025-11-06T02:33:57.512Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "97766",
@@ -11869,7 +12767,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:33:58.489Z"
+    "createdAt": "2025-11-06T02:33:58.489Z",
+    "ageRating": "TV-MA",
+    "network": "OCN"
   },
   {
     "id": "72549",
@@ -11895,7 +12795,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:33:59.477Z"
+    "createdAt": "2025-11-06T02:33:59.477Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "99047",
@@ -11921,7 +12823,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:00.562Z"
+    "createdAt": "2025-11-06T02:34:00.562Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "86640",
@@ -11947,7 +12851,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:01.576Z"
+    "createdAt": "2025-11-06T02:34:01.576Z",
+    "ageRating": "TV-14",
+    "network": "OCN"
   },
   {
     "id": "230351",
@@ -11973,7 +12879,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:34:02.572Z"
+    "createdAt": "2025-11-06T02:34:02.572Z",
+    "ageRating": null,
+    "network": "U+ Mobile TV"
   },
   {
     "id": "132603",
@@ -11999,7 +12907,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:03.587Z"
+    "createdAt": "2025-11-06T02:34:03.587Z",
+    "ageRating": null,
+    "network": "MBN"
   },
   {
     "id": "79070",
@@ -12029,7 +12939,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:34:04.895Z"
+    "createdAt": "2025-11-06T02:34:04.895Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "75552",
@@ -12055,7 +12967,9 @@
         "episodesCount": 5
       }
     ],
-    "createdAt": "2025-11-06T02:34:05.901Z"
+    "createdAt": "2025-11-06T02:34:05.901Z",
+    "ageRating": "TV-14",
+    "network": "SBS"
   },
   {
     "id": "135897",
@@ -12081,7 +12995,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:06.921Z"
+    "createdAt": "2025-11-06T02:34:06.921Z",
+    "ageRating": "TV-14",
+    "network": "SBS"
   },
   {
     "id": "129479",
@@ -12107,7 +13023,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:07.968Z"
+    "createdAt": "2025-11-06T02:34:07.968Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "89604",
@@ -12133,7 +13051,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:34:08.966Z"
+    "createdAt": "2025-11-06T02:34:08.966Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "126035",
@@ -12159,7 +13079,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:34:09.993Z"
+    "createdAt": "2025-11-06T02:34:09.993Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "119464",
@@ -12185,7 +13107,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:34:11.025Z"
+    "createdAt": "2025-11-06T02:34:11.025Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "99491",
@@ -12211,7 +13135,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:34:12.055Z"
+    "createdAt": "2025-11-06T02:34:12.055Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "85220",
@@ -12237,7 +13163,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:13.055Z"
+    "createdAt": "2025-11-06T02:34:13.055Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "235505",
@@ -12263,7 +13191,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:34:14.088Z"
+    "createdAt": "2025-11-06T02:34:14.088Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "135652",
@@ -12289,7 +13219,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:15.154Z"
+    "createdAt": "2025-11-06T02:34:15.154Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "83634",
@@ -12315,7 +13247,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:16.183Z"
+    "createdAt": "2025-11-06T02:34:16.183Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "127527",
@@ -12341,7 +13275,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:17.219Z"
+    "createdAt": "2025-11-06T02:34:17.219Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "259698",
@@ -12367,7 +13303,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:34:18.200Z"
+    "createdAt": "2025-11-06T02:34:18.200Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "260539",
@@ -12393,7 +13331,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:34:19.215Z"
+    "createdAt": "2025-11-06T02:34:19.215Z",
+    "ageRating": null,
+    "network": "Mango TV"
   },
   {
     "id": "233960",
@@ -12419,7 +13359,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:34:20.177Z"
+    "createdAt": "2025-11-06T02:34:20.177Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "65728",
@@ -12445,7 +13387,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:30.669Z"
+    "createdAt": "2025-11-06T02:34:30.669Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "74076",
@@ -12471,7 +13415,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:33.350Z"
+    "createdAt": "2025-11-06T02:34:33.350Z",
+    "ageRating": "NR",
+    "network": "KBS2"
   },
   {
     "id": "76662",
@@ -12497,7 +13443,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:36.429Z"
+    "createdAt": "2025-11-06T02:34:36.429Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "154887",
@@ -12523,7 +13471,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:37.422Z"
+    "createdAt": "2025-11-06T02:34:37.422Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "80737",
@@ -12549,7 +13499,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:34:38.451Z"
+    "createdAt": "2025-11-06T02:34:38.451Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "96160",
@@ -12575,7 +13527,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:34:39.469Z"
+    "createdAt": "2025-11-06T02:34:39.469Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "87527",
@@ -12605,7 +13559,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:34:44.625Z"
+    "createdAt": "2025-11-06T02:34:44.625Z",
+    "ageRating": "TV-PG",
+    "network": "Netflix"
   },
   {
     "id": "75820",
@@ -12631,7 +13587,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:34:45.586Z"
+    "createdAt": "2025-11-06T02:34:45.586Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "108261",
@@ -12657,7 +13615,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:34:46.586Z"
+    "createdAt": "2025-11-06T02:34:46.586Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "125350",
@@ -12683,7 +13643,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T02:34:47.580Z"
+    "createdAt": "2025-11-06T02:34:47.580Z",
+    "ageRating": null,
+    "network": "Kakao TV"
   },
   {
     "id": "113710",
@@ -12709,7 +13671,9 @@
         "episodesCount": 17
       }
     ],
-    "createdAt": "2025-11-06T02:34:48.573Z"
+    "createdAt": "2025-11-06T02:34:48.573Z",
+    "ageRating": null,
+    "network": "Kakao TV"
   },
   {
     "id": "274561",
@@ -12735,7 +13699,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:34:50.560Z"
+    "createdAt": "2025-11-06T02:34:50.560Z",
+    "ageRating": null,
+    "network": "ONE 31"
   },
   {
     "id": "89641",
@@ -12765,7 +13731,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:34:51.898Z"
+    "createdAt": "2025-11-06T02:34:51.898Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "259902",
@@ -12791,7 +13759,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:34:52.868Z"
+    "createdAt": "2025-11-06T02:34:52.868Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "245081",
@@ -12817,7 +13787,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:35:00.075Z"
+    "createdAt": "2025-11-06T02:35:00.075Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "249906",
@@ -12843,7 +13815,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:35:01.068Z"
+    "createdAt": "2025-11-06T02:35:01.068Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "96162",
@@ -12869,7 +13843,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:02.067Z"
+    "createdAt": "2025-11-06T02:35:02.067Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "129475",
@@ -12895,7 +13871,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:35:03.074Z"
+    "createdAt": "2025-11-06T02:35:03.074Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "95110",
@@ -12921,7 +13899,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:06.800Z"
+    "createdAt": "2025-11-06T02:35:06.800Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "67014",
@@ -12951,7 +13931,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:35:08.154Z"
+    "createdAt": "2025-11-06T02:35:08.154Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "87553",
@@ -12977,7 +13959,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:09.182Z"
+    "createdAt": "2025-11-06T02:35:09.182Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "116045",
@@ -13003,7 +13987,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:10.227Z"
+    "createdAt": "2025-11-06T02:35:10.227Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "195747",
@@ -13029,7 +14015,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:12.266Z"
+    "createdAt": "2025-11-06T02:35:12.266Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "258924",
@@ -13055,7 +14043,9 @@
         "episodesCount": 15
       }
     ],
-    "createdAt": "2025-11-06T02:35:14.334Z"
+    "createdAt": "2025-11-06T02:35:14.334Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "243763",
@@ -13081,7 +14071,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:35:15.299Z"
+    "createdAt": "2025-11-06T02:35:15.299Z",
+    "ageRating": null,
+    "network": "U+ Mobile TV"
   },
   {
     "id": "210524",
@@ -13111,7 +14103,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-06T02:35:16.706Z"
+    "createdAt": "2025-11-06T02:35:16.706Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "258496",
@@ -13137,7 +14131,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:35:18.766Z"
+    "createdAt": "2025-11-06T02:35:18.766Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "243975",
@@ -13163,7 +14159,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:35:19.815Z"
+    "createdAt": "2025-11-06T02:35:19.815Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "233962",
@@ -13189,7 +14187,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:35:28.684Z"
+    "createdAt": "2025-11-06T02:35:28.684Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "120089",
@@ -13223,7 +14223,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T02:35:30.493Z"
+    "createdAt": "2025-11-06T02:35:30.493Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "219915",
@@ -13249,7 +14251,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:35:31.493Z"
+    "createdAt": "2025-11-06T02:35:31.493Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "227189",
@@ -13275,7 +14279,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:35:32.549Z"
+    "createdAt": "2025-11-06T02:35:32.549Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "258094",
@@ -13301,7 +14307,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:35:33.540Z"
+    "createdAt": "2025-11-06T02:35:33.540Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "101146",
@@ -13331,7 +14339,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:35:39.690Z"
+    "createdAt": "2025-11-06T02:35:39.690Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "250951",
@@ -13357,7 +14367,9 @@
         "episodesCount": 102
       }
     ],
-    "createdAt": "2025-11-06T02:35:40.858Z"
+    "createdAt": "2025-11-06T02:35:40.858Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "240114",
@@ -13383,7 +14395,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:35:42.195Z"
+    "createdAt": "2025-11-06T02:35:42.195Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "254181",
@@ -13409,7 +14423,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:35:45.194Z"
+    "createdAt": "2025-11-06T02:35:45.194Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "231749",
@@ -13435,7 +14451,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:46.194Z"
+    "createdAt": "2025-11-06T02:35:46.194Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "251309",
@@ -13461,7 +14479,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:35:47.196Z"
+    "createdAt": "2025-11-06T02:35:47.196Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "215000",
@@ -13487,7 +14507,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:48.255Z"
+    "createdAt": "2025-11-06T02:35:48.255Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "229202",
@@ -13513,7 +14535,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:35:49.239Z"
+    "createdAt": "2025-11-06T02:35:49.239Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "230778",
@@ -13539,7 +14563,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:35:50.260Z"
+    "createdAt": "2025-11-06T02:35:50.260Z",
+    "ageRating": null,
+    "network": null
   },
   {
     "id": "249188",
@@ -13565,7 +14591,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:51.239Z"
+    "createdAt": "2025-11-06T02:35:51.239Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "226527",
@@ -13591,7 +14619,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:35:52.293Z"
+    "createdAt": "2025-11-06T02:35:52.293Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "234061",
@@ -13617,7 +14647,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:35:53.303Z"
+    "createdAt": "2025-11-06T02:35:53.303Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "253219",
@@ -13643,7 +14675,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:35:54.356Z"
+    "createdAt": "2025-11-06T02:35:54.356Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "224030",
@@ -13669,7 +14703,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:35:55.331Z"
+    "createdAt": "2025-11-06T02:35:55.331Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "205599",
@@ -13695,7 +14731,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:35:57.369Z"
+    "createdAt": "2025-11-06T02:35:57.369Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "255008",
@@ -13721,7 +14759,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:35:58.346Z"
+    "createdAt": "2025-11-06T02:35:58.346Z",
+    "ageRating": null,
+    "network": "Sohu Video"
   },
   {
     "id": "156484",
@@ -13747,7 +14787,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:35:59.326Z"
+    "createdAt": "2025-11-06T02:35:59.326Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "209173",
@@ -13773,7 +14815,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:00.341Z"
+    "createdAt": "2025-11-06T02:36:00.341Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "233099",
@@ -13799,7 +14843,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:01.410Z"
+    "createdAt": "2025-11-06T02:36:01.410Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "94796",
@@ -13825,7 +14871,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:02.417Z"
+    "createdAt": "2025-11-06T02:36:02.417Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "234219",
@@ -13851,7 +14899,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:36:03.412Z"
+    "createdAt": "2025-11-06T02:36:03.412Z",
+    "ageRating": null,
+    "network": "wavve"
   },
   {
     "id": "241208",
@@ -13877,7 +14927,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:36:04.428Z"
+    "createdAt": "2025-11-06T02:36:04.428Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "253747",
@@ -13903,7 +14955,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:36:05.416Z"
+    "createdAt": "2025-11-06T02:36:05.416Z",
+    "ageRating": "NR",
+    "network": "iQiyi"
   },
   {
     "id": "249600",
@@ -13929,7 +14983,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:36:06.433Z"
+    "createdAt": "2025-11-06T02:36:06.433Z",
+    "ageRating": null,
+    "network": "Viu"
   },
   {
     "id": "116386",
@@ -13955,7 +15011,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:09.220Z"
+    "createdAt": "2025-11-06T02:36:09.220Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "232616",
@@ -13981,7 +15039,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:36:10.222Z"
+    "createdAt": "2025-11-06T02:36:10.222Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "66560",
@@ -14007,7 +15067,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:36:11.262Z"
+    "createdAt": "2025-11-06T02:36:11.262Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "253335",
@@ -14033,7 +15095,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:36:15.348Z"
+    "createdAt": "2025-11-06T02:36:15.348Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "89642",
@@ -14063,7 +15127,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:36:16.708Z"
+    "createdAt": "2025-11-06T02:36:16.708Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "138663",
@@ -14089,7 +15155,9 @@
         "episodesCount": 18
       }
     ],
-    "createdAt": "2025-11-06T02:36:17.731Z"
+    "createdAt": "2025-11-06T02:36:17.731Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "154825",
@@ -14115,7 +15183,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:36:18.717Z"
+    "createdAt": "2025-11-06T02:36:18.717Z",
+    "ageRating": "TV-14",
+    "network": "SBS"
   },
   {
     "id": "137520",
@@ -14141,7 +15211,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:19.705Z"
+    "createdAt": "2025-11-06T02:36:19.705Z",
+    "ageRating": "TV-MA",
+    "network": "tvN"
   },
   {
     "id": "261663",
@@ -14167,7 +15239,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:36:20.681Z"
+    "createdAt": "2025-11-06T02:36:20.681Z",
+    "ageRating": null,
+    "network": "Youku"
   },
   {
     "id": "75066",
@@ -14193,7 +15267,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:36:21.702Z"
+    "createdAt": "2025-11-06T02:36:21.702Z",
+    "ageRating": "TV-14",
+    "network": "KBS2"
   },
   {
     "id": "211705",
@@ -14219,7 +15295,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:36:28.609Z"
+    "createdAt": "2025-11-06T02:36:28.609Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "251779",
@@ -14245,7 +15323,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:36:29.657Z"
+    "createdAt": "2025-11-06T02:36:29.657Z",
+    "ageRating": null,
+    "network": "Xclusive"
   },
   {
     "id": "111292",
@@ -14271,7 +15351,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:36:30.660Z"
+    "createdAt": "2025-11-06T02:36:30.660Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "251945",
@@ -14297,7 +15379,9 @@
         "episodesCount": 21
       }
     ],
-    "createdAt": "2025-11-06T02:36:32.657Z"
+    "createdAt": "2025-11-06T02:36:32.657Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "222490",
@@ -14323,7 +15407,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T02:36:33.703Z"
+    "createdAt": "2025-11-06T02:36:33.703Z",
+    "ageRating": null,
+    "network": "Mango TV"
   },
   {
     "id": "244571",
@@ -14349,7 +15435,9 @@
         "episodesCount": 9
       }
     ],
-    "createdAt": "2025-11-06T02:36:35.024Z"
+    "createdAt": "2025-11-06T02:36:35.024Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "252136",
@@ -14375,7 +15463,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:36:37.012Z"
+    "createdAt": "2025-11-06T02:36:37.012Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "139547",
@@ -14401,7 +15491,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:36:39.118Z"
+    "createdAt": "2025-11-06T02:36:39.118Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "233954",
@@ -14427,7 +15519,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:36:40.123Z"
+    "createdAt": "2025-11-06T02:36:40.123Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "125437",
@@ -14453,7 +15547,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:41.147Z"
+    "createdAt": "2025-11-06T02:36:41.147Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "139280",
@@ -14479,7 +15575,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T02:36:42.168Z"
+    "createdAt": "2025-11-06T02:36:42.168Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "71748",
@@ -14505,7 +15603,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:36:43.146Z"
+    "createdAt": "2025-11-06T02:36:43.146Z",
+    "ageRating": "NR",
+    "network": "KBS2"
   },
   {
     "id": "244621",
@@ -14531,7 +15631,9 @@
         "episodesCount": 21
       }
     ],
-    "createdAt": "2025-11-06T02:36:44.123Z"
+    "createdAt": "2025-11-06T02:36:44.123Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "74821",
@@ -14557,7 +15659,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:45.204Z"
+    "createdAt": "2025-11-06T02:36:45.204Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "96571",
@@ -14583,7 +15687,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:36:46.232Z"
+    "createdAt": "2025-11-06T02:36:46.232Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "76715",
@@ -14609,7 +15715,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:47.251Z"
+    "createdAt": "2025-11-06T02:36:47.251Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "235586",
@@ -14635,7 +15743,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:36:48.253Z"
+    "createdAt": "2025-11-06T02:36:48.253Z",
+    "ageRating": null,
+    "network": "Beijing Television"
   },
   {
     "id": "119773",
@@ -14661,7 +15771,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:36:49.237Z"
+    "createdAt": "2025-11-06T02:36:49.237Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "216292",
@@ -14687,7 +15799,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:36:50.293Z"
+    "createdAt": "2025-11-06T02:36:50.293Z",
+    "ageRating": null,
+    "network": "MBC"
   },
   {
     "id": "235576",
@@ -14713,7 +15827,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:36:52.291Z"
+    "createdAt": "2025-11-06T02:36:52.291Z",
+    "ageRating": null,
+    "network": "MBN"
   },
   {
     "id": "251722",
@@ -14739,7 +15855,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:36:53.331Z"
+    "createdAt": "2025-11-06T02:36:53.331Z",
+    "ageRating": null,
+    "network": null
   },
   {
     "id": "209750",
@@ -14765,7 +15883,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:36:54.392Z"
+    "createdAt": "2025-11-06T02:36:54.392Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "242378",
@@ -14791,7 +15911,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:36:55.554Z"
+    "createdAt": "2025-11-06T02:36:55.554Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "249777",
@@ -14817,7 +15939,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:36:56.546Z"
+    "createdAt": "2025-11-06T02:36:56.546Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "232948",
@@ -14843,7 +15967,9 @@
         "episodesCount": 37
       }
     ],
-    "createdAt": "2025-11-06T02:36:57.618Z"
+    "createdAt": "2025-11-06T02:36:57.618Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "250900",
@@ -14869,7 +15995,9 @@
         "episodesCount": 28
       }
     ],
-    "createdAt": "2025-11-06T02:36:58.665Z"
+    "createdAt": "2025-11-06T02:36:58.665Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "112833",
@@ -14895,7 +16023,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:36:59.720Z"
+    "createdAt": "2025-11-06T02:36:59.720Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "90447",
@@ -14921,7 +16051,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:00.806Z"
+    "createdAt": "2025-11-06T02:37:00.806Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "128883",
@@ -14947,7 +16079,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:09.616Z"
+    "createdAt": "2025-11-06T02:37:09.616Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "208825",
@@ -14973,7 +16107,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:37:13.804Z"
+    "createdAt": "2025-11-06T02:37:13.804Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "107851",
@@ -14999,7 +16135,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:37:14.805Z"
+    "createdAt": "2025-11-06T02:37:14.805Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "250689",
@@ -15025,7 +16163,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:37:15.920Z"
+    "createdAt": "2025-11-06T02:37:15.920Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "99494",
@@ -15051,7 +16191,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:16.915Z"
+    "createdAt": "2025-11-06T02:37:16.915Z",
+    "ageRating": "NR",
+    "network": "tvN"
   },
   {
     "id": "92732",
@@ -15077,7 +16219,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:17.882Z"
+    "createdAt": "2025-11-06T02:37:17.882Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "213882",
@@ -15103,7 +16247,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:37:18.918Z"
+    "createdAt": "2025-11-06T02:37:18.918Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "197067",
@@ -15129,7 +16275,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:19.942Z"
+    "createdAt": "2025-11-06T02:37:19.942Z",
+    "ageRating": "TV-14",
+    "network": "ENA"
   },
   {
     "id": "68398",
@@ -15163,7 +16311,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:21.776Z"
+    "createdAt": "2025-11-06T02:37:21.776Z",
+    "ageRating": "TV-14",
+    "network": "SBS"
   },
   {
     "id": "87187",
@@ -15189,7 +16339,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:37:23.814Z"
+    "createdAt": "2025-11-06T02:37:23.814Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "86824",
@@ -15215,7 +16367,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:24.848Z"
+    "createdAt": "2025-11-06T02:37:24.848Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "95231",
@@ -15241,7 +16395,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:25.827Z"
+    "createdAt": "2025-11-06T02:37:25.827Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "204241",
@@ -15267,7 +16423,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:37:26.867Z"
+    "createdAt": "2025-11-06T02:37:26.867Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "106465",
@@ -15293,7 +16451,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:27.899Z"
+    "createdAt": "2025-11-06T02:37:27.899Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "250372",
@@ -15319,7 +16479,9 @@
         "episodesCount": 28
       }
     ],
-    "createdAt": "2025-11-06T02:37:28.956Z"
+    "createdAt": "2025-11-06T02:37:28.956Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "65143",
@@ -15345,7 +16507,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:29.931Z"
+    "createdAt": "2025-11-06T02:37:29.931Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "131026",
@@ -15371,7 +16535,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:30.924Z"
+    "createdAt": "2025-11-06T02:37:30.924Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "202318",
@@ -15397,7 +16563,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:31.923Z"
+    "createdAt": "2025-11-06T02:37:31.923Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "242503",
@@ -15423,7 +16591,9 @@
         "episodesCount": 50
       }
     ],
-    "createdAt": "2025-11-06T02:37:33.915Z"
+    "createdAt": "2025-11-06T02:37:33.915Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "214993",
@@ -15449,7 +16619,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:37:35.020Z"
+    "createdAt": "2025-11-06T02:37:35.020Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "74064",
@@ -15475,7 +16647,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:37:36.081Z"
+    "createdAt": "2025-11-06T02:37:36.081Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "78869",
@@ -15501,7 +16675,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:37.080Z"
+    "createdAt": "2025-11-06T02:37:37.080Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "116612",
@@ -15527,7 +16703,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:39.091Z"
+    "createdAt": "2025-11-06T02:37:39.091Z",
+    "ageRating": "TV-MA",
+    "network": "JTBC"
   },
   {
     "id": "203697",
@@ -15553,7 +16731,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:37:40.077Z"
+    "createdAt": "2025-11-06T02:37:40.077Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "203572",
@@ -15579,7 +16759,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:37:41.123Z"
+    "createdAt": "2025-11-06T02:37:41.123Z",
+    "ageRating": null,
+    "network": "FOX"
   },
   {
     "id": "66431",
@@ -15605,7 +16787,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:37:42.143Z"
+    "createdAt": "2025-11-06T02:37:42.143Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "90720",
@@ -15631,7 +16815,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:43.210Z"
+    "createdAt": "2025-11-06T02:37:43.210Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "240441",
@@ -15657,7 +16843,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:37:44.179Z"
+    "createdAt": "2025-11-06T02:37:44.179Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "98827",
@@ -15683,7 +16871,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:45.231Z"
+    "createdAt": "2025-11-06T02:37:45.231Z",
+    "ageRating": "TV-14",
+    "network": "SBS"
   },
   {
     "id": "72548",
@@ -15709,7 +16899,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:37:46.221Z"
+    "createdAt": "2025-11-06T02:37:46.221Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "113113",
@@ -15735,7 +16927,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:47.280Z"
+    "createdAt": "2025-11-06T02:37:47.280Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "231268",
@@ -15761,7 +16955,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:48.320Z"
+    "createdAt": "2025-11-06T02:37:48.320Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "107442",
@@ -15787,7 +16983,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:49.345Z"
+    "createdAt": "2025-11-06T02:37:49.345Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "93490",
@@ -15813,7 +17011,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:50.364Z"
+    "createdAt": "2025-11-06T02:37:50.364Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "207668",
@@ -15839,7 +17039,9 @@
         "episodesCount": 39
       }
     ],
-    "createdAt": "2025-11-06T02:37:51.410Z"
+    "createdAt": "2025-11-06T02:37:51.410Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "95484",
@@ -15865,7 +17067,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:37:59.027Z"
+    "createdAt": "2025-11-06T02:37:59.027Z",
+    "ageRating": "TV-14",
+    "network": "SBS"
   },
   {
     "id": "96102",
@@ -15895,7 +17099,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:38:00.420Z"
+    "createdAt": "2025-11-06T02:38:00.420Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "97219",
@@ -15921,7 +17127,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:38:01.537Z"
+    "createdAt": "2025-11-06T02:38:01.537Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "206686",
@@ -15947,7 +17155,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:38:03.491Z"
+    "createdAt": "2025-11-06T02:38:03.491Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "248754",
@@ -15973,7 +17183,9 @@
         "episodesCount": 21
       }
     ],
-    "createdAt": "2025-11-06T02:38:04.489Z"
+    "createdAt": "2025-11-06T02:38:04.489Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "231040",
@@ -15999,7 +17211,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:38:05.535Z"
+    "createdAt": "2025-11-06T02:38:05.535Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "223890",
@@ -16025,7 +17239,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:38:06.518Z"
+    "createdAt": "2025-11-06T02:38:06.518Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "240581",
@@ -16051,7 +17267,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:38:07.553Z"
+    "createdAt": "2025-11-06T02:38:07.553Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "215720",
@@ -16077,7 +17295,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:38:08.554Z"
+    "createdAt": "2025-11-06T02:38:08.554Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "228076",
@@ -16103,7 +17323,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:38:09.521Z"
+    "createdAt": "2025-11-06T02:38:09.521Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "236536",
@@ -16129,7 +17351,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:38:12.203Z"
+    "createdAt": "2025-11-06T02:38:12.203Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "97317",
@@ -16159,7 +17383,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:38:13.551Z"
+    "createdAt": "2025-11-06T02:38:13.551Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "227192",
@@ -16185,7 +17411,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:38:14.604Z"
+    "createdAt": "2025-11-06T02:38:14.604Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "223212",
@@ -16211,7 +17439,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:38:15.616Z"
+    "createdAt": "2025-11-06T02:38:15.616Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "229133",
@@ -16237,7 +17467,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:38:16.615Z"
+    "createdAt": "2025-11-06T02:38:16.615Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "230198",
@@ -16263,7 +17495,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:38:17.631Z"
+    "createdAt": "2025-11-06T02:38:17.631Z",
+    "ageRating": null,
+    "network": "tvN"
   },
   {
     "id": "247291",
@@ -16289,7 +17523,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:38:18.992Z"
+    "createdAt": "2025-11-06T02:38:18.992Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "246058",
@@ -16315,7 +17551,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:38:19.990Z"
+    "createdAt": "2025-11-06T02:38:19.990Z",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "235489",
@@ -16341,7 +17579,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:38:20.971Z"
+    "createdAt": "2025-11-06T02:38:20.971Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "210098",
@@ -16367,7 +17607,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:38:21.972Z"
+    "createdAt": "2025-11-06T02:38:21.972Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "202783",
@@ -16393,7 +17635,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:38:23.004Z"
+    "createdAt": "2025-11-06T02:38:23.004Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "233973",
@@ -16419,7 +17663,9 @@
         "episodesCount": 39
       }
     ],
-    "createdAt": "2025-11-06T02:38:23.988Z"
+    "createdAt": "2025-11-06T02:38:23.988Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "230824",
@@ -16445,7 +17691,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:38:24.966Z"
+    "createdAt": "2025-11-06T02:38:24.966Z",
+    "ageRating": null,
+    "network": "U+ Mobile TV"
   },
   {
     "id": "245481",
@@ -16471,7 +17719,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:38:25.975Z"
+    "createdAt": "2025-11-06T02:38:25.975Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "244015",
@@ -16497,7 +17747,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:38:27.006Z"
+    "createdAt": "2025-11-06T02:38:27.006Z",
+    "ageRating": null,
+    "network": "YouTube"
   },
   {
     "id": "233953",
@@ -16523,7 +17775,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:38:27.997Z"
+    "createdAt": "2025-11-06T02:38:27.997Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "245266",
@@ -16549,7 +17803,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:38:29.004Z"
+    "createdAt": "2025-11-06T02:38:29.004Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "222425",
@@ -16575,7 +17831,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:38:30.042Z"
+    "createdAt": "2025-11-06T02:38:30.042Z",
+    "ageRating": null,
+    "network": "JTBC"
   },
   {
     "id": "221112",
@@ -16601,7 +17859,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:38:31.043Z"
+    "createdAt": "2025-11-06T02:38:31.043Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "233968",
@@ -16627,7 +17887,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:38:32.021Z"
+    "createdAt": "2025-11-06T02:38:32.021Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "220074",
@@ -16653,7 +17915,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:38:33.366Z"
+    "createdAt": "2025-11-06T02:38:33.366Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "211891",
@@ -16683,7 +17947,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:38:34.726Z"
+    "createdAt": "2025-11-06T02:38:34.726Z",
+    "ageRating": null,
+    "network": "iQIYI International"
   },
   {
     "id": "212553",
@@ -16709,7 +17975,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:38:35.781Z"
+    "createdAt": "2025-11-06T02:38:35.781Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "239631",
@@ -16735,7 +18003,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:38:36.811Z"
+    "createdAt": "2025-11-06T02:38:36.811Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "215072",
@@ -16765,7 +18035,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:38:38.117Z"
+    "createdAt": "2025-11-06T02:38:38.117Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "243391",
@@ -16791,7 +18063,9 @@
         "episodesCount": 28
       }
     ],
-    "createdAt": "2025-11-06T02:38:41.087Z"
+    "createdAt": "2025-11-06T02:38:41.087Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "232433",
@@ -16817,7 +18091,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:39:04.095Z"
+    "createdAt": "2025-11-06T02:39:04.095Z",
+    "ageRating": "TV-PG",
+    "network": "Netflix"
   },
   {
     "id": "238046",
@@ -16843,7 +18119,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:39:05.109Z"
+    "createdAt": "2025-11-06T02:39:05.109Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "218539",
@@ -16869,7 +18147,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:39:07.065Z"
+    "createdAt": "2025-11-06T02:39:07.065Z",
+    "ageRating": "TV-MA",
+    "network": "SBS"
   },
   {
     "id": "221913",
@@ -16895,7 +18175,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:39:08.073Z"
+    "createdAt": "2025-11-06T02:39:08.073Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "204541",
@@ -16921,7 +18203,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:39:09.089Z"
+    "createdAt": "2025-11-06T02:39:09.089Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "239577",
@@ -16947,7 +18231,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:39:11.137Z"
+    "createdAt": "2025-11-06T02:39:11.137Z",
+    "ageRating": "TV-G",
+    "network": "Tencent Video"
   },
   {
     "id": "218290",
@@ -16973,7 +18259,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:39:12.185Z"
+    "createdAt": "2025-11-06T02:39:12.185Z",
+    "ageRating": "TV-14",
+    "network": "KBS2"
   },
   {
     "id": "218177",
@@ -16999,7 +18287,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:39:13.304Z"
+    "createdAt": "2025-11-06T02:39:13.304Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "205082",
@@ -17025,7 +18315,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:39:14.331Z"
+    "createdAt": "2025-11-06T02:39:14.331Z",
+    "ageRating": "TV-MA",
+    "network": "Disney+"
   },
   {
     "id": "223489",
@@ -17051,7 +18343,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:39:15.325Z"
+    "createdAt": "2025-11-06T02:39:15.325Z",
+    "ageRating": null,
+    "network": "U+ Mobile TV"
   },
   {
     "id": "207197",
@@ -17077,7 +18371,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:39:16.496Z"
+    "createdAt": "2025-11-06T02:39:16.496Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "238469",
@@ -17107,7 +18403,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:39:17.884Z"
+    "createdAt": "2025-11-06T02:39:17.884Z",
+    "ageRating": null,
+    "network": "CCTV-8"
   },
   {
     "id": "230924",
@@ -17133,7 +18431,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:39:18.882Z"
+    "createdAt": "2025-11-06T02:39:18.882Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "228957",
@@ -17159,7 +18459,9 @@
         "episodesCount": 5
       }
     ],
-    "createdAt": "2025-11-06T02:39:19.866Z"
+    "createdAt": "2025-11-06T02:39:19.866Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "230024",
@@ -17185,7 +18487,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:39:20.851Z"
+    "createdAt": "2025-11-06T02:39:20.851Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "152551",
@@ -17211,7 +18515,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:39:21.816Z"
+    "createdAt": "2025-11-06T02:39:21.816Z",
+    "ageRating": null,
+    "network": "Dragon Television"
   },
   {
     "id": "115080",
@@ -17245,7 +18551,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-06T02:39:23.597Z"
+    "createdAt": "2025-11-06T02:39:23.597Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "237894",
@@ -17271,7 +18579,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:39:26.646Z"
+    "createdAt": "2025-11-06T02:39:26.646Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "119955",
@@ -17297,7 +18607,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:39:27.646Z"
+    "createdAt": "2025-11-06T02:39:27.646Z",
+    "ageRating": "TV-MA",
+    "network": "Apple TV"
   },
   {
     "id": "226725",
@@ -17323,7 +18635,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:39:28.638Z"
+    "createdAt": "2025-11-06T02:39:28.638Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "237486",
@@ -17349,7 +18663,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:39:30.655Z"
+    "createdAt": "2025-11-06T02:39:30.655Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "229955",
@@ -17375,7 +18691,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:39:31.630Z"
+    "createdAt": "2025-11-06T02:39:31.630Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "229146",
@@ -17401,7 +18719,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T02:39:32.647Z"
+    "createdAt": "2025-11-06T02:39:32.647Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "152515",
@@ -17427,7 +18747,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:39:33.656Z"
+    "createdAt": "2025-11-06T02:39:33.656Z",
+    "ageRating": "TV-PG",
+    "network": "GMM 25"
   },
   {
     "id": "236943",
@@ -17453,7 +18775,9 @@
         "episodesCount": 29
       }
     ],
-    "createdAt": "2025-11-06T02:39:35.691Z"
+    "createdAt": "2025-11-06T02:39:35.691Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "233959",
@@ -17479,7 +18803,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:39:36.821Z"
+    "createdAt": "2025-11-06T02:39:36.821Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "235369",
@@ -17505,7 +18831,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:39:37.862Z"
+    "createdAt": "2025-11-06T02:39:37.862Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "234845",
@@ -17531,7 +18859,9 @@
         "episodesCount": 21
       }
     ],
-    "createdAt": "2025-11-06T02:39:38.867Z"
+    "createdAt": "2025-11-06T02:39:38.867Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "236664",
@@ -17557,7 +18887,9 @@
         "episodesCount": 9
       }
     ],
-    "createdAt": "2025-11-06T02:39:39.829Z"
+    "createdAt": "2025-11-06T02:39:39.829Z",
+    "ageRating": null,
+    "network": "WeTV"
   },
   {
     "id": "231306",
@@ -17583,7 +18915,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:39:40.914Z"
+    "createdAt": "2025-11-06T02:39:40.914Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "235589",
@@ -17609,7 +18943,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:39:41.912Z"
+    "createdAt": "2025-11-06T02:39:41.912Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "235757",
@@ -17635,7 +18971,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-06T02:39:42.912Z"
+    "createdAt": "2025-11-06T02:39:42.912Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "210704",
@@ -17661,7 +18999,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:39:43.949Z"
+    "createdAt": "2025-11-06T02:39:43.949Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "233688",
@@ -17687,7 +19027,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:39:44.908Z"
+    "createdAt": "2025-11-06T02:39:44.908Z",
+    "ageRating": null,
+    "network": "Beijing Television"
   },
   {
     "id": "234919",
@@ -17713,7 +19055,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:39:54.273Z"
+    "createdAt": "2025-11-06T02:39:54.273Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "223213",
@@ -17739,7 +19083,9 @@
         "episodesCount": 51
       }
     ],
-    "createdAt": "2025-11-06T02:39:55.240Z"
+    "createdAt": "2025-11-06T02:39:55.240Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "117378",
@@ -17765,7 +19111,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T02:39:56.263Z"
+    "createdAt": "2025-11-06T02:39:56.263Z",
+    "ageRating": "TV-14",
+    "network": "tvN"
   },
   {
     "id": "234957",
@@ -17791,7 +19139,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:39:57.279Z"
+    "createdAt": "2025-11-06T02:39:57.279Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "234859",
@@ -17817,7 +19167,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:39:58.334Z"
+    "createdAt": "2025-11-06T02:39:58.334Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "234411",
@@ -17843,7 +19195,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-06T02:40:21.919Z"
+    "createdAt": "2025-11-06T02:40:21.919Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "234751",
@@ -17869,7 +19223,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:40:23.061Z"
+    "createdAt": "2025-11-06T02:40:23.061Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "211020",
@@ -17895,7 +19251,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:40:24.128Z"
+    "createdAt": "2025-11-06T02:40:24.128Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "234243",
@@ -17921,7 +19279,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:40:27.133Z"
+    "createdAt": "2025-11-06T02:40:27.133Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "233753",
@@ -17947,7 +19307,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:40:28.191Z"
+    "createdAt": "2025-11-06T02:40:28.191Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "231380",
@@ -17973,7 +19335,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T02:40:29.194Z"
+    "createdAt": "2025-11-06T02:40:29.194Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "234053",
@@ -17999,7 +19363,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:40:30.187Z"
+    "createdAt": "2025-11-06T02:40:30.187Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "226186",
@@ -18025,7 +19391,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:40:31.152Z"
+    "createdAt": "2025-11-06T02:40:31.152Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "233571",
@@ -18051,7 +19419,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T02:40:32.181Z"
+    "createdAt": "2025-11-06T02:40:32.181Z",
+    "ageRating": "TV-G",
+    "network": "CCTV-8"
   },
   {
     "id": "233781",
@@ -18077,7 +19447,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:40:33.201Z"
+    "createdAt": "2025-11-06T02:40:33.201Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "230128",
@@ -18103,7 +19475,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:40:34.226Z"
+    "createdAt": "2025-11-06T02:40:34.226Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "201063",
@@ -18129,7 +19503,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:40:37.967Z"
+    "createdAt": "2025-11-06T02:40:37.967Z",
+    "ageRating": null,
+    "network": "Prime Video"
   },
   {
     "id": "221737",
@@ -18155,7 +19531,9 @@
         "episodesCount": 1
       }
     ],
-    "createdAt": "2025-11-06T02:40:41.730Z"
+    "createdAt": "2025-11-06T02:40:41.730Z",
+    "ageRating": "TV-PG",
+    "network": "Tentime"
   },
   {
     "id": "210705",
@@ -18181,7 +19559,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:40:42.711Z"
+    "createdAt": "2025-11-06T02:40:42.711Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "233087",
@@ -18207,7 +19587,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:40:43.700Z"
+    "createdAt": "2025-11-06T02:40:43.700Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "111900",
@@ -18233,7 +19615,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-06T02:40:44.701Z"
+    "createdAt": "2025-11-06T02:40:44.701Z",
+    "ageRating": null,
+    "network": null
   },
   {
     "id": "229210",
@@ -18259,7 +19643,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:40:45.707Z"
+    "createdAt": "2025-11-06T02:40:45.707Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "156888",
@@ -18285,7 +19671,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T02:40:46.727Z"
+    "createdAt": "2025-11-06T02:40:46.727Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "232765",
@@ -18311,7 +19699,9 @@
         "episodesCount": 32
       }
     ],
-    "createdAt": "2025-11-06T02:40:47.747Z"
+    "createdAt": "2025-11-06T02:40:47.747Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "217088",
@@ -18337,7 +19727,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:40:48.721Z"
+    "createdAt": "2025-11-06T02:40:48.721Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "217325",
@@ -18363,7 +19755,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:40:49.749Z"
+    "createdAt": "2025-11-06T02:40:49.749Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "216445",
@@ -18389,7 +19783,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T02:40:50.714Z"
+    "createdAt": "2025-11-06T02:40:50.714Z",
+    "ageRating": null,
+    "network": "Hunan Television"
   },
   {
     "id": "208834",
@@ -18415,7 +19811,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:40:51.770Z"
+    "createdAt": "2025-11-06T02:40:51.770Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "210268",
@@ -18441,7 +19839,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:40:52.771Z"
+    "createdAt": "2025-11-06T02:40:52.771Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "218475",
@@ -18467,7 +19867,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T02:40:53.810Z"
+    "createdAt": "2025-11-06T02:40:53.810Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "229259",
@@ -18493,7 +19895,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:40:54.872Z"
+    "createdAt": "2025-11-06T02:40:54.872Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "214996",
@@ -18519,7 +19923,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:40:55.853Z"
+    "createdAt": "2025-11-06T02:40:55.853Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "211261",
@@ -18549,7 +19955,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:40:57.249Z"
+    "createdAt": "2025-11-06T02:40:57.249Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "211748",
@@ -18575,7 +19983,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:40:58.229Z"
+    "createdAt": "2025-11-06T02:40:58.229Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "157161",
@@ -18605,7 +20015,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:40:59.567Z"
+    "createdAt": "2025-11-06T02:40:59.567Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "169593",
@@ -18631,7 +20043,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:41:00.576Z"
+    "createdAt": "2025-11-06T02:41:00.576Z",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "222972",
@@ -18657,7 +20071,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:41:01.610Z"
+    "createdAt": "2025-11-06T02:41:01.610Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "229947",
@@ -18683,7 +20099,9 @@
         "episodesCount": 105
       }
     ],
-    "createdAt": "2025-11-06T02:41:02.669Z"
+    "createdAt": "2025-11-06T02:41:02.669Z",
+    "ageRating": null,
+    "network": "KBS2"
   },
   {
     "id": "254013",
@@ -18709,7 +20127,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T02:41:03.687Z"
+    "createdAt": "2025-11-06T02:41:03.687Z",
+    "ageRating": "TV-14",
+    "network": "Syfy"
   },
   {
     "id": "211217",
@@ -18735,7 +20155,9 @@
         "episodesCount": 14
       }
     ],
-    "createdAt": "2025-11-06T02:41:05.739Z"
+    "createdAt": "2025-11-06T02:41:05.739Z",
+    "ageRating": null,
+    "network": "ENA"
   },
   {
     "id": "225109",
@@ -18761,7 +20183,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T02:41:06.840Z"
+    "createdAt": "2025-11-06T02:41:06.840Z",
+    "ageRating": null,
+    "network": "Mango TV"
   },
   {
     "id": "218994",
@@ -18787,7 +20211,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:41:07.860Z"
+    "createdAt": "2025-11-06T02:41:07.860Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "230833",
@@ -18813,7 +20239,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:41:08.904Z"
+    "createdAt": "2025-11-06T02:41:08.904Z",
+    "ageRating": null,
+    "network": "YouTube"
   },
   {
     "id": "228965",
@@ -18839,7 +20267,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:41:17.035Z"
+    "createdAt": "2025-11-06T02:41:17.035Z",
+    "ageRating": null,
+    "network": "TV Chosun"
   },
   {
     "id": "210702",
@@ -18865,7 +20295,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T02:41:18.055Z"
+    "createdAt": "2025-11-06T02:41:18.055Z",
+    "ageRating": null,
+    "network": "SBS"
   },
   {
     "id": "216223",
@@ -18891,7 +20323,9 @@
         "episodesCount": 9
       }
     ],
-    "createdAt": "2025-11-06T02:41:19.083Z"
+    "createdAt": "2025-11-06T02:41:19.083Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "198004",
@@ -18917,7 +20351,9 @@
         "episodesCount": 16
       }
     ],
-    "createdAt": "2025-11-06T02:41:20.111Z"
+    "createdAt": "2025-11-06T02:41:20.111Z",
+    "ageRating": "TV-14",
+    "network": "JTBC"
   },
   {
     "id": "157240",
@@ -18943,7 +20379,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T02:41:22.080Z"
+    "createdAt": "2025-11-06T02:41:22.080Z",
+    "ageRating": null,
+    "network": "Tencent Video"
   },
   {
     "id": "216228",
@@ -18969,6 +20407,8 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T02:41:30.106Z"
+    "createdAt": "2025-11-06T02:41:30.106Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   }
 ]

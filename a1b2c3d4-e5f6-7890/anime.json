@@ -31,7 +31,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:17.023Z"
+    "createdAt": "2025-11-06T06:57:17.023Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "204266",
@@ -61,7 +63,9 @@
       }
     ],
     "createdAt": "2026-01-11T15:12:33.823Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "253476",
@@ -87,7 +91,9 @@
       }
     ],
     "createdAt": "2026-01-11T15:12:39.576Z",
-    "genre": "Animation, Drama"
+    "genre": "Animation, Drama",
+    "ageRating": "TV-14",
+    "network": "BS Asahi"
   },
   {
     "id": "282946",
@@ -113,7 +119,9 @@
       }
     ],
     "createdAt": "2026-01-11T15:12:39.934Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "83121",
@@ -147,7 +155,9 @@
       }
     ],
     "createdAt": "2026-01-11T15:12:40.672Z",
-    "genre": "Comedy, Animation"
+    "genre": "Comedy, Animation",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "276393",
@@ -173,7 +183,9 @@
       }
     ],
     "createdAt": "2026-01-11T15:12:41.191Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "229858",
@@ -199,7 +211,9 @@
       }
     ],
     "createdAt": "2026-01-11T15:12:41.990Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "307903",
@@ -225,7 +239,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:27.895Z",
-    "genre": "Animation, Mystery, Kids"
+    "genre": "Animation, Mystery, Kids",
+    "ageRating": null,
+    "network": null
   },
   {
     "id": "296870",
@@ -251,7 +267,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:28.008Z",
-    "genre": "Animation, Sci-Fi & Fantasy, Action & Adventure"
+    "genre": "Animation, Sci-Fi & Fantasy, Action & Adventure",
+    "ageRating": null,
+    "network": null
   },
   {
     "id": "283428",
@@ -277,7 +295,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:28.114Z",
-    "genre": "Animation, Comedy, Drama"
+    "genre": "Animation, Comedy, Drama",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "280095",
@@ -303,7 +323,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:28.331Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "bilibili"
   },
   {
     "id": "306721",
@@ -329,7 +351,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:28.648Z",
-    "genre": "Animation, Kids, Action & Adventure, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Kids, Action & Adventure, Comedy, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "tv asahi"
   },
   {
     "id": "308005",
@@ -355,7 +379,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:28.759Z",
-    "genre": "Action & Adventure, Animation, Mystery"
+    "genre": "Action & Adventure, Animation, Mystery",
+    "ageRating": null,
+    "network": "TVING"
   },
   {
     "id": "309727",
@@ -381,7 +407,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:28.863Z",
-    "genre": "Animation, Kids"
+    "genre": "Animation, Kids",
+    "ageRating": null,
+    "network": "iQiyi"
   },
   {
     "id": "306762",
@@ -407,7 +435,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:29.433Z",
-    "genre": "Animation, Drama"
+    "genre": "Animation, Drama",
+    "ageRating": "TV-PG",
+    "network": "Netflix"
   },
   {
     "id": "303434",
@@ -433,7 +463,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:29.689Z",
-    "genre": "Animation, Comedy, Drama"
+    "genre": "Animation, Comedy, Drama",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "295483",
@@ -459,7 +491,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:29.918Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "287591",
@@ -485,7 +519,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.023Z",
-    "genre": "Animation, Drama"
+    "genre": "Animation, Drama",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "284969",
@@ -511,7 +547,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.127Z",
-    "genre": "Animation, Action & Adventure, Drama"
+    "genre": "Animation, Action & Adventure, Drama",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "284432",
@@ -537,7 +575,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.231Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "278043",
@@ -563,7 +603,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.338Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "275902",
@@ -589,7 +631,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.443Z",
-    "genre": "Animation, Sci-Fi & Fantasy"
+    "genre": "Animation, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "310330",
@@ -615,7 +659,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.550Z",
-    "genre": "Animation, Sci-Fi & Fantasy, Kids"
+    "genre": "Animation, Sci-Fi & Fantasy, Kids",
+    "ageRating": null,
+    "network": "YBS"
   },
   {
     "id": "304126",
@@ -641,7 +687,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.805Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "Tetsudō Channel"
   },
   {
     "id": "291414",
@@ -667,7 +715,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:30.912Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "288589",
@@ -693,7 +743,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.020Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "286291",
@@ -719,7 +771,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.125Z",
-    "genre": "Animation, Drama, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Drama, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "HTB"
   },
   {
     "id": "285291",
@@ -745,7 +799,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.231Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "280049",
@@ -771,7 +827,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.336Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "271609",
@@ -797,7 +855,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.455Z",
-    "genre": "Animation, Sci-Fi & Fantasy"
+    "genre": "Animation, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "Gunma TV"
   },
   {
     "id": "308142",
@@ -823,7 +883,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.561Z",
-    "genre": "Animation"
+    "genre": "Animation",
+    "ageRating": null,
+    "network": "Fuji TV"
   },
   {
     "id": "285357",
@@ -849,7 +911,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.665Z",
-    "genre": "Animation, Drama, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Drama, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "284444",
@@ -875,7 +939,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.773Z",
-    "genre": "Animation, Drama, Sci-Fi & Fantasy"
+    "genre": "Animation, Drama, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "283891",
@@ -901,7 +967,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.877Z",
-    "genre": "Animation, Mystery, Sci-Fi & Fantasy"
+    "genre": "Animation, Mystery, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "281161",
@@ -927,7 +995,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:31.982Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "278271",
@@ -953,7 +1023,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.210Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-PG",
+    "network": "Tokyo MX"
   },
   {
     "id": "274141",
@@ -979,7 +1051,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.319Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "294280",
@@ -1005,7 +1079,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.424Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "290667",
@@ -1031,7 +1107,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.529Z",
-    "genre": "Animation, Sci-Fi & Fantasy, Action & Adventure"
+    "genre": "Animation, Sci-Fi & Fantasy, Action & Adventure",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "276110",
@@ -1057,7 +1135,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.635Z",
-    "genre": "Animation, Mystery"
+    "genre": "Animation, Mystery",
+    "ageRating": null,
+    "network": "Nippon TV"
   },
   {
     "id": "295366",
@@ -1083,7 +1163,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.741Z",
-    "genre": "Animation, Action & Adventure, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "293629",
@@ -1109,7 +1191,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.849Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "285933",
@@ -1135,7 +1219,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:32.972Z",
-    "genre": "Animation, Drama, Comedy"
+    "genre": "Animation, Drama, Comedy",
+    "ageRating": null,
+    "network": "Fuji TV"
   },
   {
     "id": "285743",
@@ -1161,7 +1247,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:33.081Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "284495",
@@ -1187,7 +1275,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:33.191Z",
-    "genre": "Animation, Sci-Fi & Fantasy"
+    "genre": "Animation, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "310026",
@@ -1213,7 +1303,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:33.298Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "308828",
@@ -1239,7 +1331,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:33.405Z",
-    "genre": "Animation"
+    "genre": "Animation",
+    "ageRating": null,
+    "network": "Fuji TV"
   },
   {
     "id": "305163",
@@ -1265,7 +1359,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:33.557Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "300015",
@@ -1291,7 +1387,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:33.663Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": "TV-MA",
+    "network": "BS Nippon TV"
   },
   {
     "id": "287973",
@@ -1317,7 +1415,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:57:33.922Z",
-    "genre": "Comedy, Drama, Animation"
+    "genre": "Comedy, Drama, Animation",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "263330",
@@ -1343,7 +1443,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:16.329Z",
-    "genre": "Animation, Action & Adventure"
+    "genre": "Animation, Action & Adventure",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "255064",
@@ -1369,7 +1471,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:16.437Z",
-    "genre": "Animation, Sci-Fi & Fantasy"
+    "genre": "Animation, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "293144",
@@ -1395,7 +1499,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:16.543Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "285166",
@@ -1421,7 +1527,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:16.651Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "283689",
@@ -1447,7 +1555,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:16.756Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "285070",
@@ -1473,7 +1583,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:16.908Z",
-    "genre": "Animation, Action & Adventure"
+    "genre": "Animation, Action & Adventure",
+    "ageRating": null,
+    "network": "Nippon TV"
   },
   {
     "id": "261343",
@@ -1499,7 +1611,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.011Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "284388",
@@ -1525,7 +1639,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.117Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "289217",
@@ -1551,7 +1667,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.225Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "285788",
@@ -1577,7 +1695,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.334Z",
-    "genre": "Animation, Action & Adventure, Comedy"
+    "genre": "Animation, Action & Adventure, Comedy",
+    "ageRating": null,
+    "network": "Gunma TV"
   },
   {
     "id": "286984",
@@ -1603,7 +1723,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.564Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "286388",
@@ -1629,7 +1751,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.670Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "283935",
@@ -1655,7 +1779,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.775Z",
-    "genre": "Animation, Drama, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Drama, Comedy, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "Gunma TV"
   },
   {
     "id": "280042",
@@ -1681,7 +1807,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.885Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "271605",
@@ -1707,7 +1835,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:17.990Z",
-    "genre": "Animation, Comedy, Drama, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Drama, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "258901",
@@ -1733,7 +1863,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:18.096Z",
-    "genre": "Animation, Action & Adventure, Mystery, Drama"
+    "genre": "Animation, Action & Adventure, Mystery, Drama",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "117879",
@@ -1759,7 +1891,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:18.202Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "294867",
@@ -1785,7 +1919,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:18.312Z",
-    "genre": "Animation, Sci-Fi & Fantasy"
+    "genre": "Animation, Sci-Fi & Fantasy",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "278635",
@@ -1811,7 +1947,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:18.421Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy, Drama",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "274814",
@@ -1837,7 +1975,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:55:18.529Z",
-    "genre": "Animation, Sci-Fi & Fantasy, Comedy"
+    "genre": "Animation, Sci-Fi & Fantasy, Comedy",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "249907",
@@ -1863,7 +2003,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:31.355Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "299778",
@@ -1889,7 +2031,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:31.463Z",
-    "genre": "Animation, Drama, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Drama, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-MA",
+    "network": "Prime Video"
   },
   {
     "id": "136342",
@@ -1919,7 +2063,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:31.572Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-PG",
+    "network": "Disney+"
   },
   {
     "id": "282662",
@@ -1945,7 +2091,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:31.680Z",
-    "genre": "Animation, Drama, Sci-Fi & Fantasy"
+    "genre": "Animation, Drama, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "286404",
@@ -1971,7 +2119,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:31.787Z",
-    "genre": "Animation, Comedy, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "262259",
@@ -1997,7 +2147,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:31.894Z",
-    "genre": "Animation, Drama"
+    "genre": "Animation, Drama",
+    "ageRating": "TV-PG",
+    "network": "tv asahi"
   },
   {
     "id": "284644",
@@ -2023,7 +2175,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:32.002Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "284442",
@@ -2049,7 +2203,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:32.111Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "283880",
@@ -2075,7 +2231,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:32.268Z",
-    "genre": "Animation, Comedy"
+    "genre": "Animation, Comedy",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "280048",
@@ -2101,7 +2259,9 @@
       }
     ],
     "createdAt": "2026-01-11T14:52:32.422Z",
-    "genre": "Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "256721",
@@ -2127,7 +2287,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.360Z"
+    "createdAt": "2025-11-12T02:59:25.360Z",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "253811",
@@ -2153,7 +2315,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.360Z"
+    "createdAt": "2025-11-12T02:59:25.360Z",
+    "ageRating": "TV-MA",
+    "network": "Nippon TV"
   },
   {
     "id": "271607",
@@ -2179,7 +2343,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.360Z"
+    "createdAt": "2025-11-12T02:59:25.360Z",
+    "ageRating": "TV-PG",
+    "network": "Gunma TV"
   },
   {
     "id": "236565",
@@ -2205,7 +2371,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "207332",
@@ -2235,7 +2403,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-MA",
+    "network": "TV Tokyo"
   },
   {
     "id": "278196",
@@ -2261,7 +2431,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "262700",
@@ -2287,7 +2459,9 @@
         "episodesCount": 23
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "NR",
+    "network": "MBS"
   },
   {
     "id": "244808",
@@ -2313,7 +2487,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "261868",
@@ -2339,7 +2515,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-PG",
+    "network": "MBS"
   },
   {
     "id": "260823",
@@ -2365,7 +2543,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "281058",
@@ -2391,7 +2571,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "299555",
@@ -2417,7 +2599,9 @@
         "episodesCount": 2
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "287278",
@@ -2443,7 +2627,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "258348",
@@ -2469,7 +2655,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "286691",
@@ -2495,7 +2683,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "Disney+"
   },
   {
     "id": "283818",
@@ -2521,7 +2711,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "285356",
@@ -2547,7 +2739,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "212766",
@@ -2573,7 +2767,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "ABC TV"
   },
   {
     "id": "281044",
@@ -2599,7 +2795,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "284771",
@@ -2625,7 +2823,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "BS Fuji"
   },
   {
     "id": "281615",
@@ -2651,7 +2851,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "272118",
@@ -2677,7 +2879,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.361Z"
+    "createdAt": "2025-11-12T02:59:25.361Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "277665",
@@ -2703,7 +2907,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-G",
+    "network": "NHK Educational TV"
   },
   {
     "id": "237529",
@@ -2729,7 +2935,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "280110",
@@ -2755,7 +2963,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "271649",
@@ -2781,7 +2991,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "278604",
@@ -2807,7 +3019,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Gunma TV"
   },
   {
     "id": "276253",
@@ -2833,7 +3047,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "278378",
@@ -2859,7 +3075,9 @@
         "episodesCount": 49
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "tv asahi"
   },
   {
     "id": "286723",
@@ -2885,7 +3103,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "278059",
@@ -2911,7 +3131,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "284445",
@@ -2937,7 +3159,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Netflix"
   },
   {
     "id": "280038",
@@ -2963,7 +3187,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "284433",
@@ -2989,7 +3215,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "296287",
@@ -3015,7 +3243,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "279989",
@@ -3041,7 +3271,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "254174",
@@ -3067,7 +3299,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "133154",
@@ -3093,7 +3327,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "254017",
@@ -3119,7 +3355,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "284780",
@@ -3145,7 +3383,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "278704",
@@ -3171,7 +3411,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Nippon TV"
   },
   {
     "id": "246862",
@@ -3197,7 +3439,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "277513",
@@ -3223,7 +3467,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "271576",
@@ -3249,7 +3495,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "249545",
@@ -3275,7 +3523,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "217409",
@@ -3301,7 +3551,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "284448",
@@ -3327,7 +3579,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "222624",
@@ -3353,7 +3607,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "274069",
@@ -3379,7 +3635,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "258994",
@@ -3405,7 +3663,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "274671",
@@ -3431,7 +3691,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "249854",
@@ -3457,7 +3719,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Gunma TV"
   },
   {
     "id": "247859",
@@ -3483,7 +3747,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "Fuji TV"
   },
   {
     "id": "247045",
@@ -3509,7 +3775,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "261148",
@@ -3535,7 +3803,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "249882",
@@ -3561,7 +3831,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "261091",
@@ -3587,7 +3859,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "272556",
@@ -3613,7 +3887,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "256853",
@@ -3639,7 +3915,9 @@
         "episodesCount": 30
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "258680",
@@ -3665,7 +3943,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "271003",
@@ -3691,7 +3971,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "286791",
@@ -3717,7 +3999,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-Y7",
+    "network": "Fuji TV"
   },
   {
     "id": "283704",
@@ -3743,7 +4027,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.362Z"
+    "createdAt": "2025-11-12T02:59:25.362Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "249031",
@@ -3769,7 +4055,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "262929",
@@ -3795,7 +4083,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": null,
+    "network": "Nippon TV"
   },
   {
     "id": "277581",
@@ -3821,7 +4111,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "250994",
@@ -3847,7 +4139,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "259544",
@@ -3873,7 +4167,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": "TV-MA",
+    "network": "tv asahi"
   },
   {
     "id": "276349",
@@ -3899,7 +4195,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": null,
+    "network": "Nippon TV"
   },
   {
     "id": "283705",
@@ -3925,7 +4223,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "274741",
@@ -3951,7 +4251,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-12T02:59:25.363Z"
+    "createdAt": "2025-11-12T02:59:25.363Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "241002",
@@ -3977,7 +4279,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:59:24.268Z"
+    "createdAt": "2025-11-06T06:59:24.268Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "127532",
@@ -4007,7 +4311,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:24.556Z"
+    "createdAt": "2025-11-06T06:59:24.556Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "207468",
@@ -4037,7 +4343,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:59:24.841Z"
+    "createdAt": "2025-11-06T06:59:24.841Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "240411",
@@ -4067,7 +4375,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:25.125Z"
+    "createdAt": "2025-11-06T06:59:25.125Z",
+    "ageRating": "TV-MA",
+    "network": "MBS"
   },
   {
     "id": "218493",
@@ -4093,7 +4403,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:25.681Z"
+    "createdAt": "2025-11-06T06:59:25.681Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "259140",
@@ -4119,7 +4431,9 @@
         "episodesCount": 18
       }
     ],
-    "createdAt": "2025-11-06T06:59:25.968Z"
+    "createdAt": "2025-11-06T06:59:25.968Z",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "258579",
@@ -4149,7 +4463,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:26.253Z"
+    "createdAt": "2025-11-06T06:59:26.253Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "213830",
@@ -4175,7 +4491,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:59:26.541Z"
+    "createdAt": "2025-11-06T06:59:26.541Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "223500",
@@ -4205,7 +4523,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:27.098Z"
+    "createdAt": "2025-11-06T06:59:27.098Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "236994",
@@ -4231,7 +4551,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T06:59:28.463Z"
+    "createdAt": "2025-11-06T06:59:28.463Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "230059",
@@ -4257,7 +4579,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:29.016Z"
+    "createdAt": "2025-11-06T06:59:29.016Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "215799",
@@ -4287,7 +4611,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:29.301Z"
+    "createdAt": "2025-11-06T06:59:29.301Z",
+    "ageRating": "TV-PG",
+    "network": "MBS"
   },
   {
     "id": "250598",
@@ -4313,7 +4639,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:30.145Z"
+    "createdAt": "2025-11-06T06:59:30.145Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "238892",
@@ -4339,7 +4667,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:30.457Z"
+    "createdAt": "2025-11-06T06:59:30.457Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "245285",
@@ -4365,7 +4695,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:30.742Z"
+    "createdAt": "2025-11-06T06:59:30.742Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "214310",
@@ -4391,7 +4723,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:31.299Z"
+    "createdAt": "2025-11-06T06:59:31.299Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "243140",
@@ -4421,7 +4755,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:31.587Z"
+    "createdAt": "2025-11-06T06:59:31.587Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "248947",
@@ -4451,7 +4787,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:31.869Z"
+    "createdAt": "2025-11-06T06:59:31.869Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "204635",
@@ -4477,7 +4815,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-06T06:59:32.157Z"
+    "createdAt": "2025-11-06T06:59:32.157Z",
+    "ageRating": "TV-MA",
+    "network": "NHK G"
   },
   {
     "id": "218833",
@@ -4503,7 +4843,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:32.441Z"
+    "createdAt": "2025-11-06T06:59:32.441Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "238903",
@@ -4529,7 +4871,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:33.000Z"
+    "createdAt": "2025-11-06T06:59:33.000Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "156057",
@@ -4555,7 +4899,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:33.555Z"
+    "createdAt": "2025-11-06T06:59:33.555Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "238848",
@@ -4581,7 +4927,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:33.844Z"
+    "createdAt": "2025-11-06T06:59:33.844Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "221310",
@@ -4607,7 +4955,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:34.398Z"
+    "createdAt": "2025-11-06T06:59:34.398Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "246029",
@@ -4633,7 +4983,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:34.704Z"
+    "createdAt": "2025-11-06T06:59:34.704Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "232926",
@@ -4659,7 +5011,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:34.987Z"
+    "createdAt": "2025-11-06T06:59:34.987Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "244617",
@@ -4685,7 +5039,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:35.402Z"
+    "createdAt": "2025-11-06T06:59:35.402Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "239214",
@@ -4711,7 +5067,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:35.721Z"
+    "createdAt": "2025-11-06T06:59:35.721Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "238843",
@@ -4737,7 +5095,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-06T06:59:36.007Z"
+    "createdAt": "2025-11-06T06:59:36.007Z",
+    "ageRating": "TV-MA",
+    "network": "Nippon TV"
   },
   {
     "id": "234910",
@@ -4767,7 +5127,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:36.292Z"
+    "createdAt": "2025-11-06T06:59:36.292Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "237150",
@@ -4793,7 +5155,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:59:36.579Z"
+    "createdAt": "2025-11-06T06:59:36.579Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "232252",
@@ -4819,7 +5183,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:36.868Z"
+    "createdAt": "2025-11-06T06:59:36.868Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "241811",
@@ -4849,7 +5215,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:37.157Z"
+    "createdAt": "2025-11-06T06:59:37.157Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "243501",
@@ -4879,7 +5247,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:37.454Z"
+    "createdAt": "2025-11-06T06:59:37.454Z",
+    "ageRating": null,
+    "network": "HTB"
   },
   {
     "id": "241928",
@@ -4905,7 +5275,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:38.008Z"
+    "createdAt": "2025-11-06T06:59:38.008Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "212273",
@@ -4931,7 +5303,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:38.297Z"
+    "createdAt": "2025-11-06T06:59:38.297Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "214587",
@@ -4957,7 +5331,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T06:59:38.584Z"
+    "createdAt": "2025-11-06T06:59:38.584Z",
+    "ageRating": "TV-14",
+    "network": "WOWOW Prime"
   },
   {
     "id": "250596",
@@ -4983,7 +5359,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:38.870Z"
+    "createdAt": "2025-11-06T06:59:38.870Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "237233",
@@ -5009,7 +5387,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:39.155Z"
+    "createdAt": "2025-11-06T06:59:39.155Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "255107",
@@ -5035,7 +5415,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:39.708Z"
+    "createdAt": "2025-11-06T06:59:39.708Z",
+    "ageRating": null,
+    "network": "Disney+"
   },
   {
     "id": "243141",
@@ -5061,7 +5443,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T06:59:40.018Z"
+    "createdAt": "2025-11-06T06:59:40.018Z",
+    "ageRating": "TV-14",
+    "network": "NHK"
   },
   {
     "id": "260689",
@@ -5087,7 +5471,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:40.305Z"
+    "createdAt": "2025-11-06T06:59:40.305Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "206629",
@@ -5113,7 +5499,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:40.612Z"
+    "createdAt": "2025-11-06T06:59:40.612Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "243743",
@@ -5139,7 +5527,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:40.897Z"
+    "createdAt": "2025-11-06T06:59:40.897Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "218146",
@@ -5165,7 +5555,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:41.184Z"
+    "createdAt": "2025-11-06T06:59:41.184Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "254987",
@@ -5191,7 +5583,9 @@
         "episodesCount": 17
       }
     ],
-    "createdAt": "2025-11-06T06:59:41.557Z"
+    "createdAt": "2025-11-06T06:59:41.557Z",
+    "ageRating": "TV-14",
+    "network": "Crunchyroll"
   },
   {
     "id": "208445",
@@ -5217,7 +5611,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:41.842Z"
+    "createdAt": "2025-11-06T06:59:41.842Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "226905",
@@ -5243,7 +5639,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:42.394Z"
+    "createdAt": "2025-11-06T06:59:42.394Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "248866",
@@ -5269,7 +5667,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:42.682Z"
+    "createdAt": "2025-11-06T06:59:42.682Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "259787",
@@ -5295,7 +5695,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:43.237Z"
+    "createdAt": "2025-11-06T06:59:43.237Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "213181",
@@ -5321,7 +5723,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:43.525Z"
+    "createdAt": "2025-11-06T06:59:43.525Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "231357",
@@ -5347,7 +5751,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:43.819Z"
+    "createdAt": "2025-11-06T06:59:43.819Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "205743",
@@ -5373,7 +5779,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:44.371Z"
+    "createdAt": "2025-11-06T06:59:44.371Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "222787",
@@ -5399,7 +5807,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:44.929Z"
+    "createdAt": "2025-11-06T06:59:44.929Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "244620",
@@ -5425,7 +5835,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:45.212Z"
+    "createdAt": "2025-11-06T06:59:45.212Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "242143",
@@ -5451,7 +5863,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:45.498Z"
+    "createdAt": "2025-11-06T06:59:45.498Z",
+    "ageRating": null,
+    "network": "HTB"
   },
   {
     "id": "259558",
@@ -5477,7 +5891,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:45.783Z"
+    "createdAt": "2025-11-06T06:59:45.783Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "239761",
@@ -5503,7 +5919,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:46.071Z"
+    "createdAt": "2025-11-06T06:59:46.071Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "197848",
@@ -5529,7 +5947,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:46.375Z"
+    "createdAt": "2025-11-06T06:59:46.375Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "244625",
@@ -5555,7 +5975,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:46.662Z"
+    "createdAt": "2025-11-06T06:59:46.662Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "222923",
@@ -5581,7 +6003,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:46.955Z"
+    "createdAt": "2025-11-06T06:59:46.955Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "222930",
@@ -5607,7 +6031,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:47.257Z"
+    "createdAt": "2025-11-06T06:59:47.257Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "236144",
@@ -5633,7 +6059,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:47.545Z"
+    "createdAt": "2025-11-06T06:59:47.545Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "236533",
@@ -5659,7 +6087,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:48.097Z"
+    "createdAt": "2025-11-06T06:59:48.097Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "240682",
@@ -5685,7 +6115,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:48.383Z"
+    "createdAt": "2025-11-06T06:59:48.383Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "239853",
@@ -5711,7 +6143,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:59:48.668Z"
+    "createdAt": "2025-11-06T06:59:48.668Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "248817",
@@ -5737,7 +6171,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:48.956Z"
+    "createdAt": "2025-11-06T06:59:48.956Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "216272",
@@ -5767,7 +6203,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:49.243Z"
+    "createdAt": "2025-11-06T06:59:49.243Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "259788",
@@ -5797,7 +6235,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:49.530Z"
+    "createdAt": "2025-11-06T06:59:49.530Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "218291",
@@ -5823,7 +6263,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:49.814Z"
+    "createdAt": "2025-11-06T06:59:49.814Z",
+    "ageRating": null,
+    "network": "HTB"
   },
   {
     "id": "240125",
@@ -5853,7 +6295,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:50.103Z"
+    "createdAt": "2025-11-06T06:59:50.103Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "230697",
@@ -5879,7 +6323,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:50.389Z"
+    "createdAt": "2025-11-06T06:59:50.389Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "248951",
@@ -5905,7 +6351,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:50.676Z"
+    "createdAt": "2025-11-06T06:59:50.676Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "241021",
@@ -5931,7 +6379,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:50.960Z"
+    "createdAt": "2025-11-06T06:59:50.960Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "210355",
@@ -5957,7 +6407,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:51.248Z"
+    "createdAt": "2025-11-06T06:59:51.248Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "250597",
@@ -5983,7 +6435,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:51.535Z"
+    "createdAt": "2025-11-06T06:59:51.535Z",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "239779",
@@ -6009,7 +6463,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:51.819Z"
+    "createdAt": "2025-11-06T06:59:51.819Z",
+    "ageRating": "TV-14",
+    "network": null
   },
   {
     "id": "225168",
@@ -6035,7 +6491,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:52.106Z"
+    "createdAt": "2025-11-06T06:59:52.106Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "239287",
@@ -6061,7 +6519,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:59:52.390Z"
+    "createdAt": "2025-11-06T06:59:52.390Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "230189",
@@ -6087,7 +6547,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:52.674Z"
+    "createdAt": "2025-11-06T06:59:52.674Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "213402",
@@ -6113,7 +6575,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:41.845Z"
+    "createdAt": "2025-11-06T06:58:41.845Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "220542",
@@ -6139,7 +6603,9 @@
         "episodesCount": 48
       }
     ],
-    "createdAt": "2025-11-06T06:58:42.287Z"
+    "createdAt": "2025-11-06T06:58:42.287Z",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "220150",
@@ -6165,7 +6631,9 @@
         "episodesCount": 119
       }
     ],
-    "createdAt": "2025-11-06T06:58:42.712Z"
+    "createdAt": "2025-11-06T06:58:42.712Z",
+    "ageRating": "TV-Y7",
+    "network": "TV Tokyo"
   },
   {
     "id": "209845",
@@ -6191,7 +6659,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:43.465Z"
+    "createdAt": "2025-11-06T06:58:43.465Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "233643",
@@ -6217,7 +6687,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:58:43.922Z"
+    "createdAt": "2025-11-06T06:58:43.922Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "205050",
@@ -6243,7 +6715,9 @@
         "episodesCount": 50
       }
     ],
-    "createdAt": "2025-11-06T06:58:44.344Z"
+    "createdAt": "2025-11-06T06:58:44.344Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "210879",
@@ -6269,7 +6743,9 @@
         "episodesCount": 47
       }
     ],
-    "createdAt": "2025-11-06T06:58:44.769Z"
+    "createdAt": "2025-11-06T06:58:44.769Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "204832",
@@ -6295,7 +6771,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:45.194Z"
+    "createdAt": "2025-11-06T06:58:45.194Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "218843",
@@ -6321,7 +6799,9 @@
         "episodesCount": 36
       }
     ],
-    "createdAt": "2025-11-06T06:58:45.617Z"
+    "createdAt": "2025-11-06T06:58:45.617Z",
+    "ageRating": "TV-MA",
+    "network": "MBS"
   },
   {
     "id": "196944",
@@ -6347,7 +6827,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-06T06:58:46.039Z"
+    "createdAt": "2025-11-06T06:58:46.039Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "203737",
@@ -6373,7 +6855,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-06T06:58:46.800Z"
+    "createdAt": "2025-11-06T06:58:46.800Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "207250",
@@ -6399,7 +6883,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-06T06:58:47.228Z"
+    "createdAt": "2025-11-06T06:58:47.228Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "223564",
@@ -6425,7 +6911,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:47.652Z"
+    "createdAt": "2025-11-06T06:58:47.652Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "158373",
@@ -6451,7 +6939,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:48.751Z"
+    "createdAt": "2025-11-06T06:58:48.751Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "154526",
@@ -6477,7 +6967,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:49.174Z"
+    "createdAt": "2025-11-06T06:58:49.174Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "209077",
@@ -6503,7 +6995,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:50.053Z"
+    "createdAt": "2025-11-06T06:58:50.053Z",
+    "ageRating": "TV-MA",
+    "network": "MBS"
   },
   {
     "id": "206799",
@@ -6529,7 +7023,9 @@
         "episodesCount": 25
       }
     ],
-    "createdAt": "2025-11-06T06:58:50.484Z"
+    "createdAt": "2025-11-06T06:58:50.484Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "117024",
@@ -6555,7 +7051,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:50.930Z"
+    "createdAt": "2025-11-06T06:58:50.930Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "205111",
@@ -6581,7 +7079,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:51.695Z"
+    "createdAt": "2025-11-06T06:58:51.695Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "213331",
@@ -6607,7 +7107,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:52.116Z"
+    "createdAt": "2025-11-06T06:58:52.116Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "208891",
@@ -6633,7 +7135,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:52.549Z"
+    "createdAt": "2025-11-06T06:58:52.549Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "91997",
@@ -6659,7 +7163,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:58:52.976Z"
+    "createdAt": "2025-11-06T06:58:52.976Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "194986",
@@ -6685,7 +7191,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:53.403Z"
+    "createdAt": "2025-11-06T06:58:53.403Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "156563",
@@ -6711,7 +7219,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:53.838Z"
+    "createdAt": "2025-11-06T06:58:53.838Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "218263",
@@ -6737,7 +7247,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:54.606Z"
+    "createdAt": "2025-11-06T06:58:54.606Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "203704",
@@ -6763,7 +7275,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:55.026Z"
+    "createdAt": "2025-11-06T06:58:55.026Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "198152",
@@ -6789,7 +7303,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:55.557Z"
+    "createdAt": "2025-11-06T06:58:55.557Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "228663",
@@ -6815,7 +7331,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:55.981Z"
+    "createdAt": "2025-11-06T06:58:55.981Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "213883",
@@ -6841,7 +7359,9 @@
         "episodesCount": 50
       }
     ],
-    "createdAt": "2025-11-06T06:58:56.402Z"
+    "createdAt": "2025-11-06T06:58:56.402Z",
+    "ageRating": null,
+    "network": "HTB"
   },
   {
     "id": "195459",
@@ -6867,7 +7387,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:58:56.827Z"
+    "createdAt": "2025-11-06T06:58:56.827Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "194718",
@@ -6893,7 +7415,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:57.257Z"
+    "createdAt": "2025-11-06T06:58:57.257Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "216523",
@@ -6919,7 +7443,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T06:58:57.681Z"
+    "createdAt": "2025-11-06T06:58:57.681Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "205308",
@@ -6945,7 +7471,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:58.116Z"
+    "createdAt": "2025-11-06T06:58:58.116Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "207493",
@@ -6971,7 +7499,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:58.665Z"
+    "createdAt": "2025-11-06T06:58:58.665Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "205366",
@@ -6997,7 +7527,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:59.102Z"
+    "createdAt": "2025-11-06T06:58:59.102Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "203040",
@@ -7023,7 +7555,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:59.528Z"
+    "createdAt": "2025-11-06T06:58:59.528Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "195081",
@@ -7049,7 +7583,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:59.952Z"
+    "createdAt": "2025-11-06T06:58:59.952Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "199920",
@@ -7075,7 +7611,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:00.725Z"
+    "createdAt": "2025-11-06T06:59:00.725Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "222785",
@@ -7101,7 +7639,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:01.504Z"
+    "createdAt": "2025-11-06T06:59:01.504Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "214540",
@@ -7127,7 +7667,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:59:01.978Z"
+    "createdAt": "2025-11-06T06:59:01.978Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "217766",
@@ -7153,7 +7695,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:02.395Z"
+    "createdAt": "2025-11-06T06:59:02.395Z",
+    "ageRating": "TV-MA",
+    "network": "MBS"
   },
   {
     "id": "217390",
@@ -7179,7 +7723,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:02.840Z"
+    "createdAt": "2025-11-06T06:59:02.840Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "138948",
@@ -7205,7 +7751,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:59:03.275Z"
+    "createdAt": "2025-11-06T06:59:03.275Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "155942",
@@ -7231,7 +7779,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:03.715Z"
+    "createdAt": "2025-11-06T06:59:03.715Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "194829",
@@ -7257,7 +7807,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:04.150Z"
+    "createdAt": "2025-11-06T06:59:04.150Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "207743",
@@ -7283,7 +7835,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T06:59:04.591Z"
+    "createdAt": "2025-11-06T06:59:04.591Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "154098",
@@ -7309,7 +7863,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:05.049Z"
+    "createdAt": "2025-11-06T06:59:05.049Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "156688",
@@ -7335,7 +7891,9 @@
         "episodesCount": 20
       }
     ],
-    "createdAt": "2025-11-06T06:59:05.501Z"
+    "createdAt": "2025-11-06T06:59:05.501Z",
+    "ageRating": "TV-14",
+    "network": "WOWOW Prime"
   },
   {
     "id": "206324",
@@ -7361,7 +7919,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:05.935Z"
+    "createdAt": "2025-11-06T06:59:05.935Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "153337",
@@ -7387,7 +7947,9 @@
         "episodesCount": 15
       }
     ],
-    "createdAt": "2025-11-06T06:59:06.354Z"
+    "createdAt": "2025-11-06T06:59:06.354Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "201889",
@@ -7413,7 +7975,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:06.774Z"
+    "createdAt": "2025-11-06T06:59:06.774Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "221301",
@@ -7439,7 +8003,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:59:07.303Z"
+    "createdAt": "2025-11-06T06:59:07.303Z",
+    "ageRating": "TV-PG",
+    "network": "Netflix"
   },
   {
     "id": "208067",
@@ -7465,7 +8031,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:07.722Z"
+    "createdAt": "2025-11-06T06:59:07.722Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "136840",
@@ -7491,7 +8059,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:08.488Z"
+    "createdAt": "2025-11-06T06:59:08.488Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "209604",
@@ -7517,7 +8087,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:08.912Z"
+    "createdAt": "2025-11-06T06:59:08.912Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "202821",
@@ -7543,7 +8115,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:09.345Z"
+    "createdAt": "2025-11-06T06:59:09.345Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "217405",
@@ -7569,7 +8143,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:09.781Z"
+    "createdAt": "2025-11-06T06:59:09.781Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "214547",
@@ -7595,7 +8171,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:10.195Z"
+    "createdAt": "2025-11-06T06:59:10.195Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "200732",
@@ -7621,7 +8199,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:10.621Z"
+    "createdAt": "2025-11-06T06:59:10.621Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "214651",
@@ -7647,7 +8227,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:11.044Z"
+    "createdAt": "2025-11-06T06:59:11.044Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "153697",
@@ -7673,7 +8255,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:11.477Z"
+    "createdAt": "2025-11-06T06:59:11.477Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "218613",
@@ -7699,7 +8283,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:11.924Z"
+    "createdAt": "2025-11-06T06:59:11.924Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "219673",
@@ -7725,7 +8311,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:12.350Z"
+    "createdAt": "2025-11-06T06:59:12.350Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "211093",
@@ -7751,7 +8339,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:12.776Z"
+    "createdAt": "2025-11-06T06:59:12.776Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "201949",
@@ -7777,7 +8367,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:13.196Z"
+    "createdAt": "2025-11-06T06:59:13.196Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "214264",
@@ -7803,7 +8395,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:59:13.633Z"
+    "createdAt": "2025-11-06T06:59:13.633Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "155292",
@@ -7829,7 +8423,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:59:14.065Z"
+    "createdAt": "2025-11-06T06:59:14.065Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "217755",
@@ -7855,7 +8451,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:14.500Z"
+    "createdAt": "2025-11-06T06:59:14.500Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "207965",
@@ -7881,7 +8479,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:14.926Z"
+    "createdAt": "2025-11-06T06:59:14.926Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "156013",
@@ -7907,7 +8507,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:59:15.357Z"
+    "createdAt": "2025-11-06T06:59:15.357Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "200777",
@@ -7933,7 +8535,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:15.886Z"
+    "createdAt": "2025-11-06T06:59:15.886Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "218684",
@@ -7959,7 +8563,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:16.323Z"
+    "createdAt": "2025-11-06T06:59:16.323Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "212963",
@@ -7985,7 +8591,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:16.737Z"
+    "createdAt": "2025-11-06T06:59:16.737Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "204519",
@@ -8011,7 +8619,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:17.191Z"
+    "createdAt": "2025-11-06T06:59:17.191Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "209829",
@@ -8037,7 +8647,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:17.614Z"
+    "createdAt": "2025-11-06T06:59:17.614Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "234740",
@@ -8063,7 +8675,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:18.046Z"
+    "createdAt": "2025-11-06T06:59:18.046Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "155440",
@@ -8089,7 +8703,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:18.486Z"
+    "createdAt": "2025-11-06T06:59:18.486Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "216269",
@@ -8115,7 +8731,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:18.912Z"
+    "createdAt": "2025-11-06T06:59:18.912Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "134742",
@@ -8141,7 +8759,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:19.336Z"
+    "createdAt": "2025-11-06T06:59:19.336Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "135335",
@@ -8167,7 +8787,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:59:19.756Z"
+    "createdAt": "2025-11-06T06:59:19.756Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "212053",
@@ -8193,7 +8815,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:20.184Z"
+    "createdAt": "2025-11-06T06:59:20.184Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "200750",
@@ -8219,7 +8843,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:20.946Z"
+    "createdAt": "2025-11-06T06:59:20.946Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "209649",
@@ -8245,7 +8871,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:21.379Z"
+    "createdAt": "2025-11-06T06:59:21.379Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "233408",
@@ -8271,7 +8899,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:59:21.801Z"
+    "createdAt": "2025-11-06T06:59:21.801Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "229609",
@@ -8297,7 +8927,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:59:22.238Z"
+    "createdAt": "2025-11-06T06:59:22.238Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "132917",
@@ -8323,7 +8955,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:22.672Z"
+    "createdAt": "2025-11-06T06:59:22.672Z",
+    "ageRating": null,
+    "network": "TBS"
   },
   {
     "id": "204148",
@@ -8349,7 +8983,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:23.108Z"
+    "createdAt": "2025-11-06T06:59:23.108Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "120241",
@@ -8375,7 +9011,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:59:23.531Z"
+    "createdAt": "2025-11-06T06:59:23.531Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "157571",
@@ -8401,7 +9039,9 @@
         "episodesCount": 24
       }
     ],
-    "createdAt": "2025-11-06T06:59:23.961Z"
+    "createdAt": "2025-11-06T06:59:23.961Z",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "114410",
@@ -8427,7 +9067,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:59.085Z"
+    "createdAt": "2025-11-06T06:57:59.085Z",
+    "ageRating": "TV-MA",
+    "network": "TV Tokyo"
   },
   {
     "id": "131041",
@@ -8453,7 +9095,9 @@
         "episodesCount": 38
       }
     ],
-    "createdAt": "2025-11-06T06:57:59.838Z"
+    "createdAt": "2025-11-06T06:57:59.838Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "123249",
@@ -8479,7 +9123,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:00.265Z"
+    "createdAt": "2025-11-06T06:58:00.265Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "194916",
@@ -8505,7 +9151,9 @@
         "episodesCount": 281
       }
     ],
-    "createdAt": "2025-11-06T06:58:00.693Z"
+    "createdAt": "2025-11-06T06:58:00.693Z",
+    "ageRating": null,
+    "network": "Fuji TV"
   },
   {
     "id": "154524",
@@ -8531,7 +9179,9 @@
         "episodesCount": 46
       }
     ],
-    "createdAt": "2025-11-06T06:58:01.131Z"
+    "createdAt": "2025-11-06T06:58:01.131Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "207840",
@@ -8557,7 +9207,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:58:02.244Z"
+    "createdAt": "2025-11-06T06:58:02.244Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "114477",
@@ -8583,7 +9235,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:02.698Z"
+    "createdAt": "2025-11-06T06:58:02.698Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "196400",
@@ -8613,7 +9267,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:03.139Z"
+    "createdAt": "2025-11-06T06:58:03.139Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "117933",
@@ -8643,7 +9299,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:04.612Z"
+    "createdAt": "2025-11-06T06:58:04.612Z",
+    "ageRating": "TV-MA",
+    "network": "BS11"
   },
   {
     "id": "154494",
@@ -8669,7 +9327,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:05.370Z"
+    "createdAt": "2025-11-06T06:58:05.370Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "115694",
@@ -8695,7 +9355,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:05.794Z"
+    "createdAt": "2025-11-06T06:58:05.794Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "194774",
@@ -8721,7 +9383,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:06.655Z"
+    "createdAt": "2025-11-06T06:58:06.655Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "103409",
@@ -8747,7 +9411,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:58:07.104Z"
+    "createdAt": "2025-11-06T06:58:07.104Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "153482",
@@ -8773,7 +9439,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:07.540Z"
+    "createdAt": "2025-11-06T06:58:07.540Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "194831",
@@ -8799,7 +9467,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:08.006Z"
+    "createdAt": "2025-11-06T06:58:08.006Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "203780",
@@ -8825,7 +9495,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:08.429Z"
+    "createdAt": "2025-11-06T06:58:08.429Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "129516",
@@ -8851,7 +9523,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:08.856Z"
+    "createdAt": "2025-11-06T06:58:08.856Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "158293",
@@ -8877,7 +9551,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:09.296Z"
+    "createdAt": "2025-11-06T06:58:09.296Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "120155",
@@ -8903,7 +9579,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:09.775Z"
+    "createdAt": "2025-11-06T06:58:09.775Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "136763",
@@ -8929,7 +9607,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:10.216Z"
+    "createdAt": "2025-11-06T06:58:10.216Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "156510",
@@ -8955,7 +9635,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:10.640Z"
+    "createdAt": "2025-11-06T06:58:10.640Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "132664",
@@ -8981,7 +9663,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:58:11.197Z"
+    "createdAt": "2025-11-06T06:58:11.197Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "204716",
@@ -9007,7 +9691,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:11.615Z"
+    "createdAt": "2025-11-06T06:58:11.615Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "127714",
@@ -9033,7 +9719,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:12.036Z"
+    "createdAt": "2025-11-06T06:58:12.036Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "118017",
@@ -9063,7 +9751,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:12.465Z"
+    "createdAt": "2025-11-06T06:58:12.465Z",
+    "ageRating": "TV-PG",
+    "network": "TV Tokyo"
   },
   {
     "id": "117880",
@@ -9089,7 +9779,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:12.903Z"
+    "createdAt": "2025-11-06T06:58:12.903Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "135334",
@@ -9115,7 +9807,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:13.327Z"
+    "createdAt": "2025-11-06T06:58:13.327Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "138180",
@@ -9141,7 +9835,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:13.760Z"
+    "createdAt": "2025-11-06T06:58:13.760Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "123818",
@@ -9167,7 +9863,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:14.192Z"
+    "createdAt": "2025-11-06T06:58:14.192Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "125712",
@@ -9193,7 +9891,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:14.614Z"
+    "createdAt": "2025-11-06T06:58:14.614Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "132213",
@@ -9219,7 +9919,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:15.048Z"
+    "createdAt": "2025-11-06T06:58:15.048Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "198170",
@@ -9249,7 +9951,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:15.585Z"
+    "createdAt": "2025-11-06T06:58:15.585Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "121792",
@@ -9275,7 +9979,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:16.040Z"
+    "createdAt": "2025-11-06T06:58:16.040Z",
+    "ageRating": "TV-14",
+    "network": "Tochigi TV"
   },
   {
     "id": "122369",
@@ -9301,7 +10007,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:16.500Z"
+    "createdAt": "2025-11-06T06:58:16.500Z",
+    "ageRating": null,
+    "network": "U-NEXT"
   },
   {
     "id": "122826",
@@ -9327,7 +10035,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:58:16.931Z"
+    "createdAt": "2025-11-06T06:58:16.931Z",
+    "ageRating": "TV-PG",
+    "network": "MBS"
   },
   {
     "id": "133938",
@@ -9353,7 +10063,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:17.354Z"
+    "createdAt": "2025-11-06T06:58:17.354Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "156197",
@@ -9379,7 +10091,9 @@
         "episodesCount": 45
       }
     ],
-    "createdAt": "2025-11-06T06:58:17.784Z"
+    "createdAt": "2025-11-06T06:58:17.784Z",
+    "ageRating": null,
+    "network": "HTB"
   },
   {
     "id": "139287",
@@ -9405,7 +10119,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:18.223Z"
+    "createdAt": "2025-11-06T06:58:18.223Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "124363",
@@ -9431,7 +10147,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:18.646Z"
+    "createdAt": "2025-11-06T06:58:18.646Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "138441",
@@ -9457,7 +10175,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:19.400Z"
+    "createdAt": "2025-11-06T06:58:19.400Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "109934",
@@ -9487,7 +10207,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:19.836Z"
+    "createdAt": "2025-11-06T06:58:19.836Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "99772",
@@ -9513,7 +10235,9 @@
         "episodesCount": 5
       }
     ],
-    "createdAt": "2025-11-06T06:58:20.605Z"
+    "createdAt": "2025-11-06T06:58:20.605Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "137718",
@@ -9539,7 +10263,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:21.030Z"
+    "createdAt": "2025-11-06T06:58:21.030Z",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "127549",
@@ -9565,7 +10291,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:21.453Z"
+    "createdAt": "2025-11-06T06:58:21.453Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "195990",
@@ -9591,7 +10319,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:21.922Z"
+    "createdAt": "2025-11-06T06:58:21.922Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "130266",
@@ -9617,7 +10347,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:22.356Z"
+    "createdAt": "2025-11-06T06:58:22.356Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "117886",
@@ -9643,7 +10375,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:22.779Z"
+    "createdAt": "2025-11-06T06:58:22.779Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "129195",
@@ -9669,7 +10403,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:23.201Z"
+    "createdAt": "2025-11-06T06:58:23.201Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "104032",
@@ -9695,7 +10431,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:23.638Z"
+    "createdAt": "2025-11-06T06:58:23.638Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "208730",
@@ -9721,7 +10459,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:24.295Z"
+    "createdAt": "2025-11-06T06:58:24.295Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "123528",
@@ -9747,7 +10487,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:24.717Z"
+    "createdAt": "2025-11-06T06:58:24.717Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "196040",
@@ -9773,7 +10515,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:58:25.154Z"
+    "createdAt": "2025-11-06T06:58:25.154Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "156218",
@@ -9803,7 +10547,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:25.583Z"
+    "createdAt": "2025-11-06T06:58:25.583Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "117310",
@@ -9829,7 +10575,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:26.005Z"
+    "createdAt": "2025-11-06T06:58:26.005Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "130996",
@@ -9855,7 +10603,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T06:58:26.470Z"
+    "createdAt": "2025-11-06T06:58:26.470Z",
+    "ageRating": "TV-14",
+    "network": "Disney+"
   },
   {
     "id": "137045",
@@ -9881,7 +10631,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:26.895Z"
+    "createdAt": "2025-11-06T06:58:26.895Z",
+    "ageRating": "TV-14",
+    "network": "Gunma TV"
   },
   {
     "id": "122287",
@@ -9907,7 +10659,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:27.319Z"
+    "createdAt": "2025-11-06T06:58:27.319Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "117884",
@@ -9933,7 +10687,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:28.078Z"
+    "createdAt": "2025-11-06T06:58:28.078Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "116168",
@@ -9959,7 +10715,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:28.541Z"
+    "createdAt": "2025-11-06T06:58:28.541Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "195923",
@@ -9985,7 +10743,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:28.971Z"
+    "createdAt": "2025-11-06T06:58:28.971Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "114396",
@@ -10011,7 +10771,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:29.395Z"
+    "createdAt": "2025-11-06T06:58:29.395Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "115112",
@@ -10037,7 +10799,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:29.833Z"
+    "createdAt": "2025-11-06T06:58:29.833Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "117889",
@@ -10063,7 +10827,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:30.261Z"
+    "createdAt": "2025-11-06T06:58:30.261Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "202160",
@@ -10089,7 +10855,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:58:30.676Z"
+    "createdAt": "2025-11-06T06:58:30.676Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "115911",
@@ -10119,7 +10887,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:31.138Z"
+    "createdAt": "2025-11-06T06:58:31.138Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "207567",
@@ -10145,7 +10915,9 @@
         "episodesCount": 4
       }
     ],
-    "createdAt": "2025-11-06T06:58:31.573Z"
+    "createdAt": "2025-11-06T06:58:31.573Z",
+    "ageRating": "TV-Y7",
+    "network": "Prime Video"
   },
   {
     "id": "138183",
@@ -10171,7 +10943,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T06:58:32.009Z"
+    "createdAt": "2025-11-06T06:58:32.009Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "94925",
@@ -10197,7 +10971,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T06:58:32.455Z"
+    "createdAt": "2025-11-06T06:58:32.455Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "156450",
@@ -10223,7 +10999,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:32.993Z"
+    "createdAt": "2025-11-06T06:58:32.993Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "123250",
@@ -10249,7 +11027,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:33.420Z"
+    "createdAt": "2025-11-06T06:58:33.420Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "157879",
@@ -10275,7 +11055,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:58:33.848Z"
+    "createdAt": "2025-11-06T06:58:33.848Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "196369",
@@ -10301,7 +11083,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:58:34.445Z"
+    "createdAt": "2025-11-06T06:58:34.445Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "158522",
@@ -10327,7 +11111,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:34.874Z"
+    "createdAt": "2025-11-06T06:58:34.874Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "202770",
@@ -10353,7 +11139,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:35.643Z"
+    "createdAt": "2025-11-06T06:58:35.643Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "133197",
@@ -10379,7 +11167,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:36.076Z"
+    "createdAt": "2025-11-06T06:58:36.076Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "128826",
@@ -10405,7 +11195,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:36.519Z"
+    "createdAt": "2025-11-06T06:58:36.519Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "157842",
@@ -10431,7 +11223,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:36.941Z"
+    "createdAt": "2025-11-06T06:58:36.941Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "112463",
@@ -10461,7 +11255,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:37.373Z"
+    "createdAt": "2025-11-06T06:58:37.373Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "195053",
@@ -10487,7 +11283,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T06:58:37.814Z"
+    "createdAt": "2025-11-06T06:58:37.814Z",
+    "ageRating": "TV-PG",
+    "network": "Tokyo MX"
   },
   {
     "id": "195966",
@@ -10513,7 +11311,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:38.287Z"
+    "createdAt": "2025-11-06T06:58:38.287Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "119335",
@@ -10539,7 +11339,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:38.715Z"
+    "createdAt": "2025-11-06T06:58:38.715Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "136841",
@@ -10565,7 +11367,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:39.167Z"
+    "createdAt": "2025-11-06T06:58:39.167Z",
+    "ageRating": "TV-14",
+    "network": "tv asahi"
   },
   {
     "id": "137194",
@@ -10591,7 +11395,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:39.582Z"
+    "createdAt": "2025-11-06T06:58:39.582Z",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "119631",
@@ -10617,7 +11423,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:40.015Z"
+    "createdAt": "2025-11-06T06:58:40.015Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "138190",
@@ -10643,7 +11451,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T06:58:40.435Z"
+    "createdAt": "2025-11-06T06:58:40.435Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "195924",
@@ -10669,7 +11479,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:58:40.887Z"
+    "createdAt": "2025-11-06T06:58:40.887Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "134581",
@@ -10695,7 +11507,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T06:58:41.324Z"
+    "createdAt": "2025-11-06T06:58:41.324Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "95897",
@@ -10721,7 +11535,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:57:17.453Z"
+    "createdAt": "2025-11-06T06:57:17.453Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "96316",
@@ -10759,7 +11575,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:17.880Z"
+    "createdAt": "2025-11-06T06:57:17.880Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "96884",
@@ -10785,7 +11603,9 @@
         "episodesCount": 100
       }
     ],
-    "createdAt": "2025-11-06T06:57:18.637Z"
+    "createdAt": "2025-11-06T06:57:18.637Z",
+    "ageRating": "TV-PG",
+    "network": "TV Tokyo"
   },
   {
     "id": "98034",
@@ -10811,7 +11631,9 @@
         "episodesCount": 67
       }
     ],
-    "createdAt": "2025-11-06T06:57:19.762Z"
+    "createdAt": "2025-11-06T06:57:19.762Z",
+    "ageRating": "TV-PG",
+    "network": "Fuji TV"
   },
   {
     "id": "100281",
@@ -10841,7 +11663,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:21.285Z"
+    "createdAt": "2025-11-06T06:57:21.285Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "93653",
@@ -10871,7 +11695,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:22.378Z"
+    "createdAt": "2025-11-06T06:57:22.378Z",
+    "ageRating": "TV-14",
+    "network": "tv asahi"
   },
   {
     "id": "100937",
@@ -10897,7 +11723,9 @@
         "episodesCount": 8
       }
     ],
-    "createdAt": "2025-11-06T06:57:24.937Z"
+    "createdAt": "2025-11-06T06:57:24.937Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "96120",
@@ -10923,7 +11751,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:25.359Z"
+    "createdAt": "2025-11-06T06:57:25.359Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "96444",
@@ -10949,7 +11779,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:25.781Z"
+    "createdAt": "2025-11-06T06:57:25.781Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "92579",
@@ -10975,7 +11807,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:26.538Z"
+    "createdAt": "2025-11-06T06:57:26.538Z",
+    "ageRating": "TV-14",
+    "network": "NHK G"
   },
   {
     "id": "103830",
@@ -11001,7 +11835,9 @@
         "episodesCount": 9
       }
     ],
-    "createdAt": "2025-11-06T06:57:26.978Z"
+    "createdAt": "2025-11-06T06:57:26.978Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "93149",
@@ -11031,7 +11867,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:27.403Z"
+    "createdAt": "2025-11-06T06:57:27.403Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "94359",
@@ -11057,7 +11895,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:28.154Z"
+    "createdAt": "2025-11-06T06:57:28.154Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "96914",
@@ -11083,7 +11923,9 @@
         "episodesCount": 45
       }
     ],
-    "createdAt": "2025-11-06T06:57:28.593Z"
+    "createdAt": "2025-11-06T06:57:28.593Z",
+    "ageRating": null,
+    "network": "ABC TV"
   },
   {
     "id": "105903",
@@ -11109,7 +11951,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:29.013Z"
+    "createdAt": "2025-11-06T06:57:29.013Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "94693",
@@ -11135,7 +11979,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:31.169Z"
+    "createdAt": "2025-11-06T06:57:31.169Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "100436",
@@ -11161,7 +12007,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:31.595Z"
+    "createdAt": "2025-11-06T06:57:31.595Z",
+    "ageRating": "TV-MA",
+    "network": "AT-X"
   },
   {
     "id": "97923",
@@ -11187,7 +12035,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:32.017Z"
+    "createdAt": "2025-11-06T06:57:32.017Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "95433",
@@ -11213,7 +12063,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:32.566Z"
+    "createdAt": "2025-11-06T06:57:32.566Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "95550",
@@ -11239,7 +12091,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:33.001Z"
+    "createdAt": "2025-11-06T06:57:33.001Z",
+    "ageRating": "TV-14",
+    "network": "tv asahi"
   },
   {
     "id": "101571",
@@ -11265,7 +12119,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:33.417Z"
+    "createdAt": "2025-11-06T06:57:33.417Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "92592",
@@ -11291,7 +12147,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:33.849Z"
+    "createdAt": "2025-11-06T06:57:33.849Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "107408",
@@ -11317,7 +12175,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:57:34.286Z"
+    "createdAt": "2025-11-06T06:57:34.286Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "100368",
@@ -11347,7 +12207,9 @@
         "episodesCount": 40
       }
     ],
-    "createdAt": "2025-11-06T06:57:34.707Z"
+    "createdAt": "2025-11-06T06:57:34.707Z",
+    "ageRating": "TV-Y7",
+    "network": "TV Tokyo"
   },
   {
     "id": "96203",
@@ -11373,7 +12235,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:35.156Z"
+    "createdAt": "2025-11-06T06:57:35.156Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "94649",
@@ -11399,7 +12263,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:35.575Z"
+    "createdAt": "2025-11-06T06:57:35.575Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "94631",
@@ -11425,7 +12291,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:36.341Z"
+    "createdAt": "2025-11-06T06:57:36.341Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "99624",
@@ -11451,7 +12319,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:36.761Z"
+    "createdAt": "2025-11-06T06:57:36.761Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "95697",
@@ -11477,7 +12347,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:37.522Z"
+    "createdAt": "2025-11-06T06:57:37.522Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "99778",
@@ -11503,7 +12375,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:37.950Z"
+    "createdAt": "2025-11-06T06:57:37.950Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "96150",
@@ -11529,7 +12403,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:38.497Z"
+    "createdAt": "2025-11-06T06:57:38.497Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "92588",
@@ -11555,7 +12431,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:38.942Z"
+    "createdAt": "2025-11-06T06:57:38.942Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "94277",
@@ -11581,7 +12459,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:39.371Z"
+    "createdAt": "2025-11-06T06:57:39.371Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "95213",
@@ -11607,7 +12487,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:39.805Z"
+    "createdAt": "2025-11-06T06:57:39.805Z",
+    "ageRating": "TV-PG",
+    "network": "AT-X"
   },
   {
     "id": "92591",
@@ -11633,7 +12515,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:40.229Z"
+    "createdAt": "2025-11-06T06:57:40.229Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "85942",
@@ -11659,7 +12543,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:57:40.666Z"
+    "createdAt": "2025-11-06T06:57:40.666Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "98867",
@@ -11685,7 +12571,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:41.199Z"
+    "createdAt": "2025-11-06T06:57:41.199Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "96420",
@@ -11711,7 +12599,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T06:57:41.646Z"
+    "createdAt": "2025-11-06T06:57:41.646Z",
+    "ageRating": "NR",
+    "network": "YouTube"
   },
   {
     "id": "94405",
@@ -11737,7 +12627,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:42.098Z"
+    "createdAt": "2025-11-06T06:57:42.098Z",
+    "ageRating": null,
+    "network": "MBS"
   },
   {
     "id": "103319",
@@ -11763,7 +12655,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:42.540Z"
+    "createdAt": "2025-11-06T06:57:42.540Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "91343",
@@ -11789,7 +12683,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:42.972Z"
+    "createdAt": "2025-11-06T06:57:42.972Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "102871",
@@ -11815,7 +12711,9 @@
         "episodesCount": 26
       }
     ],
-    "createdAt": "2025-11-06T06:57:43.460Z"
+    "createdAt": "2025-11-06T06:57:43.460Z",
+    "ageRating": "TV-14",
+    "network": "TV Tokyo"
   },
   {
     "id": "98685",
@@ -11841,7 +12739,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:43.902Z"
+    "createdAt": "2025-11-06T06:57:43.902Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "94795",
@@ -11867,7 +12767,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:44.327Z"
+    "createdAt": "2025-11-06T06:57:44.327Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "93875",
@@ -11893,7 +12795,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:44.749Z"
+    "createdAt": "2025-11-06T06:57:44.749Z",
+    "ageRating": null,
+    "network": "Gunma TV"
   },
   {
     "id": "92586",
@@ -11919,7 +12823,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:45.190Z"
+    "createdAt": "2025-11-06T06:57:45.190Z",
+    "ageRating": "TV-PG",
+    "network": "ABEMA"
   },
   {
     "id": "94498",
@@ -11945,7 +12851,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:45.767Z"
+    "createdAt": "2025-11-06T06:57:45.767Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "91024",
@@ -11971,7 +12879,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:46.197Z"
+    "createdAt": "2025-11-06T06:57:46.197Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "93890",
@@ -11997,7 +12907,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:46.629Z"
+    "createdAt": "2025-11-06T06:57:46.629Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "94541",
@@ -12023,7 +12935,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:47.063Z"
+    "createdAt": "2025-11-06T06:57:47.063Z",
+    "ageRating": "TV-14",
+    "network": "TBS"
   },
   {
     "id": "91585",
@@ -12049,7 +12963,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:47.487Z"
+    "createdAt": "2025-11-06T06:57:47.487Z",
+    "ageRating": "TV-PG",
+    "network": "AT-X"
   },
   {
     "id": "92602",
@@ -12075,7 +12991,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:47.923Z"
+    "createdAt": "2025-11-06T06:57:47.923Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "98584",
@@ -12101,7 +13019,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:48.351Z"
+    "createdAt": "2025-11-06T06:57:48.351Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "95317",
@@ -12127,7 +13047,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:48.776Z"
+    "createdAt": "2025-11-06T06:57:48.776Z",
+    "ageRating": "TV-14",
+    "network": "BS11"
   },
   {
     "id": "99779",
@@ -12153,7 +13075,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:49.199Z"
+    "createdAt": "2025-11-06T06:57:49.199Z",
+    "ageRating": "TV-MA",
+    "network": "Tokyo MX"
   },
   {
     "id": "94388",
@@ -12179,7 +13103,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:49.634Z"
+    "createdAt": "2025-11-06T06:57:49.634Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "98748",
@@ -12205,7 +13131,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:50.544Z"
+    "createdAt": "2025-11-06T06:57:50.544Z",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "93593",
@@ -12231,7 +13159,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:50.977Z"
+    "createdAt": "2025-11-06T06:57:50.977Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "94412",
@@ -12257,7 +13187,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:51.405Z"
+    "createdAt": "2025-11-06T06:57:51.405Z",
+    "ageRating": "TV-14",
+    "network": "AT-X"
   },
   {
     "id": "100353",
@@ -12283,7 +13215,9 @@
         "episodesCount": 13
       }
     ],
-    "createdAt": "2025-11-06T06:57:51.837Z"
+    "createdAt": "2025-11-06T06:57:51.837Z",
+    "ageRating": null,
+    "network": "TV Tokyo"
   },
   {
     "id": "99769",
@@ -12309,7 +13243,9 @@
         "episodesCount": 7
       }
     ],
-    "createdAt": "2025-11-06T06:57:52.254Z"
+    "createdAt": "2025-11-06T06:57:52.254Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "94423",
@@ -12335,7 +13271,9 @@
         "episodesCount": 10
       }
     ],
-    "createdAt": "2025-11-06T06:57:52.680Z"
+    "createdAt": "2025-11-06T06:57:52.680Z",
+    "ageRating": "TV-MA",
+    "network": "Netflix"
   },
   {
     "id": "106342",
@@ -12361,7 +13299,9 @@
         "episodesCount": 3
       }
     ],
-    "createdAt": "2025-11-06T06:57:53.109Z"
+    "createdAt": "2025-11-06T06:57:53.109Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "98491",
@@ -12387,7 +13327,9 @@
         "episodesCount": 11
       }
     ],
-    "createdAt": "2025-11-06T06:57:54.233Z"
+    "createdAt": "2025-11-06T06:57:54.233Z",
+    "ageRating": "TV-14",
+    "network": "Fuji TV"
   },
   {
     "id": "93570",
@@ -12413,7 +13355,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:54.665Z"
+    "createdAt": "2025-11-06T06:57:54.665Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "91848",
@@ -12439,7 +13383,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:55.094Z"
+    "createdAt": "2025-11-06T06:57:55.094Z",
+    "ageRating": null,
+    "network": "Tokyo MX"
   },
   {
     "id": "102518",
@@ -12465,7 +13411,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:55.525Z"
+    "createdAt": "2025-11-06T06:57:55.525Z",
+    "ageRating": "TV-14",
+    "network": "HTB"
   },
   {
     "id": "110911",
@@ -12491,7 +13439,9 @@
         "episodesCount": 3
       }
     ],
-    "createdAt": "2025-11-06T06:57:55.966Z"
+    "createdAt": "2025-11-06T06:57:55.966Z",
+    "ageRating": "TV-14",
+    "network": "Hikari TV"
   },
   {
     "id": "96371",
@@ -12517,7 +13467,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:56.411Z"
+    "createdAt": "2025-11-06T06:57:56.411Z",
+    "ageRating": "TV-14",
+    "network": "Tokyo MX"
   },
   {
     "id": "102285",
@@ -12543,7 +13495,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:56.839Z"
+    "createdAt": "2025-11-06T06:57:56.839Z",
+    "ageRating": "TV-14",
+    "network": "Sun TV"
   },
   {
     "id": "93649",
@@ -12569,7 +13523,9 @@
         "episodesCount": 12
       }
     ],
-    "createdAt": "2025-11-06T06:57:57.263Z"
+    "createdAt": "2025-11-06T06:57:57.263Z",
+    "ageRating": null,
+    "network": "AT-X"
   },
   {
     "id": "100617",
@@ -12595,7 +13551,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T06:57:57.690Z"
+    "createdAt": "2025-11-06T06:57:57.690Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
   },
   {
     "id": "117682",
@@ -12621,7 +13579,9 @@
         "episodesCount": 6
       }
     ],
-    "createdAt": "2025-11-06T06:57:58.159Z"
+    "createdAt": "2025-11-06T06:57:58.159Z",
+    "ageRating": "TV-Y7",
+    "network": "Netflix"
   },
   {
     "id": "65930",
@@ -12675,7 +13635,9 @@
       }
     ],
     "createdAt": "2026-01-12T13:14:28.780Z",
-    "genre": "Action & Adventure, Animation, Sci-Fi & Fantasy"
+    "genre": "Action & Adventure, Animation, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "1429",
@@ -12713,7 +13675,9 @@
       }
     ],
     "createdAt": "2026-01-12T13:14:05.884Z",
-    "genre": "Animation, Sci-Fi & Fantasy, Action & Adventure"
+    "genre": "Animation, Sci-Fi & Fantasy, Action & Adventure",
+    "ageRating": "TV-MA",
+    "network": "MBS"
   },
   {
     "id": "13916",
@@ -12739,7 +13703,9 @@
       }
     ],
     "createdAt": "2026-01-12T13:14:05.986Z",
-    "genre": "Animation, Mystery, Sci-Fi & Fantasy"
+    "genre": "Animation, Mystery, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "Nippon TV"
   },
   {
     "id": "31911",
@@ -12765,7 +13731,9 @@
       }
     ],
     "createdAt": "2026-01-12T13:14:06.170Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-14",
+    "network": "MBS"
   },
   {
     "id": "85937",
@@ -12807,7 +13775,9 @@
       }
     ],
     "createdAt": "2026-01-12T13:14:06.485Z",
-    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy"
+    "genre": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+    "ageRating": "TV-MA",
+    "network": "Fuji TV"
   },
   {
     "id": "105009",
@@ -12833,6 +13803,8 @@
       }
     ],
     "createdAt": "2026-01-12T13:14:06.767Z",
-    "genre": "Animation, Drama, Action & Adventure, Crime"
+    "genre": "Animation, Drama, Action & Adventure, Crime",
+    "ageRating": "TV-MA",
+    "network": "MBS"
   }
 ]
