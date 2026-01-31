@@ -84,34 +84,6 @@
     "network": "Telemundo"
   },
   {
-    "id": "307423",
-    "tmdbId": 307423,
-    "title": "Doménica Montero",
-    "type": "series",
-    "description": "A respected and renowned businesswoman and philanthropist, considered one of the most sought-after brides in the country, who is left at the altar on her wedding day. Humiliated, betrayed, and turned into a target of public scrutiny, Doménica decides to flee and take refuge in one of her parents’ old estates. There, marked by pain, she faces new challenges and meets Luis Fernando, the owner of the neighboring estate, who also carries a painful past. Between them, an explosive relationship develops, marked by pride, misunderstandings, and growing attraction, where land disputes intertwine with their shared desire to rebuild, heal, and give new meaning to their lives.",
-    "poster": "https://image.tmdb.org/t/p/w500/A02M5F5DcQ3glHrvBUSGnzTlvW1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/m9vxP7F52vTyFTlMqppxKFOcCPN.jpg",
-    "year": "2025",
-    "rating": "8.2",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 36,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 40
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:23.869Z",
-    "ageRating": "TV-14",
-    "network": "Univision"
-  },
-  {
     "id": "301507",
     "tmdbId": 301507,
     "title": "Heated Rivalry",
@@ -168,34 +140,6 @@
     "network": "Cosmote TV"
   },
   {
-    "id": "279041",
-    "tmdbId": 279041,
-    "title": "Speed and Love",
-    "type": "series",
-    "description": "After her parents' divorce, Jiang Mu reunites with her adopted brother Jin Chao, now a hardened young man living a dangerous life in Thailand. Despite their growing distance, Jiang Mu's unwavering love helps bridge the gap between them, leading to a journey of healing and redemption as they fight to rebuild their bond and face their struggles together.",
-    "poster": "https://image.tmdb.org/t/p/w500/tnN7OcVOfIhJATSquVzvMoxLPoR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bbSaCxOIew0PfkG2kie7h1Gf3gf.jpg",
-    "year": "2025",
-    "rating": "7.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 29,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 29
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:24.318Z",
-    "ageRating": "",
-    "network": "iQiyi"
-  },
-  {
     "id": "246386",
     "tmdbId": 246386,
     "title": "All Her Fault",
@@ -224,146 +168,6 @@
     "network": "Sky Atlantic"
   },
   {
-    "id": "303911",
-    "tmdbId": 303911,
-    "title": "Meri Zindagi Hai Tu",
-    "type": "series",
-    "description": "Kamyar, a charming yet impulsive man, and Ayra, a principled girl with a pure heart. What begins as a sweet connection turns into a storm of emotions, deception, and longing, testing the strength of love and trust.",
-    "poster": "https://image.tmdb.org/t/p/w500/8b03VAX3nKe4MLDaUoxDlofE85b.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/d5Et1sIIEXdpPJEPKN2FOxCUbIv.jpg",
-    "year": "2025",
-    "rating": "10.0",
-    "genre": "Drama, Family",
-    "category": "Drama, Family",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 15,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 15
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:24.618Z",
-    "ageRating": "",
-    "network": "ARY Digital"
-  },
-  {
-    "id": "302063",
-    "tmdbId": 302063,
-    "title": "Deep in Love",
-    "type": "series",
-    "description": "In a land where people are accustomed to battling fierce waves and constant storms, the story of a woman who stands tall on her feet, with all her emotional strength, resilience and endurance, and a man who is passionate about his \"love\" and who competes with the storms of the Black Sea and struggles with its waves, comes to the screens with an effective script... The ups and downs of the mountains, the sea and the human soul are told through the eyes of a stranger who finds himself in the middle of the endless war between two mortal enemies...",
-    "poster": "https://image.tmdb.org/t/p/w500/uHIOTJXN9nNTc51WyunL43Fvge3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/otEKvJA72Pue5RDgVrBqdOqgAd.jpg",
-    "year": "2025",
-    "rating": "7.7",
-    "genre": "Drama, Family, Soap",
-    "category": "Drama, Family, Soap",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 21,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 21
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:24.765Z",
-    "ageRating": "",
-    "network": "TRT 1"
-  },
-  {
-    "id": "302658",
-    "tmdbId": 302658,
-    "title": "Founder: Orhan",
-    "type": "series",
-    "description": "Kuruluş: Orhan is a Turkish historical drama that follows the life of Orhan Bey, the son of Osman I and the second ruler of the Ottoman Empire. Set in the 14th century, the series portrays Orhan’s transformation from a young warrior into a visionary leader who expands his father's legacy by conquering key Byzantine cities like Bursa and establishing the foundations of a powerful empire. With political intrigue, epic battles, and complex relationships, the show explores Orhan’s rise amidst internal strife and external threats, continuing the legacy of Kuruluş: Osman with a new generation of characters and high-stakes storytelling.",
-    "poster": "https://image.tmdb.org/t/p/w500/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/65K3llBL0wlW0C3pNaQyjWOdwbp.jpg",
-    "year": "2025",
-    "rating": "9.5",
-    "genre": "Drama, Action & Adventure, War & Politics",
-    "category": "Drama, Action & Adventure, War & Politics",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 13
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:24.916Z",
-    "ageRating": "",
-    "network": "atv"
-  },
-  {
-    "id": "285278",
-    "tmdbId": 285278,
-    "title": "Idol I",
-    "type": "series",
-    "description": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
-    "poster": "https://image.tmdb.org/t/p/w500/pKJLNbUh4uO2jwGsMfP4B37pamS.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
-    "year": "2025",
-    "rating": "7.6",
-    "genre": "Mystery, Drama, Crime",
-    "category": "Mystery, Drama, Crime",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:25.065Z",
-    "ageRating": "",
-    "network": "ENA"
-  },
-  {
-    "id": "278165",
-    "tmdbId": 278165,
-    "title": "Me and Thee",
-    "type": "series",
-    "description": "An introverted photographer's life changes when a former mafia boss hires him for love advice, only to end up falling for him instead.\"",
-    "poster": "https://image.tmdb.org/t/p/w500/vq13Nvh0mMUAWGVA9TB9JnvoO5M.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cXCqkzOZ3vAgaskIBwDR2zTkH0M.jpg",
-    "year": "2025",
-    "rating": "9.1",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:25.216Z",
-    "ageRating": "",
-    "network": "GMM 25"
-  },
-  {
     "id": "239385",
     "tmdbId": 239385,
     "title": "The Manipulated",
@@ -390,90 +194,6 @@
     "createdAt": "2026-01-31T18:37:25.366Z",
     "ageRating": "TV-MA",
     "network": "Disney+"
-  },
-  {
-    "id": "289996",
-    "tmdbId": 289996,
-    "title": "Three Graces",
-    "type": "series",
-    "description": "Gerluce became pregnant as a teenager and, just like her mother, Lígia, she raised her child alone. Now, Gerluce watches her daughter Joélly become the third generation of the family to go through the same situation. Besides the impact that teenage pregnancy brings to the whole family, the three Marias das Graças must deal with Lígia’s worsening health.",
-    "poster": "https://image.tmdb.org/t/p/w500/b7CWLN7S9aRGV0RG1BZNCfpw7UN.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bsnzAWs9MITfYgsQ8jp1SQ3AyHI.jpg",
-    "year": "2025",
-    "rating": "7.2",
-    "genre": "Soap, Drama",
-    "category": "Soap, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 179,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 179
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:25.576Z",
-    "ageRating": "",
-    "network": "TV Globo"
-  },
-  {
-    "id": "278577",
-    "tmdbId": 278577,
-    "title": "Shine on Me",
-    "type": "series",
-    "description": "Her heart was anchored in an unrequited love, while the one who truly saw her from the beginning waited in the wings. A tale of a fateful first encounter that changes everything—and a second chance at a love that was always meant to be.",
-    "poster": "https://image.tmdb.org/t/p/w500/8QybFgm5jzNoJPjwWYW1r1ZBdOb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/e2mINd8gwW2zcMtCiDQulHmssum.jpg",
-    "year": "2025",
-    "rating": "7.7",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 36,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 36
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:25.730Z",
-    "ageRating": "",
-    "network": "Tencent Video"
-  },
-  {
-    "id": "262928",
-    "tmdbId": 262928,
-    "title": "Love in the Clouds",
-    "type": "series",
-    "description": "At the annual Qingyun Conference in the Hexu Six Realms, Ji Bozai, a warrior from the Jixing Abyss with a past as a convict, defeated Ming Yi, the cold warrior goddess who had reigned supreme for seven consecutive years. Overnight, Ji Bozai became the hottest new star in Jixing Abyss. Meanwhile, Ming Yi, hiding her true identity, disguised herself as a dancer to get close to Ji Bozai. Under their carefully crafted personas, the two engaged in a thrilling dance of deception and attraction, fighting for justice and fairness, and ultimately found a deep and moving love.",
-    "poster": "https://image.tmdb.org/t/p/w500/alXAb26apN2tbRM91QjeZ0KzHlj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/740EohtgbVDXsiaEoDJPc1k0tVX.jpg",
-    "year": "2025",
-    "rating": "8.3",
-    "genre": "Drama, Sci-Fi & Fantasy",
-    "category": "Drama, Sci-Fi & Fantasy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 36,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 36
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:25.878Z",
-    "ageRating": "",
-    "network": "Youku"
   },
   {
     "id": "238458",
@@ -616,34 +336,6 @@
     "network": "BBC One"
   },
   {
-    "id": "281011",
-    "tmdbId": 281011,
-    "title": "Would You Marry Me?",
-    "type": "series",
-    "description": "A couple who pretend to be newlyweds, find themselves developing genuine feelings for each other as they navigate their fake marriage.",
-    "poster": "https://image.tmdb.org/t/p/w500/pfN6Ln8a6Xw23LQw0vL1YL8Kwqh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/gwbw9uaUyO1mUJMuhhWCttBWdVX.jpg",
-    "year": "2025",
-    "rating": "7.7",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:26.778Z",
-    "ageRating": "",
-    "network": "SBS"
-  },
-  {
     "id": "252193",
     "tmdbId": 252193,
     "title": "Last Samurai Standing",
@@ -760,34 +452,6 @@
     "network": "ONE 31"
   },
   {
-    "id": "278146",
-    "tmdbId": 278146,
-    "title": "Dare You to Death",
-    "type": "series",
-    "description": "When seven college students find themselves trapped in a deadly game, two detectives compete to find the killer — even as their attraction grows.",
-    "poster": "https://image.tmdb.org/t/p/w500/yANLR1kDDGHKCrhfxeFfBsgr70K.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qNTjmaC8y5XnAMzmnULZXixKAm.jpg",
-    "year": "2025",
-    "rating": "9.9",
-    "genre": "Mystery, Crime, Drama",
-    "category": "Mystery, Crime, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:27.523Z",
-    "ageRating": "",
-    "network": "GMM 25"
-  },
-  {
     "id": "279601",
     "tmdbId": 279601,
     "title": "Man vs Baby",
@@ -844,62 +508,6 @@
     "network": "Netflix"
   },
   {
-    "id": "281013",
-    "tmdbId": 281013,
-    "title": "Dynamite Kiss",
-    "type": "series",
-    "description": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
-    "poster": "https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "year": "2025",
-    "rating": "8.2",
-    "genre": "Drama, Comedy",
-    "category": "Drama, Comedy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 14,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 14
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:28.125Z",
-    "ageRating": "",
-    "network": "SBS"
-  },
-  {
-    "id": "272484",
-    "tmdbId": 272484,
-    "title": "Fated Hearts",
-    "type": "series",
-    "description": "After losing her memory in battle, skilled archer Fu Yixiao is taken in by a noble family and unexpectedly reunited with her former enemy, Prince Feng Suige—the man she once struck with an arrow. As they face the dangers of Yujing together, trust replaces suspicion and a deep bond begins to form. Caught in a web of past betrayals and political intrigue, the two must confront their shared history while fighting for survival, freedom, and each other.",
-    "poster": "https://image.tmdb.org/t/p/w500/9fGl4sfmDDJWBiKkVYpU3PCbYuD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/xk1FjT0j5YraC0CQgtq7AGQxT0j.jpg",
-    "year": "2025",
-    "rating": "9.4",
-    "genre": "Drama, Mystery",
-    "category": "Drama, Mystery",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 38,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 38
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:28.278Z",
-    "ageRating": "",
-    "network": "iQiyi"
-  },
-  {
     "id": "304199",
     "tmdbId": 304199,
     "title": "Heaven",
@@ -926,62 +534,6 @@
     "createdAt": "2026-01-31T18:37:28.429Z",
     "ageRating": "TV-MA",
     "network": "HBO Max"
-  },
-  {
-    "id": "306979",
-    "tmdbId": 306979,
-    "title": "LOVE (X)",
-    "type": "series",
-    "description": "This is the a ground-breaking and uplifting dating reality show made in Thailand, where 12 single men and women live together in Koh Samui, cut off from the outside world, pursuing boundless love. Through competitive games, they win dates and survival supplies. In the end, they'll make the final choice about who they want to keep seeing after the show.\n\n\"X\" stands for the unknown, crossing paths and infinite possibilities—find the \"X\" of your dreams together!",
-    "poster": "https://image.tmdb.org/t/p/w500/1Efl3FhOQolH8AHU2B9f29AcmDo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tGXbns99hHl14WpbG0HClFv5f7Q.jpg",
-    "year": "2025",
-    "rating": "1.0",
-    "genre": "Reality",
-    "category": "Reality",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:28.576Z",
-    "ageRating": "",
-    "network": "WeTV"
-  },
-  {
-    "id": "284512",
-    "tmdbId": 284512,
-    "title": "Glory",
-    "type": "series",
-    "description": "After being framed in an old murder case, rising magistrate Lu Jianglai loses everything. Rescued by tea magnate’s daughter Rong Shanbao, he is forced into servitude as part of her revenge. As they navigate power struggles and hidden agendas, they uncover secrets, solve mysteries, and transform the tea trade—ultimately forging an unexpected bond that changes their fates.",
-    "poster": "https://image.tmdb.org/t/p/w500/A0JIPhjkXP4sndTM1Bf4e2RhqOy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4aOPfX99r4DXXHtOC0GMsXoPF9C.jpg",
-    "year": "2025",
-    "rating": "8.6",
-    "genre": "Mystery",
-    "category": "Mystery",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 36,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 36
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:28.725Z",
-    "ageRating": "",
-    "network": "Mango TV"
   },
   {
     "id": "305062",
@@ -1012,34 +564,6 @@
     "network": "Exxen"
   },
   {
-    "id": "305469",
-    "tmdbId": 305469,
-    "title": "Vicdansız",
-    "type": "series",
-    "description": "Deniz, an ambitious and level-headed investment advisor rising in the finance sector, finds himself torn between a dazzling career and love. His planned future is shattered by a car accident, and the woman he loves, Vicdan, disappears. Trapped in a triangle of memory, passion, and suspicion, Deniz searches for Vicdan while simultaneously tracing the meaning of a love that has lost its purpose.",
-    "poster": "https://image.tmdb.org/t/p/w500/cJP3MIsATc3PoK7CqwYUWzi7GiO.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/dgFfMRk2THqiJXwQET2taHJAZRZ.jpg",
-    "year": "2025",
-    "rating": "10.0",
-    "genre": "Drama, Mystery, Sci-Fi & Fantasy",
-    "category": "Drama, Mystery, Sci-Fi & Fantasy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:29.023Z",
-    "ageRating": "",
-    "network": "TOD"
-  },
-  {
     "id": "277752",
     "tmdbId": 277752,
     "title": "City of Shadows",
@@ -1066,34 +590,6 @@
     "createdAt": "2026-01-31T18:37:29.172Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "294968",
-    "tmdbId": 294968,
-    "title": "Los Protegidos: Un nuevo poder",
-    "type": "series",
-    "description": "",
-    "poster": "https://image.tmdb.org/t/p/w500/znq1gVSpGj9pmuhmkRoLbQgLr9A.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/qoBCcx25NbiEFcTlYUXfeNjb2q5.jpg",
-    "year": "2025",
-    "rating": "7.5",
-    "genre": "Sci-Fi & Fantasy, Drama",
-    "category": "Sci-Fi & Fantasy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 5,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 5
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:29.325Z",
-    "ageRating": "",
-    "network": "Atresplayer"
   },
   {
     "id": "246473",
@@ -1124,62 +620,6 @@
     "network": "Disney+"
   },
   {
-    "id": "284744",
-    "tmdbId": 284744,
-    "title": "Pro Bono",
-    "type": "series",
-    "description": "When a respected judge's world falls apart overnight, he joins a top law firm's pro bono team — where hope and purpose wait in humble, unexpected places.",
-    "poster": "https://image.tmdb.org/t/p/w500/dGFoZ6gIuifSF35zCyyS2cBdkWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
-    "year": "2025",
-    "rating": "8.2",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:29.633Z",
-    "ageRating": "TV-MA",
-    "network": "tvN"
-  },
-  {
-    "id": "284879",
-    "tmdbId": 284879,
-    "title": "Las hijas de la criada",
-    "type": "series",
-    "description": "",
-    "poster": "https://image.tmdb.org/t/p/w500/wvYndp4ARcTpbsQNHvdbAeeazbE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bJAZn4cfhUmLeqsKHjA5grWhFfA.jpg",
-    "year": "2025",
-    "rating": "8.2",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 8,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 8
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:29.781Z",
-    "ageRating": "",
-    "network": "Atresplayer"
-  },
-  {
     "id": "256226",
     "tmdbId": 256226,
     "title": "Dear X",
@@ -1206,34 +646,6 @@
     "createdAt": "2026-01-31T18:37:29.933Z",
     "ageRating": "",
     "network": "TVING"
-  },
-  {
-    "id": "305111",
-    "tmdbId": 305111,
-    "title": "My hidden truth",
-    "type": "series",
-    "description": "My Hidden Truth's main ingredients are revenge, uncertainty, reunions, and love. The telenovela follows the story of Aitana (González), a woman who appears tough because she was raped as a young woman by the Lizárraga brothers, against whom she swears revenge. Life surprises her when she falls in love with Luciano (Chocarro), the eldest of the Lizárraga brothers.",
-    "poster": "https://image.tmdb.org/t/p/w500/nUg9K3HIV81S4nBXDhwsRZiLSko.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4mOTIpOOyU1CxiFKR5BeBn5IMqU.jpg",
-    "year": "2025",
-    "rating": "7.4",
-    "genre": "Soap",
-    "category": "Soap",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 15,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 65
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:30.083Z",
-    "ageRating": "",
-    "network": "Las Estrellas"
   },
   {
     "id": "249551",
@@ -1320,34 +732,6 @@
     "network": "Netflix"
   },
   {
-    "id": "306118",
-    "tmdbId": 306118,
-    "title": "Bound by Fate",
-    "type": "series",
-    "description": "Ateş, a man haunted by childhood scars and consumed by rage, returns to destroy the family that shattered his life years ago. His weapon is not a sword, but a marriage: 187 days with Mercan, the daughter of his enemy. Mercan, already promised to Nezir, is thrust into a battle she never chose, while Ateş binds her to him believing she is the key to his revenge. Yet the woman he intends to destroy becomes the one who threatens to undo him. And in the shadows, Aslı – driven by jealousy, seizes every chance to tear them apart.",
-    "poster": "https://image.tmdb.org/t/p/w500/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
-    "year": "2025",
-    "rating": "9.6",
-    "genre": "Drama, Family",
-    "category": "Drama, Family",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 65,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 65
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:30.683Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "306355",
     "tmdbId": 306355,
     "title": "Jasmine",
@@ -1374,38 +758,6 @@
     "createdAt": "2026-01-31T18:37:30.834Z",
     "ageRating": "TV-MA",
     "network": "HBO Max"
-  },
-  {
-    "id": "296146",
-    "tmdbId": 296146,
-    "title": "The Punishment",
-    "type": "series",
-    "description": "In a rapidly developing Hanzhou, police officer Qin Feng and his sworn brother Liu Tianye face off against dangerous criminals while grappling with deep moral dilemmas and the complicated ties between family, power, and justice.",
-    "poster": "https://image.tmdb.org/t/p/w500/3WtMUOxJBUjQXR192BJRY5Zmbs1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/j8OYff3PaKpSVdt9FbpjmcrpG8N.jpg",
-    "year": "2025",
-    "rating": "9.7",
-    "genre": "Crime",
-    "category": "Crime",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 2,
-    "totalEpisodes": 40,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 40
-      },
-      {
-        "season": 2,
-        "episodesCount": 0
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:30.985Z",
-    "ageRating": "",
-    "network": "iQiyi"
   },
   {
     "id": "278009",
@@ -1464,34 +816,6 @@
     "network": "Hulu"
   },
   {
-    "id": "300388",
-    "tmdbId": 300388,
-    "title": "Sins and Roses",
-    "type": "series",
-    "description": "As a boy, Serhat lost both his father and fortune but built an empire on family and integrity. His world shatters when his wife Berrak hides a devastating secret and falls into a coma. While searching for answers, his heart hardens—until he meets Zeynep, a passionate florist chasing the same truth, igniting a journey of trust, passion, and redemption.",
-    "poster": "https://image.tmdb.org/t/p/w500/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/e2hpVdY2WVJDz3y0nEHszhtR24q.jpg",
-    "year": "2025",
-    "rating": "9.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 15,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 15
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:31.432Z",
-    "ageRating": "",
-    "network": "Kanal D"
-  },
-  {
     "id": "246864",
     "tmdbId": 246864,
     "title": "Amadeus",
@@ -1546,34 +870,6 @@
     "createdAt": "2026-01-31T18:37:31.729Z",
     "ageRating": "",
     "network": "Hunan Television"
-  },
-  {
-    "id": "281005",
-    "tmdbId": 281005,
-    "title": "Surely Tomorrow",
-    "type": "series",
-    "description": "In their twenties, Lee Kyeong-do and Seo Ji-woo part ways after two passionate relationships. A decade later, they meet again as a reporter who covers an adultery scandal and the wife of the man at the center of that scandal. Reuniting in their late thirties, their youth has passed, but their love remains vivid. Kyeong-do now strives to prove to her and to himself that he still loves her.",
-    "poster": "https://image.tmdb.org/t/p/w500/k9xPcIsxXbc1Xuf45K0FU8yM2m5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2sthhg2okBF91wlwxvFaM4eXiTg.jpg",
-    "year": "2025",
-    "rating": "8.1",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:31.878Z",
-    "ageRating": "",
-    "network": "JTBC"
   },
   {
     "id": "217837",
@@ -1632,34 +928,6 @@
     "network": "Netflix"
   },
   {
-    "id": "297710",
-    "tmdbId": 297710,
-    "title": "School Trip: Joined a Group I'm Not Close To",
-    "type": "series",
-    "description": "An awkward teen joins a group of popular classmates on a school trip, sparking an unexpected romance with the most popular and charming boy in school.",
-    "poster": "https://image.tmdb.org/t/p/w500/hlgLNj2vg7XHixFpg2EJRf9JIsZ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/3YXRu9tLvpAfaNYuNswaBDpSALU.jpg",
-    "year": "2025",
-    "rating": "8.8",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:32.327Z",
-    "ageRating": "",
-    "network": "ABC TV"
-  },
-  {
     "id": "223896",
     "tmdbId": 223896,
     "title": "Spirit Fingers",
@@ -1686,90 +954,6 @@
     "createdAt": "2026-01-31T18:37:32.479Z",
     "ageRating": "",
     "network": "TVING"
-  },
-  {
-    "id": "305702",
-    "tmdbId": 305702,
-    "title": "Nadu Center",
-    "type": "series",
-    "description": "They fight, they fall, they rise... together!",
-    "poster": "https://image.tmdb.org/t/p/w500/k5zMt469A1giYBHqT4hPyNBJfs4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/vHTeuhtrMvQYSf6iGcafWiNSpOi.jpg",
-    "year": "2025",
-    "rating": "8.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 17,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 17
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:32.630Z",
-    "ageRating": "TV-MA",
-    "network": "JioHotstar"
-  },
-  {
-    "id": "254482",
-    "tmdbId": 254482,
-    "title": "The Vendetta of An",
-    "type": "series",
-    "description": "Xie Huai'an, son of the Huben Army's creator, survives his family's massacre. After ten long years in hiding, he returns to Chang'an disguised as a lowly registrar, moving step by step through jianghu clashes and palace power plays in a tense battle of wits to avenge his family and safeguard the realm.",
-    "poster": "https://image.tmdb.org/t/p/w500/vMwB4BNicfWJl0JhU7YQApcoiHE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/khHpr9W9cZ7mlQGvabC2IeG69pg.jpg",
-    "year": "2025",
-    "rating": "8.4",
-    "genre": "Drama, Mystery, War & Politics",
-    "category": "Drama, Mystery, War & Politics",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 28,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 28
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:32.776Z",
-    "ageRating": "TV-14",
-    "network": "Youku"
-  },
-  {
-    "id": "261663",
-    "tmdbId": 261663,
-    "title": "Blood River",
-    "type": "series",
-    "description": "Blood River is the realm's most feared assassin guild, jointly run by the Su, Mu, and Xie clans. They can strike royals in court and crush great sects in the wild. When the patriarch is poisoned on a mission, the three clans vie for the top seat. Su Muyu leads the Spider-Shadow unit and shields the dying leader on the road to a cure. He clashes with elder Su Zhe and old friend Su Changhe, and meets master healer Bai Hehuai. After brutal power struggles, Su Changhe becomes new patriarch and Su Muyu heads the Su clan. They launch the \"Other Shore Plan\" to drag Blood River out of the shadow and forge a new destiny, free from being anyone's blade.",
-    "poster": "https://image.tmdb.org/t/p/w500/jvxV9A8IcgeCqnagkfCsHSg4y5J.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ftVwJEKXCgCKGCb75e3MXwEBWBV.jpg",
-    "year": "2025",
-    "rating": "8.2",
-    "genre": "Drama, Action & Adventure, Sci-Fi & Fantasy",
-    "category": "Drama, Action & Adventure, Sci-Fi & Fantasy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 38,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 38
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:32.925Z",
-    "ageRating": "",
-    "network": "Youku"
   },
   {
     "id": "282440",
@@ -1828,62 +1012,6 @@
     "network": "Netflix"
   },
   {
-    "id": "285770",
-    "tmdbId": 285770,
-    "title": "Nice to Not Meet You",
-    "type": "series",
-    "description": "A hateful romance between a professional detective actor who wants to become a melodrama master and a female reporter who was demoted from a political reporter who won the Reporter of the Year award to the entertainment department.",
-    "poster": "https://image.tmdb.org/t/p/w500/h14bGZcVxYQzLoxC8KYqUVWvYfU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/fc4Shbli2S1BwUgoTjvP3BIM9VX.jpg",
-    "year": "2025",
-    "rating": "7.6",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 16
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:33.372Z",
-    "ageRating": "",
-    "network": "tvN"
-  },
-  {
-    "id": "304774",
-    "tmdbId": 304774,
-    "title": "Sekizinci Aile",
-    "type": "series",
-    "description": "With their invention of bulletproof thermal underwear, the Basmacıgil Family earns the title of the Eighth Family, one of the ruling forces of the world. Yet, as six very different siblings attempt to run the family business, their well-meaning but ineffective efforts leave their father Erol convinced that “no outside enemy is necessary.\"",
-    "poster": "https://image.tmdb.org/t/p/w500/y8NmGRfD3GuhhR8bTj7rXWkOMqk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2pi53UfC61zRYDU7BOlNoEG3myo.jpg",
-    "year": "2025",
-    "rating": "8.8",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 8,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 8
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:33.523Z",
-    "ageRating": "",
-    "network": "Disney+"
-  },
-  {
     "id": "304790",
     "tmdbId": 304790,
     "title": "Daughter of Fire",
@@ -1912,118 +1040,6 @@
     "network": "Disney+"
   },
   {
-    "id": "274570",
-    "tmdbId": 274570,
-    "title": "Moon River",
-    "type": "series",
-    "description": "In Joseon, a vengeful crown prince and a memory-lost merchant mysteriously swap bodies, unraveling a web of chaos, secrets, and unexpected fate.",
-    "poster": "https://image.tmdb.org/t/p/w500/nVl892J7boHDS5blMi97wQK7BUt.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2i4WbWTwMNTHAVuoAcAUrI05PP1.jpg",
-    "year": "2025",
-    "rating": "8.7",
-    "genre": "Drama, Mystery, Comedy",
-    "category": "Drama, Mystery, Comedy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 14,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 14
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:33.838Z",
-    "ageRating": "",
-    "network": "MBC"
-  },
-  {
-    "id": "240442",
-    "tmdbId": 240442,
-    "title": "Sword and Beloved",
-    "type": "series",
-    "description": "The drama series revolves around Wangquan Fugui, who is trained as the ultimate demon-slayer of the Yiqi Alliance since childhood, meeting Qing Tong, a spider demon who infiltrates Wangquan Manor as a spy. Qing Tong’s presence allows Fugui to broaden his horizon and change his view on demons. Yearning for freedom, Fugui’s fervor for attaining world peace is gradually ignited. After experiencing extreme agony, he leaves Wangquan Manor with Qing Tong, embarking on a journey of self-enlightenment.",
-    "poster": "https://image.tmdb.org/t/p/w500/vW0BW5OiQufPnCyWhi4czVL3nhf.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kSx7TUpI5uJUqgPMtu5R7Q3VZRe.jpg",
-    "year": "2025",
-    "rating": "7.1",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 36,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 36
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:33.986Z",
-    "ageRating": "",
-    "network": "iQiyi"
-  },
-  {
-    "id": "293391",
-    "tmdbId": 293391,
-    "title": "To My Shore",
-    "type": "series",
-    "description": "After a car accident, a ruthless Thai heir and a reserved company executive become trapped in a dangerous game of desire that spirals into obsession.",
-    "poster": "https://image.tmdb.org/t/p/w500/w1iU3Ak0HaJfMeIVGVgvOWLuYx3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
-    "year": "2025",
-    "rating": "8.8",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 15,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 15
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:34.133Z",
-    "ageRating": "",
-    "network": "Viki"
-  },
-  {
-    "id": "302569",
-    "tmdbId": 302569,
-    "title": "What Lies Beneath",
-    "type": "series",
-    "description": "A fractured group of women reunites to fulfill a childhood dream and honor a lost friend, but a dark secret from their past threatens to tear them apart.",
-    "poster": "https://image.tmdb.org/t/p/w500/c8RKrOPi5WilwsfnxAX5VkHES6t.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/f9SDu0heIEpJJsM8ldKyE07QFXr.jpg",
-    "year": "2025",
-    "rating": "8.0",
-    "genre": "Drama, Action & Adventure, Comedy, Mystery, Crime",
-    "category": "Drama, Action & Adventure, Comedy, Mystery, Crime",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 100,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 100
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:34.278Z",
-    "ageRating": "",
-    "network": "TV5"
-  },
-  {
     "id": "293613",
     "tmdbId": 293613,
     "title": "Physical: Asia",
@@ -2050,34 +1066,6 @@
     "createdAt": "2026-01-31T18:37:34.434Z",
     "ageRating": "TV-14",
     "network": "Netflix"
-  },
-  {
-    "id": "278142",
-    "tmdbId": 278142,
-    "title": "Burnout Syndrome",
-    "type": "series",
-    "description": "After losing his dream job, a burned-out artist falls between two men—a charming IT guy and a reclusive tycoon who hires him to be his public face.",
-    "poster": "https://image.tmdb.org/t/p/w500/zfR2hYGHWVyDA8ZseaGOW8EMuR1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/kGEkFEt5JuGTS3DGTAOOMj3paqz.jpg",
-    "year": "2025",
-    "rating": "9.5",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:34.884Z",
-    "ageRating": "",
-    "network": "GMM 25"
   },
   {
     "id": "271885",
@@ -2134,90 +1122,6 @@
     "createdAt": "2026-01-31T18:37:35.180Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "275989",
-    "tmdbId": 275989,
-    "title": "Love Me",
-    "type": "series",
-    "description": "An OB-GYN who seems to have it all hides the pain of running away from her family after a tragic accident, until a man who sees through her loneliness enters her life and changes everything.",
-    "poster": "https://image.tmdb.org/t/p/w500/6rp6pV7vrBA8JDUuiNOQyHge6D5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8KIO1i7fjmUljw9Oyl3NstQz760.jpg",
-    "year": "2025",
-    "rating": "8.2",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:35.329Z",
-    "ageRating": "",
-    "network": "JTBC"
-  },
-  {
-    "id": "263048",
-    "tmdbId": 263048,
-    "title": "Sniper Butterfly",
-    "type": "series",
-    "description": "A captivating romance unfolds between a confident, cat-like woman and a bold, loyal younger man. As they navigate their differences, they find mutual healing and redemption, leading to a passionate, fate-driven love story full of tension and desire.",
-    "poster": "https://image.tmdb.org/t/p/w500/2lt4ZRGElT9uG4TEM1bkOjN86nk.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zBgOoOIfVdPbIUkaT9lxthcsUAZ.jpg",
-    "year": "2025",
-    "rating": "6.5",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 30,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 30
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:35.478Z",
-    "ageRating": "",
-    "network": "Tencent Video"
-  },
-  {
-    "id": "282836",
-    "tmdbId": 282836,
-    "title": "Ekaki",
-    "type": "series",
-    "description": "A group of friends plan a fun weekend getaway to the mysterious Ekaki Villa, only to find themselves caught between laughter and fear when strange haunting begin. Filled with hilarious chaos, spooky twists, and emotional moments",
-    "poster": "https://image.tmdb.org/t/p/w500/kl4YdaWHMv1yRLY7IeUe1UsamEH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/2Y74Tj57mwJj5bMuJW1SuuJbPKx.jpg",
-    "year": "2025",
-    "rating": "8.5",
-    "genre": "Comedy, Mystery, Sci-Fi & Fantasy",
-    "category": "Comedy, Mystery, Sci-Fi & Fantasy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 5,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 5
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:35.629Z",
-    "ageRating": "",
-    "network": "YouTube"
   },
   {
     "id": "253391",
@@ -2536,34 +1440,6 @@
     "network": "Netflix"
   },
   {
-    "id": "279136",
-    "tmdbId": 279136,
-    "title": "Love Between Lines",
-    "type": "series",
-    "description": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
-    "poster": "https://image.tmdb.org/t/p/w500/e6KG7btTdg9wr1UfN2tFG5bQZOG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/voXmpCHYbScGXD8NBUYzE3nJl4J.jpg",
-    "year": "2026",
-    "rating": "7.9",
-    "genre": "Drama, Mystery",
-    "category": "Drama, Mystery",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 28,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 28
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:37.773Z",
-    "ageRating": "",
-    "network": "iQiyi"
-  },
-  {
     "id": "281401",
     "tmdbId": 281401,
     "title": "Finding Her Edge",
@@ -2676,62 +1552,6 @@
     "network": "Paramount+"
   },
   {
-    "id": "280948",
-    "tmdbId": 280948,
-    "title": "Spring Fever",
-    "type": "series",
-    "description": "After moving to a quiet rural town to heal from past heartbreak, a withdrawn teacher slowly rediscovers warmth and joy through her unexpected connection with a rough-around-the-edges but kindhearted local man.",
-    "poster": "https://image.tmdb.org/t/p/w500/50e9qtv8rKmcayAQSgB9P9XELpQ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nRxbtO6OchyepUL2Zr4dpMZsdsX.jpg",
-    "year": "2026",
-    "rating": "7.9",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:38.788Z",
-    "ageRating": "",
-    "network": "tvN"
-  },
-  {
-    "id": "312182",
-    "tmdbId": 312182,
-    "title": "El Mochaorejas",
-    "type": "series",
-    "description": "",
-    "poster": "https://image.tmdb.org/t/p/w500/oYZ5gWX0wgqQQojoGK9d482qI5f.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/thpwV2VeRrM0Ip3fmg7NSL5LUYo.jpg",
-    "year": "2026",
-    "rating": "8.4",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:39.102Z",
-    "ageRating": "TV-MA",
-    "network": "ViX"
-  },
-  {
     "id": "307534",
     "tmdbId": 307534,
     "title": "Free Bert",
@@ -2758,34 +1578,6 @@
     "createdAt": "2026-01-31T18:37:39.299Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "309328",
-    "tmdbId": 309328,
-    "title": "Underground",
-    "type": "series",
-    "description": "Haydar Ali after avenging his family’s murder, ends up in prison. There, he finds himself in the middle of one of Türkiye’s most dangerous underground cartels. However, the truly deadly confrontation begins three years later, when he regains his freedom and learns that the woman whom he has never been able to forget, is now the wife of the man closest to him.",
-    "poster": "https://image.tmdb.org/t/p/w500/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cUFnlGkVhKwVNFMMkmhJ97yCaWQ.jpg",
-    "year": "2026",
-    "rating": "10.0",
-    "genre": "Drama, Action & Adventure",
-    "category": "Drama, Action & Adventure",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 3,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 3
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:39.451Z",
-    "ageRating": "",
-    "network": "NOW"
   },
   {
     "id": "291339",
@@ -2844,62 +1636,6 @@
     "network": "Prime Video"
   },
   {
-    "id": "157194",
-    "tmdbId": 157194,
-    "title": "Pole to Pole with Will Smith",
-    "type": "series",
-    "description": "Inspired by his late mentor, Will Smith spends 100 days facing extreme challenges, venturing from pole to pole with scientists, explorers and experts.",
-    "poster": "https://image.tmdb.org/t/p/w500/74zSvHdqFoCfQdXc8ZFqhkrbrPj.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/dF5w4FpM62F4wygVUJMiDhAGwX8.jpg",
-    "year": "2026",
-    "rating": "5.9",
-    "genre": "Documentary",
-    "category": "Documentary",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 7,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 7
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:39.898Z",
-    "ageRating": "TV-14",
-    "network": "National Geographic"
-  },
-  {
-    "id": "279446",
-    "tmdbId": 279446,
-    "title": "Swords Into Plowshares",
-    "type": "series",
-    "description": "During the tumultuous period of the Five Dynasties and Ten Kingdoms, three determined youths—Qian Hongshu, Zhao Kuangyin, and Guo Rong—navigate the chaos of political upheaval and war as they strive to overcome the suffering caused by endless conflict.",
-    "poster": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/c5mwcq4lvp96cHPgAWE1uxdwxkR.jpg",
-    "year": "2026",
-    "rating": "8.5",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 48,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 48
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:40.092Z",
-    "ageRating": "",
-    "network": "iQiyi"
-  },
-  {
     "id": "250505",
     "tmdbId": 250505,
     "title": "Agatha Christie's Seven Dials",
@@ -2956,34 +1692,6 @@
     "network": "Sky Atlantic"
   },
   {
-    "id": "270420",
-    "tmdbId": 270420,
-    "title": "No Tail to Tell",
-    "type": "series",
-    "description": "Imbued with the power to grant wishes, a cynical nine-tailed fox's life takes a turn when she encounters a soccer player — altering both of their fates.",
-    "poster": "https://image.tmdb.org/t/p/w500/bSX49M4tjDsnC8dOVQxt1sLgH6z.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-    "year": "2026",
-    "rating": "8.7",
-    "genre": "Sci-Fi & Fantasy, Comedy, Drama",
-    "category": "Sci-Fi & Fantasy, Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:40.541Z",
-    "ageRating": "",
-    "network": "SBS"
-  },
-  {
     "id": "309400",
     "tmdbId": 309400,
     "title": "Wake",
@@ -3010,62 +1718,6 @@
     "createdAt": "2026-01-31T18:37:40.740Z",
     "ageRating": "",
     "network": "Prime Video"
-  },
-  {
-    "id": "263219",
-    "tmdbId": 263219,
-    "title": "Loving Strangers",
-    "type": "series",
-    "description": "Jiang Jiaqi, nearing forty, struggles with a failing marriage and workplace oppression. His life becomes more complicated when he is implicated in a bribery case with his subordinate, Liang Zhi'an, a twenty-year-old woman burdened by her parents' death and caring for her paralyzed grandmother. Despite their different lives, Liang’s presence reignites Jiang's spirit, and as they connect with supportive figures around them, they find warmth, encouragement, and healing in each other amidst their struggles.",
-    "poster": "https://image.tmdb.org/t/p/w500/3RaNQQsUl0eArTVIjHhqCGmMJd1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/y1k8KhifyLJxZUK3ObviZiQREPJ.jpg",
-    "year": "2026",
-    "rating": "7.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 28,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 28
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:41.041Z",
-    "ageRating": "",
-    "network": "Youku"
-  },
-  {
-    "id": "293608",
-    "tmdbId": 293608,
-    "title": "Undercover Miss Hong",
-    "type": "series",
-    "description": "A retro office comedy depicting the chaotic events that unfold in the late 1990s when Sammo Hung, a 30-year-old elite securities supervisor who only cares about work, goes undercover as a 20-year-old high school graduate employee at a securities firm where suspicious money flows are detected.",
-    "poster": "https://image.tmdb.org/t/p/w500/bZr3i8yczHGDzyqZQ9oOArEEVON.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
-    "year": "2026",
-    "rating": "7.2",
-    "genre": "Crime, Comedy, Drama",
-    "category": "Crime, Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 16
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:41.342Z",
-    "ageRating": "",
-    "network": "tvN"
   },
   {
     "id": "296523",
@@ -3124,34 +1776,6 @@
     "network": "Netflix"
   },
   {
-    "id": "282810",
-    "tmdbId": 282810,
-    "title": "The Judge Returns",
-    "type": "series",
-    "description": "The return of corrupt judge Lee Han-young, who was a slave to a large law firm, to the past 10 years ago. He makes new choices to punish evil and implement justice.",
-    "poster": "https://image.tmdb.org/t/p/w500/AjLnvyKlbTPS9DnX8exBqF2RTIU.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
-    "year": "2026",
-    "rating": "10.0",
-    "genre": "Crime, Sci-Fi & Fantasy, Drama",
-    "category": "Crime, Sci-Fi & Fantasy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 14,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 14
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:41.951Z",
-    "ageRating": "",
-    "network": "MBC"
-  },
-  {
     "id": "310045",
     "tmdbId": 310045,
     "title": "To Love, To Lose",
@@ -3178,34 +1802,6 @@
     "createdAt": "2026-01-31T18:37:42.101Z",
     "ageRating": "",
     "network": "Netflix"
-  },
-  {
-    "id": "311025",
-    "tmdbId": 311025,
-    "title": "Affinity",
-    "type": "series",
-    "description": "In 2051, bioengineering student Wu Nongyu and sociopath Xie Xinxu are drawn together by a mysterious genetic attraction. As their relationship grows, they must confront their pasts and navigate love, trust, and redemption while racing to find a way to break the powerful bond that threatens to control their lives.",
-    "poster": "https://image.tmdb.org/t/p/w500/wtKiLj7qZVh4L7SzY1WwVJeo5uh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/a3byMX05QBzscC6058wfaod2Ffq.jpg",
-    "year": "2026",
-    "rating": "10.0",
-    "genre": "Sci-Fi & Fantasy, Drama",
-    "category": "Sci-Fi & Fantasy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 34,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 34
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:42.292Z",
-    "ageRating": "",
-    "network": "Youku"
   },
   {
     "id": "293550",
@@ -3262,34 +1858,6 @@
     "createdAt": "2026-01-31T18:37:42.591Z",
     "ageRating": "TV-14",
     "network": "RCN"
-  },
-  {
-    "id": "280916",
-    "tmdbId": 280916,
-    "title": "My Page in the 90s",
-    "type": "series",
-    "description": "A laugh-a-minute romantic comedy where a 2025 feelings coach gets zapped into a cheesy vintage novel and meets her match, a 1999 CEO who's sweet on the outside but shrewd within. In the ultimate battle of romantic tactics, who will out-scheme whom? To get home, influencer Lin Huan'er launches an operation to win over CEO Gao Haiming, only for her clever plans to hilariously backfire. Just as her ticket home appears, she realizes her heart has already checked in for good. Can this cross-storybook couple write their own happy ending?",
-    "poster": "https://image.tmdb.org/t/p/w500/n9sn9JUuly9cVQLpRsmLtot2Ce7.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/c5Rqjj7f72oS10tzgKzpau9Uq2B.jpg",
-    "year": "2026",
-    "rating": "9.0",
-    "genre": "Drama, Comedy",
-    "category": "Drama, Comedy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 28,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 24
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:42.741Z",
-    "ageRating": "",
-    "network": "Tencent Video"
   },
   {
     "id": "308606",
@@ -3628,34 +2196,6 @@
     "network": "TrueVisions"
   },
   {
-    "id": "301886",
-    "tmdbId": 301886,
-    "title": "To My Beloved Thief",
-    "type": "series",
-    "description": "A noblewoman who becomes a righteous bandit called Gil Dong, and Joseon Prince Yi Yeol who secretly investigates this bandit, only to find their souls mysteriously swapped, forcing them to work together and fall in love amidst intrigue, as they uncover conspiracies while protecting the people!",
-    "poster": "https://image.tmdb.org/t/p/w500/rovxC2ugTtaMsgo7lOF4R4VBSb9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/enTNCPGiu3dhul8XTBZEJCLZWbI.jpg",
-    "year": "2026",
-    "rating": "9.5",
-    "genre": "Sci-Fi & Fantasy, Comedy, Drama",
-    "category": "Sci-Fi & Fantasy, Comedy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 16
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:45.769Z",
-    "ageRating": "",
-    "network": "KBS2"
-  },
-  {
     "id": "275631",
     "tmdbId": 275631,
     "title": "The Unusual Prosecutor",
@@ -3684,34 +2224,6 @@
     "network": "TVB Jade"
   },
   {
-    "id": "310759",
-    "tmdbId": 310759,
-    "title": "La preside",
-    "type": "series",
-    "description": "",
-    "poster": "https://image.tmdb.org/t/p/w500/6IPH7WaQjMnwZBL9g4IwvOBjdD1.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pVW032NvvX3uCLc77t4REHTTPfp.jpg",
-    "year": "2026",
-    "rating": "5.4",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 2,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 6
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:46.077Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "252161",
     "tmdbId": 252161,
     "title": "Haunted House Secrets",
@@ -3738,62 +2250,6 @@
     "createdAt": "2026-01-31T18:37:46.228Z",
     "ageRating": "",
     "network": "Disney+"
-  },
-  {
-    "id": "259554",
-    "tmdbId": 259554,
-    "title": "The Glamorous Night",
-    "type": "series",
-    "description": "At a lavish banquet, long-suppressed tensions within GST Liquor Company suddenly erupt, triggering a crisis that puts everyone’s survival at risk. As seven key figures each take on different roles in the chaos, their actions expose the complexities of human nature and the harsh realities of corporate life.",
-    "poster": "https://image.tmdb.org/t/p/w500/208mntcZYYJqtihyQVex9pRCodT.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/z27pWxc4kLdMatQuSnNXOVVXZc6.jpg",
-    "year": "2026",
-    "rating": "9.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 24,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 24
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:46.378Z",
-    "ageRating": "",
-    "network": "Tencent Video"
-  },
-  {
-    "id": "312114",
-    "tmdbId": 312114,
-    "title": "The Blood of Youth: Quest of Heroic Hearts",
-    "type": "series",
-    "description": "The reappearance of the legendary Tianzhan Sword plunges the martial world into turmoil, drawing the solitary swordsman Wei Gui and the hot-blooded youth Lei Lingze into a perilous quest that exposes a hidden conspiracy and tests their bond against betrayal and the fate of the realm.",
-    "poster": "https://image.tmdb.org/t/p/w500/nBYjnwpcrSLWYoYHqy15fRSXDUz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/22w6lcuTKl7zTaAdfwC3fIN7n1P.jpg",
-    "year": "2026",
-    "rating": "10.0",
-    "genre": "Drama, Action & Adventure",
-    "category": "Drama, Action & Adventure",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 24,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 24
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:46.526Z",
-    "ageRating": "",
-    "network": "Youku"
   },
   {
     "id": "306657",
@@ -3880,34 +2336,6 @@
     "network": "Netflix"
   },
   {
-    "id": "290278",
-    "tmdbId": 290278,
-    "title": "The Name Is Varvara",
-    "type": "series",
-    "description": "The TV series \"Your Name Is Varvara\" reveals to the viewer what is hidden in the shadows of life, i.e. what human life (according to the latest findings) looks like in the modern world today. Without a classic main character, and with Varvara as the first among equals, this series, through ten episodes, describes in detail the fates of several main characters who are all focused on one common goal - the search for happiness.",
-    "poster": "https://image.tmdb.org/t/p/w500/f4GTlFOrmYjoRLeuD8guSlg4yr5.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/91zWasLjPN0n3ySYXiXsVMTO9qx.jpg",
-    "year": "2026",
-    "rating": "8.0",
-    "genre": "Drama, Comedy, Action & Adventure, Crime",
-    "category": "Drama, Comedy, Action & Adventure, Crime",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:47.276Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "285636",
     "tmdbId": 285636,
     "title": "Time Flies",
@@ -3934,34 +2362,6 @@
     "createdAt": "2026-01-31T18:37:47.725Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "289723",
-    "tmdbId": 289723,
-    "title": "The Guilty",
-    "type": "series",
-    "description": "A kidnapping case uncovers a decade-old murder hidden in an old phonograph recording. As the investigation reveals shocking secrets, three young people, once full of potential, form an unbreakable bond, facing their dark pasts and protecting each other from fate’s grip.",
-    "poster": "https://image.tmdb.org/t/p/w500/bPtFzD2OBiYfaRkYFsCAbovGvfD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/6Vr1InH5TksuRSvEGjP2e1oV5ea.jpg",
-    "year": "2026",
-    "rating": "9.5",
-    "genre": "Drama, Crime",
-    "category": "Drama, Crime",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 14,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 14
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:47.875Z",
-    "ageRating": "",
-    "network": "iQiyi"
   },
   {
     "id": "312017",
@@ -4020,34 +2420,6 @@
     "network": "ERT1"
   },
   {
-    "id": "262957",
-    "tmdbId": 262957,
-    "title": "My Dearest Stranger",
-    "type": "series",
-    "description": "Detective Song Cheng discovers a link between a current case and an unsolved crime from four years ago, both tied to key witness Yu Xiao. As he digs deeper, Yu Xiao’s hidden past comes to light. She joins the investigation with Song Cheng’s support, but mounting obstacles threaten their pursuit of the truth. Together, they fight to uncover the real culprit and bring justice to light.",
-    "poster": "https://image.tmdb.org/t/p/w500/8wSEvsH1UWUIqacz9ZBCbU7i5LH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/c841YfQpZg91vi1lNZmcf1XANqv.jpg",
-    "year": "2026",
-    "rating": "8.0",
-    "genre": "Drama, Mystery",
-    "category": "Drama, Mystery",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 13,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 13
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:48.734Z",
-    "ageRating": "",
-    "network": "Youku"
-  },
-  {
     "id": "308402",
     "tmdbId": 308402,
     "title": "It's Not Like That",
@@ -4104,34 +2476,6 @@
     "network": "Netflix"
   },
   {
-    "id": "301885",
-    "tmdbId": 301885,
-    "title": "Gimbap and Onigiri",
-    "type": "series",
-    "description": "A disillusioned former college track star working at a diner meets a tired Korean animation student struggling to find housing in Japan, and they instantly connect over an emotional moment involving a rice ball.",
-    "poster": "https://image.tmdb.org/t/p/w500/3hoETGfmL0hRENUYs8EpswYNOkJ.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/t5rA4vqttpwbhqp23QtCQdtaO8x.jpg",
-    "year": "2026",
-    "rating": "8.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:50.073Z",
-    "ageRating": "TV-PG",
-    "network": "TV Tokyo"
-  },
-  {
     "id": "308767",
     "tmdbId": 308767,
     "title": "Handsome Devil: Charming Killer",
@@ -4158,34 +2502,6 @@
     "createdAt": "2026-01-31T18:37:50.482Z",
     "ageRating": "",
     "network": "Paramount+"
-  },
-  {
-    "id": "284735",
-    "tmdbId": 284735,
-    "title": "Once More Love in 1995",
-    "type": "series",
-    "description": "After traveling back to 1995, modern woman Zhuang Manying uses her contemporary skills to reshape her mother’s fate, rise in the workplace, and confront a deceitful ex—only to unexpectedly become entangled in a complicated romance with her cold, distant uncle.",
-    "poster": "https://image.tmdb.org/t/p/w500/ZmTJ0xMNC3WTGMRy2LZkrtmNdu.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/d9nnTWXmE0I1skSBNYCrecUxrJi.jpg",
-    "year": "2026",
-    "rating": "10.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 24,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 24
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:50.636Z",
-    "ageRating": "",
-    "network": "Tencent Video"
   },
   {
     "id": "305105",
@@ -5200,178 +3516,6 @@
     "network": "CBS"
   },
   {
-    "id": "2661",
-    "tmdbId": 2661,
-    "title": "Kamen Rider",
-    "type": "series",
-    "description": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
-    "poster": "https://image.tmdb.org/t/p/w500/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "year": "1971",
-    "rating": "6.5",
-    "genre": "Action & Adventure, Sci-Fi & Fantasy, Drama",
-    "category": "Action & Adventure, Sci-Fi & Fantasy, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 37,
-    "totalEpisodes": 1720,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 98
-      },
-      {
-        "season": 2,
-        "episodesCount": 52
-      },
-      {
-        "season": 3,
-        "episodesCount": 35
-      },
-      {
-        "season": 4,
-        "episodesCount": 24
-      },
-      {
-        "season": 5,
-        "episodesCount": 39
-      },
-      {
-        "season": 6,
-        "episodesCount": 54
-      },
-      {
-        "season": 7,
-        "episodesCount": 48
-      },
-      {
-        "season": 8,
-        "episodesCount": 51
-      },
-      {
-        "season": 9,
-        "episodesCount": 47
-      },
-      {
-        "season": 10,
-        "episodesCount": 49
-      },
-      {
-        "season": 11,
-        "episodesCount": 51
-      },
-      {
-        "season": 12,
-        "episodesCount": 50
-      },
-      {
-        "season": 13,
-        "episodesCount": 50
-      },
-      {
-        "season": 14,
-        "episodesCount": 49
-      },
-      {
-        "season": 15,
-        "episodesCount": 48
-      },
-      {
-        "season": 16,
-        "episodesCount": 49
-      },
-      {
-        "season": 17,
-        "episodesCount": 49
-      },
-      {
-        "season": 18,
-        "episodesCount": 48
-      },
-      {
-        "season": 19,
-        "episodesCount": 31
-      },
-      {
-        "season": 20,
-        "episodesCount": 49
-      },
-      {
-        "season": 21,
-        "episodesCount": 48
-      },
-      {
-        "season": 22,
-        "episodesCount": 48
-      },
-      {
-        "season": 23,
-        "episodesCount": 53
-      },
-      {
-        "season": 24,
-        "episodesCount": 47
-      },
-      {
-        "season": 25,
-        "episodesCount": 48
-      },
-      {
-        "season": 26,
-        "episodesCount": 50
-      },
-      {
-        "season": 27,
-        "episodesCount": 45
-      },
-      {
-        "season": 28,
-        "episodesCount": 49
-      },
-      {
-        "season": 29,
-        "episodesCount": 49
-      },
-      {
-        "season": 30,
-        "episodesCount": 45
-      },
-      {
-        "season": 31,
-        "episodesCount": 48
-      },
-      {
-        "season": 32,
-        "episodesCount": 50
-      },
-      {
-        "season": 33,
-        "episodesCount": 49
-      },
-      {
-        "season": 34,
-        "episodesCount": 50
-      },
-      {
-        "season": 35,
-        "episodesCount": 50
-      },
-      {
-        "season": 36,
-        "episodesCount": 25
-      },
-      {
-        "season": 37,
-        "episodesCount": 0
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:53.240Z",
-    "ageRating": "",
-    "network": "tv asahi"
-  },
-  {
     "id": "1402",
     "tmdbId": 1402,
     "title": "The Walking Dead",
@@ -6008,34 +4152,6 @@
     "network": "The WB"
   },
   {
-    "id": "219246",
-    "tmdbId": 219246,
-    "title": "When Life Gives You Tangerines",
-    "type": "series",
-    "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
-    "poster": "https://image.tmdb.org/t/p/w500/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
-    "year": "2025",
-    "rating": "8.7",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 16
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:55.291Z",
-    "ageRating": "TV-14",
-    "network": "Netflix"
-  },
-  {
     "id": "1398",
     "tmdbId": 1398,
     "title": "The Sopranos",
@@ -6110,38 +4226,6 @@
     "createdAt": "2026-01-31T18:37:56.332Z",
     "ageRating": "",
     "network": "PBS"
-  },
-  {
-    "id": "200709",
-    "tmdbId": 200709,
-    "title": "Weak Hero",
-    "type": "series",
-    "description": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
-    "poster": "https://image.tmdb.org/t/p/w500/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-    "year": "2022",
-    "rating": "8.6",
-    "genre": "Action & Adventure, Drama",
-    "category": "Action & Adventure, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 2,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 8
-      },
-      {
-        "season": 2,
-        "episodesCount": 8
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:56.480Z",
-    "ageRating": "TV-MA",
-    "network": "Netflix"
   },
   {
     "id": "74313",
@@ -6234,34 +4318,6 @@
     "createdAt": "2026-01-31T18:37:57.634Z",
     "ageRating": "TV-MA",
     "network": "TV3"
-  },
-  {
-    "id": "67915",
-    "tmdbId": 67915,
-    "title": "Goblin",
-    "type": "series",
-    "description": "In his quest for a bride to break his immortal curse, a 939-year-old guardian of souls meets a grim reaper and a sprightly student with a tragic past.",
-    "poster": "https://image.tmdb.org/t/p/w500/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
-    "year": "2016",
-    "rating": "8.6",
-    "genre": "Drama, Sci-Fi & Fantasy, Comedy",
-    "category": "Drama, Sci-Fi & Fantasy, Comedy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 16
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:57.782Z",
-    "ageRating": "TV-14",
-    "network": "tvN"
   },
   {
     "id": "97186",
@@ -6504,34 +4560,6 @@
     "network": "CBS"
   },
   {
-    "id": "70672",
-    "tmdbId": 70672,
-    "title": "Men on a Mission",
-    "type": "series",
-    "description": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "poster": "https://image.tmdb.org/t/p/w500/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-    "year": "2015",
-    "rating": "7.5",
-    "genre": "Reality, Comedy",
-    "category": "Reality, Comedy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 504,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 517
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:58.869Z",
-    "ageRating": "TV-14",
-    "network": "JTBC"
-  },
-  {
     "id": "4656",
     "tmdbId": 4656,
     "title": "Raw",
@@ -6690,106 +4718,6 @@
     "createdAt": "2026-01-31T18:37:59.022Z",
     "ageRating": "TV-14",
     "network": "USA Network"
-  },
-  {
-    "id": "32580",
-    "tmdbId": 32580,
-    "title": "Radio Arvyla",
-    "type": "series",
-    "description": "Radio Arvyla is a Greek live show hosted by ANT1 in Thessaloniki. It first aired on April 2008. It is hosted by Antonis Kanakis, Giannis Servetas, Stathis Panagiotopoulos and Christos Kiousis. It mainly criticizes the political life and what prevails in the modern social life through parodies, videos and jokes. It's a show that isn't afraid to show the truth and most of the time, it does that, with a humorous way.",
-    "poster": "https://image.tmdb.org/t/p/w500/u0NlPvjp1AmP6wzRassWnzSDcPq.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/4M6du5XGvbGSFRqstP7aS4l4N9L.jpg",
-    "year": "2008",
-    "rating": "5.5",
-    "genre": "Comedy, News",
-    "category": "Comedy, News",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 19,
-    "totalEpisodes": 1118,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 54
-      },
-      {
-        "season": 2,
-        "episodesCount": 125
-      },
-      {
-        "season": 3,
-        "episodesCount": 155
-      },
-      {
-        "season": 4,
-        "episodesCount": 150
-      },
-      {
-        "season": 5,
-        "episodesCount": 90
-      },
-      {
-        "season": 6,
-        "episodesCount": 65
-      },
-      {
-        "season": 7,
-        "episodesCount": 26
-      },
-      {
-        "season": 8,
-        "episodesCount": 24
-      },
-      {
-        "season": 9,
-        "episodesCount": 24
-      },
-      {
-        "season": 10,
-        "episodesCount": 15
-      },
-      {
-        "season": 11,
-        "episodesCount": 22
-      },
-      {
-        "season": 12,
-        "episodesCount": 16
-      },
-      {
-        "season": 13,
-        "episodesCount": 8
-      },
-      {
-        "season": 14,
-        "episodesCount": 93
-      },
-      {
-        "season": 15,
-        "episodesCount": 78
-      },
-      {
-        "season": 16,
-        "episodesCount": 65
-      },
-      {
-        "season": 17,
-        "episodesCount": 61
-      },
-      {
-        "season": 18,
-        "episodesCount": 39
-      },
-      {
-        "season": 19,
-        "episodesCount": 24
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:59.172Z",
-    "ageRating": "",
-    "network": "YouTube"
   },
   {
     "id": "61818",
@@ -6952,278 +4880,6 @@
     "network": "BBC One"
   },
   {
-    "id": "40663",
-    "tmdbId": 40663,
-    "title": "AIBOU: Tokyo Detective Duo",
-    "type": "series",
-    "description": "Detective Ukyo Sugishita confronts crime on the basis of his own convictions. He has a partner that works for him in the Special Task Unit. For the first 7 seasons, Ukyo’s first partner is Kaoru Kameyama. He is a good-natured, hot-tempered, straightforward and somewhat scattered detective. Beginning in Season 8, Takeru Kanbe replaces Kameyama. Contrary to his predecessor, Takeru is a lanky, cool, conceited and confident detective. From Season 11 to Season 13, Ukyo’s partner is a young detective Toru Kai. Toru is a son of Deputy Director-General of The National Police Agency. But he became a detective by his own effort. And starting with Season 14, Ukyo’s current partner is Wataru Kaburagi, an elite bureaucrat who came to the Metropolitan Police Department on temporary assignment. As the first partner without any career of a police officer, he will face challenging cases together with Ukyo.",
-    "poster": "https://image.tmdb.org/t/p/w500/8u8rCCeuBufMQ1VlGX0lruhDaPR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ka4rcpCCBPAATLdQEn57qZQT8e4.jpg",
-    "year": "2002",
-    "rating": "7.6",
-    "genre": "Drama, Crime, Mystery",
-    "category": "Drama, Crime, Mystery",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 24,
-    "totalEpisodes": 456,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      },
-      {
-        "season": 2,
-        "episodesCount": 21
-      },
-      {
-        "season": 3,
-        "episodesCount": 19
-      },
-      {
-        "season": 4,
-        "episodesCount": 21
-      },
-      {
-        "season": 5,
-        "episodesCount": 20
-      },
-      {
-        "season": 6,
-        "episodesCount": 19
-      },
-      {
-        "season": 7,
-        "episodesCount": 19
-      },
-      {
-        "season": 8,
-        "episodesCount": 19
-      },
-      {
-        "season": 9,
-        "episodesCount": 18
-      },
-      {
-        "season": 10,
-        "episodesCount": 19
-      },
-      {
-        "season": 11,
-        "episodesCount": 19
-      },
-      {
-        "season": 12,
-        "episodesCount": 19
-      },
-      {
-        "season": 13,
-        "episodesCount": 19
-      },
-      {
-        "season": 14,
-        "episodesCount": 20
-      },
-      {
-        "season": 15,
-        "episodesCount": 18
-      },
-      {
-        "season": 16,
-        "episodesCount": 20
-      },
-      {
-        "season": 17,
-        "episodesCount": 20
-      },
-      {
-        "season": 18,
-        "episodesCount": 20
-      },
-      {
-        "season": 19,
-        "episodesCount": 20
-      },
-      {
-        "season": 20,
-        "episodesCount": 20
-      },
-      {
-        "season": 21,
-        "episodesCount": 21
-      },
-      {
-        "season": 22,
-        "episodesCount": 20
-      },
-      {
-        "season": 23,
-        "episodesCount": 19
-      },
-      {
-        "season": 24,
-        "episodesCount": 15
-      }
-    ],
-    "createdAt": "2026-01-31T18:37:59.870Z",
-    "ageRating": "NR",
-    "network": "tv asahi"
-  },
-  {
-    "id": "14750",
-    "tmdbId": 14750,
-    "title": "Na Wspólnej",
-    "type": "series",
-    "description": "Na Wspólnej is a Polish soap opera. It has been running since 2003 on the TVN channel as its flagship primetime weekday soap opera. It is loosely based on the German production Unter Uns and it follows the lives of the inhabitants of an apartment block in Wspólna Street, Warsaw. Episodes tend to last around 20 minutes. It is a Polish version of the Hungarian \"Barátok közt\".\n\nThe series is shot almost entirely in Warsaw and produced by the Polish branch of Freemantle Media. On 9 September 2008 it celebrated its 1000th episode; \"Na Wspólnej\" was the fourth Polish television series ever to achieve such status. A special episode was broadcast in which characters from some other of TVN's most popular shows visited Wspólna Street.",
-    "poster": "https://image.tmdb.org/t/p/w500/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pmB8uYJF1WKQCZnJjhnAx2IJjhk.jpg",
-    "year": "2003",
-    "rating": "4.1",
-    "genre": "Soap",
-    "category": "Soap",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 25,
-    "totalEpisodes": 3747,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 131
-      },
-      {
-        "season": 2,
-        "episodesCount": 201
-      },
-      {
-        "season": 3,
-        "episodesCount": 174
-      },
-      {
-        "season": 4,
-        "episodesCount": 164
-      },
-      {
-        "season": 5,
-        "episodesCount": 163
-      },
-      {
-        "season": 6,
-        "episodesCount": 161
-      },
-      {
-        "season": 7,
-        "episodesCount": 151
-      },
-      {
-        "season": 8,
-        "episodesCount": 157
-      },
-      {
-        "season": 9,
-        "episodesCount": 163
-      },
-      {
-        "season": 10,
-        "episodesCount": 157
-      },
-      {
-        "season": 11,
-        "episodesCount": 157
-      },
-      {
-        "season": 12,
-        "episodesCount": 147
-      },
-      {
-        "season": 13,
-        "episodesCount": 201
-      },
-      {
-        "season": 14,
-        "episodesCount": 208
-      },
-      {
-        "season": 15,
-        "episodesCount": 204
-      },
-      {
-        "season": 16,
-        "episodesCount": 198
-      },
-      {
-        "season": 17,
-        "episodesCount": 150
-      },
-      {
-        "season": 18,
-        "episodesCount": 0
-      },
-      {
-        "season": 19,
-        "episodesCount": 5
-      },
-      {
-        "season": 20,
-        "episodesCount": 31
-      },
-      {
-        "season": 21,
-        "episodesCount": 201
-      },
-      {
-        "season": 22,
-        "episodesCount": 200
-      },
-      {
-        "season": 23,
-        "episodesCount": 193
-      },
-      {
-        "season": 24,
-        "episodesCount": 198
-      },
-      {
-        "season": 25,
-        "episodesCount": 86
-      }
-    ],
-    "createdAt": "2026-01-31T18:38:00.019Z",
-    "ageRating": "",
-    "network": "TVN"
-  },
-  {
-    "id": "65282",
-    "tmdbId": 65282,
-    "title": "Home Alone",
-    "type": "series",
-    "description": "It can be a badge of honor to be “single.” “I Live Alone” is a documentary-style South Korean reality series that follows the members of a self-formed club called Rainbow, which is comprised of  celebrities who are single and live alone.",
-    "poster": "https://image.tmdb.org/t/p/w500/1hqGagr94soBq70Lq7tPHvNmmxy.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-    "year": "2013",
-    "rating": "7.4",
-    "genre": "Reality",
-    "category": "Reality",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 616,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 634
-      }
-    ],
-    "createdAt": "2026-01-31T18:38:00.269Z",
-    "ageRating": "TV-14",
-    "network": "MBC"
-  },
-  {
     "id": "80240",
     "tmdbId": 80240,
     "title": "The Queen of Flow",
@@ -7290,34 +4946,6 @@
     "createdAt": "2026-01-31T18:38:00.572Z",
     "ageRating": "TV-14",
     "network": "ABC"
-  },
-  {
-    "id": "33238",
-    "tmdbId": 33238,
-    "title": "Running Man",
-    "type": "series",
-    "description": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
-    "poster": "https://image.tmdb.org/t/p/w500/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-    "year": "2010",
-    "rating": "8.3",
-    "genre": "Comedy, Reality",
-    "category": "Comedy, Reality",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 788,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 791
-      }
-    ],
-    "createdAt": "2026-01-31T18:38:00.732Z",
-    "ageRating": "TV-14",
-    "network": "SBS"
   },
   {
     "id": "1667",
@@ -8066,74 +5694,6 @@
     "createdAt": "2026-01-31T18:38:01.533Z",
     "ageRating": "TV-14",
     "network": "BBC One"
-  },
-  {
-    "id": "74561",
-    "tmdbId": 74561,
-    "title": "Who's the Murderer",
-    "type": "series",
-    "description": "The cast is introduced to the settings and suspects of a murder case for the new episode. The cast then chooses their role in the episode, as a particular suspect or the detective.",
-    "poster": "https://image.tmdb.org/t/p/w500/bBtd3p4DZmVEuv8L9SelQ0MVE2B.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/yLRGIigN6BWvEQaJCtRti4mnQkI.jpg",
-    "year": "2016",
-    "rating": "8.4",
-    "genre": "Crime, Mystery, Reality",
-    "category": "Crime, Mystery, Reality",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 11,
-    "totalEpisodes": 268,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 14
-      },
-      {
-        "season": 2,
-        "episodesCount": 15
-      },
-      {
-        "season": 3,
-        "episodesCount": 26
-      },
-      {
-        "season": 4,
-        "episodesCount": 27
-      },
-      {
-        "season": 5,
-        "episodesCount": 29
-      },
-      {
-        "season": 6,
-        "episodesCount": 28
-      },
-      {
-        "season": 7,
-        "episodesCount": 33
-      },
-      {
-        "season": 8,
-        "episodesCount": 36
-      },
-      {
-        "season": 9,
-        "episodesCount": 31
-      },
-      {
-        "season": 10,
-        "episodesCount": 26
-      },
-      {
-        "season": 11,
-        "episodesCount": 3
-      }
-    ],
-    "createdAt": "2026-01-31T18:38:01.685Z",
-    "ageRating": "",
-    "network": "Mango TV"
   },
   {
     "id": "3034",
@@ -10352,62 +7912,6 @@
     "network": "Netflix"
   },
   {
-    "id": "299903",
-    "tmdbId": 299903,
-    "title": "The Forsytes",
-    "type": "series",
-    "description": "The Forsytes chronicles the lives, loves, trials and triumphs of a wealthy late Victorian stockbroking family, whose generations are torn between the tradition and self-sacrifice versus personal happiness and the pursuit of love. Family stability is threatened by two chance encounters for rival cousins, Jolyon and Soames, throwing their previously steady lives into disarray.",
-    "poster": "https://image.tmdb.org/t/p/w500/vpLmjeJJMIJfxCSNEDfedIV4Q8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ay5adPTPQj7q0kTgvsmqWJSwuBC.jpg",
-    "year": "2025",
-    "rating": "3.0",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 6,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 6
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.036Z",
-    "genre": "Drama",
-    "ageRating": "",
-    "network": ""
-  },
-  {
-    "id": "303851",
-    "tmdbId": 303851,
-    "title": "Lakadbaggey",
-    "type": "series",
-    "description": "The series is based on Exams scam which happened in India.",
-    "poster": "https://image.tmdb.org/t/p/w500/vb3DHIO9RIw47cX9p3BJc8xZ600.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/cNY3cHnsohXl0ynMJErPJsS02mA.jpg",
-    "year": "2025",
-    "rating": "8.0",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 3,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 3
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.036Z",
-    "genre": "Drama",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "247619",
     "tmdbId": 247619,
     "title": "Overcompensating",
@@ -10716,34 +8220,6 @@
     "network": "FX"
   },
   {
-    "id": "280945",
-    "tmdbId": 280945,
-    "title": "Bon Appétit, Your Majesty",
-    "type": "series",
-    "description": "بعد السفر عبر الزمن إلى عصر مملكة \"جوسون\"، تلتقي طاهية ماهرة بملك طاغية وتسحر ذوقه بأطباقها العصرية... لكن ثمة تحديات مَلَكية تترقبها.",
-    "poster": "https://image.tmdb.org/t/p/w500/kqFofZ0hOQ7Y3VUQQ59lpHaCJpM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/rcJH1kg2qIpFJxasgvJzqJUv1jp.jpg",
-    "year": "2025",
-    "rating": "8.9",
-    "category": "Drama, Sci-Fi & Fantasy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.036Z",
-    "genre": "Drama, Sci-Fi & Fantasy",
-    "ageRating": "TV-14",
-    "network": "tvN"
-  },
-  {
     "id": "245703",
     "tmdbId": 245703,
     "title": "Dept. Q",
@@ -10854,34 +8330,6 @@
     "createdAt": "2025-10-09T05:59:00.504Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "30285",
-    "tmdbId": 30285,
-    "title": "Safe Harbor",
-    "type": "series",
-    "description": "توبياس، قرصان موهوب وصديقه الطموح ماركو، يُصرّان على اقتحام نادي مليارديرات التكنولوجيا. ينغمسان في فوضى الجريمة المنظمة عندما يلتقيان بالمافيا الأيرلندية.",
-    "poster": "https://web6.topcinema.cam/wp-content/uploads/2025/04/MV5BY2FiNmRjZGMtYzAwZS00YTlhLTk3ZjctODFmMGE2NmRkMmI1XkEyXkFqcGc@.jpg_V1_SX700.jpg",
-    "backdrop": "https://web6.topcinema.cam/wp-content/uploads/2025/04/MV5BY2FiNmRjZGMtYzAwZS00YTlhLTk3ZjctODFmMGE2NmRkMmI1XkEyXkFqcGc@.jpg_V1_SX700.jpg",
-    "year": "2025",
-    "rating": "6.0",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 10,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.504Z",
-    "ageRating": "",
-    "network": "The WB"
   },
   {
     "id": "285042",
@@ -11656,34 +9104,6 @@
     "network": "Netflix"
   },
   {
-    "id": "8462",
-    "tmdbId": 8462,
-    "title": "Zorro",
-    "type": "series",
-    "description": "حيث دييغو دي لا فيغا يعود إلى كاليفورنيا للانتقام من قتل والده. بعد أن يتولى لقب زورو، يواجه الحاكم، زعيم الجالية الصينية الشرير، وجمعية سرية، ويضع مصلحة الجميع فوق كل شيء.",
-    "poster": "https://image.tmdb.org/t/p/w500/5MsesLGEJukQFXx9rwZI7LhIo6F.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/eZIBRTGmYzY51piJ3XSXTrO5RV9.jpg",
-    "year": "2024",
-    "rating": "7.2",
-    "genre": "Action & Adventure, Drama",
-    "category": "Action & Adventure, Drama",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 98,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 98
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.506Z",
-    "ageRating": "",
-    "network": "GMA Network"
-  },
-  {
     "id": "106379",
     "tmdbId": 106379,
     "title": "Fallout",
@@ -11832,34 +9252,6 @@
     "network": "Prime Video"
   },
   {
-    "id": "230923",
-    "tmdbId": 230923,
-    "title": "Lovely Runner",
-    "type": "series",
-    "description": "النجم الكبير سون جاي هو الأمل الوحيد لإيم سول في ظل يأسها. ومع ذلك، في يوم من الأيام، تسمع أخبارًا صادمة بأن سون جاي توفي بوفاة مأساوية. ينقلب عالمها رأسًا على عقب وتستيقظ وهي تبكي، لتجد نفسها في الماضي، قبل ١٥ عامًا عندما كان سون جاي لا يزال على قيد الحياة. تأخذ سول هذه الفرصة وتصمم على بذل قصارى جهدها لإنقاذ سون جاي. وفي الوقت نفسه، في الماضي، كان سون جاي طالبًا مُخلصًا للسباحة فقط. ولكن كيف علمت سول، التي لم تكن تعرف عن وجوده حتى الأمس، اسمه؟",
-    "poster": "https://image.tmdb.org/t/p/w500/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/6urwgErwqjndIas26NUy6CAdCDE.jpg",
-    "year": "2024",
-    "rating": "8.6",
-    "category": "Drama, Sci-Fi & Fantasy, Comedy, Mystery",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 16
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.036Z",
-    "genre": "Drama, Sci-Fi & Fantasy, Comedy, Mystery",
-    "ageRating": "",
-    "network": "tvN"
-  },
-  {
     "id": "222766",
     "tmdbId": 222766,
     "title": "The Day of the Jackal",
@@ -11886,34 +9278,6 @@
     "genre": "Drama, Action & Adventure, Mystery",
     "ageRating": "TV-MA",
     "network": "Sky Atlantic"
-  },
-  {
-    "id": "221851",
-    "tmdbId": 221851,
-    "title": "Marry My Husband",
-    "type": "series",
-    "description": "تُقتل \"كانغ جي وون\" مريضة السرطان في مرحلته النهائية، على يد زوجها وصديقتها المفضلة بعد أن رأتهما يقيمان علاقة غير مشروعة. تستفيق قبل عشر سنوات من وقوع الحادثة وتقرر السعي للانتقام بمساعدة \"يو جي هايوك\"، مدير في الشركة التي تعمل فيها. يتوجب عليها تصحيح مصيرها والتخلص من المنافقين في حياتها.",
-    "poster": "https://image.tmdb.org/t/p/w500/1uFENCGMwgU0LM8JmbPXZZH2veM.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/bd1uYBQnd9HRex77LTiMughdKKK.jpg",
-    "year": "2024",
-    "rating": "8.4",
-    "category": "Drama, Sci-Fi & Fantasy, Comedy",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 16
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.036Z",
-    "genre": "Drama, Sci-Fi & Fantasy, Comedy",
-    "ageRating": "",
-    "network": "tvN"
   },
   {
     "id": "194764",
@@ -12034,34 +9398,6 @@
     "createdAt": "2025-10-09T05:59:00.503Z",
     "ageRating": "TV-MA",
     "network": "HBO"
-  },
-  {
-    "id": "226055",
-    "tmdbId": 226055,
-    "title": "Safe Home",
-    "type": "series",
-    "description": "تترك فيبي وظيفتها في مكتب محاماة وتبدأ العمل في مركز للعنف العائلي، وعليها أن تسلك طريقًا غير واضح دائمًا، وأشخاصًا وأحداثًا ليست دائمًا كما تظهر.",
-    "poster": "https://image.tmdb.org/t/p/w500/bLTnmuKNzWmSR83WlMjQ7X44Pc4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/501qzF4JUzYOvtehBRJ7pehhPxK.jpg",
-    "year": "2023",
-    "rating": "7.6",
-    "genre": "Drama, Crime",
-    "category": "Drama, Crime",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 4,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 4
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.504Z",
-    "ageRating": "TV-MA",
-    "network": "SBS"
   },
   {
     "id": "114472",
@@ -13016,38 +10352,6 @@
     "network": "Prime Video"
   },
   {
-    "id": "233744",
-    "tmdbId": 233744,
-    "title": "Wolf",
-    "type": "series",
-    "description": "في منزل منعزل في الريف ، تجد عائلة نفسها ضحايا ألعاب قاسية مرعبة لمختل عقليًا.",
-    "poster": "https://image.tmdb.org/t/p/w500/t38NhFh6UAhYU6STEcbdKEHNeA0.jpg",
-    "backdrop": "https://web6.topcinema.cam/wp-content/uploads/2023/08/MV5BNjJmOGI1ZmYtNWVhYS00NzJlLWI1YjMtOTAwMTBjNzgwOTgwXkEyXkFqcGdeQXVyNTgzODMwMDY@.jpg_V1_SX700.jpg",
-    "year": "2023",
-    "rating": "6.8",
-    "genre": "Crime, Drama",
-    "category": "Crime, Drama",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 2,
-    "totalEpisodes": 14,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 2
-      },
-      {
-        "season": 5,
-        "episodesCount": 12
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.504Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "230043",
     "tmdbId": 230043,
     "title": "How to Become a Cult Leader",
@@ -13952,34 +11256,6 @@
     "network": "Netflix"
   },
   {
-    "id": "123001",
-    "tmdbId": 123001,
-    "title": "Sky High",
-    "type": "series",
-    "description": "بعد موت زوجها، تقرر \"سولي\" أنّ أفضل طريقة للاعتناء بابنها هي أن تصبح زعيمة عصابة… حتى لو كان ذلك يعني أن تكون عدوّة والدها.",
-    "poster": "https://image.tmdb.org/t/p/w500/tNkwnTZqEGuB8QaqabmK3KMrrgH.jpg",
-    "backdrop": "https://web6.topcinema.cam/wp-content/uploads/2023/09/MV5BNzUyMmMxYzMtYTg5Ny00NWRjLTk1YzctMTJlYzNkMmY4ZThhXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX700.jpg",
-    "year": "2023",
-    "rating": "6.3",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 30,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 30
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.505Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "35574",
     "tmdbId": 35574,
     "title": "Wilderness",
@@ -14210,34 +11486,6 @@
     "createdAt": "2025-10-09T05:59:00.505Z",
     "ageRating": "TV-14",
     "network": "Apple TV"
-  },
-  {
-    "id": "56102",
-    "tmdbId": 56102,
-    "title": "One Night",
-    "type": "series",
-    "description": "هذه قصة ثلاث نساء تحطمت روابطهن بسبب الأحداث المؤلمة التي وقعت في إحدى الليالي قبل 20 عامًا.",
-    "poster": "https://image.tmdb.org/t/p/w500/2HWgCXwOSK56lteYBIjB0JMsTfs.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/oXbmG23THUuHP0qh4nkaqsH6lXU.jpg",
-    "year": "2023",
-    "rating": "7.1",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 32,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 32
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.505Z",
-    "ageRating": "",
-    "network": ""
   },
   {
     "id": "135899",
@@ -14858,34 +12106,6 @@
     "createdAt": "2025-10-09T05:59:00.505Z",
     "ageRating": "",
     "network": "Paramount+"
-  },
-  {
-    "id": "10744",
-    "tmdbId": 10744,
-    "title": "Payback",
-    "type": "series",
-    "description": "تتورط ليكسي نوبل في عملية للشرطة للإطاحة بزعيم الجريمة سيئ السمعة كال موريس",
-    "poster": "https://web6.topcinema.cam/wp-content/uploads/2023/10/MV5BNGNhYTgzNzEtNjQ4Yy00ODRmLThmNzctMDQ1OGY2M2QyMjAwXkEyXkFqcGdeQXVyNTU1MDgwNQ@@.jpg_V1_SX700.jpg",
-    "backdrop": "https://web6.topcinema.cam/wp-content/uploads/2023/10/MV5BNGNhYTgzNzEtNjQ4Yy00ODRmLThmNzctMDQ1OGY2M2QyMjAwXkEyXkFqcGdeQXVyNTU1MDgwNQ@@.jpg_V1_SX700.jpg",
-    "year": "2023",
-    "rating": "7.1",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 4,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 4
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.505Z",
-    "ageRating": "",
-    "network": ""
   },
   {
     "id": "236006",
@@ -15698,34 +12918,6 @@
     "createdAt": "2025-10-09T05:59:00.505Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "137978",
-    "tmdbId": 137978,
-    "title": "Feedback",
-    "type": "series",
-    "description": "ينطلق نجم روك سابق، أدى إدمانه على الكحول إلى عطب ذاكرته وترك عائلته في حالة من الفوضى، في رحلة بحث محمومة عن ابنه المفقود.",
-    "poster": "https://image.tmdb.org/t/p/w500/sT9T1SZm4jxPhqJEbuXz5nj5vSb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/k9RliXi7193ZLfLKYchKr6lUkaj.jpg",
-    "year": "2023",
-    "rating": "7.1",
-    "genre": "Comedy, Drama",
-    "category": "Comedy, Drama",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 5,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 5
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.505Z",
-    "ageRating": "",
-    "network": ""
   },
   {
     "id": "233254",
@@ -16772,66 +13964,6 @@
     "network": "Viaplay"
   },
   {
-    "id": "209617",
-    "tmdbId": 209617,
-    "title": "Champion",
-    "type": "series",
-    "description": "بعد إطلاق سراحه من السجن، يستعدّ مغني الراب \"بوسكو\" للعودة إلى الساحة الموسيقية… لكن تألق أخته \"فيتا\" في سماء النجومية يهدد أواصر رابطتهما العائلية.",
-    "poster": "https://image.tmdb.org/t/p/w500/zTfcGOyplhlTLu4z6lMbw6QXVkc.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/a3I5XbFJToceAb9ZGBRXLbIbkK3.jpg",
-    "year": "2023",
-    "rating": "7.2",
-    "genre": "Talk",
-    "category": "Talk",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 2,
-    "totalEpisodes": 16,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 12
-      },
-      {
-        "season": 2,
-        "episodesCount": 4
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.506Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
-    "id": "76213",
-    "tmdbId": 76213,
-    "title": "Archie",
-    "type": "series",
-    "description": "دراما من أربعة أجزاء تصور حياة أعظم رجل في هوليوود، أرشيبالد ألكسندر ليتش - المعروف أيضًا باسم. كاري جرانت.",
-    "poster": "https://image.tmdb.org/t/p/w500/2lLhwR7nMpIEzBt8IJGE97eAGFD.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/21I7CmQtfeiXFm2UVsGHltuje3S.jpg",
-    "year": "2023",
-    "rating": "9.0",
-    "genre": "Mystery, Comedy, Family",
-    "category": "Mystery, Comedy, Family",
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 5,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 5
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.506Z",
-    "ageRating": "",
-    "network": "NTV "
-  },
-  {
     "id": "154790",
     "tmdbId": 154790,
     "title": "Уголь",
@@ -16924,34 +14056,6 @@
     "network": "Max"
   },
   {
-    "id": "210733",
-    "tmdbId": 210733,
-    "title": "偷偷藏不住",
-    "type": "series",
-    "description": "Since high school, Sang Zhi has had a crush on Duan Jiaxu. When fate brings them together again, they find a chance to embark on a sweet relationship.",
-    "poster": "https://image.tmdb.org/t/p/w500/aMyypY2MhgXeYAuwUXPFH49MkOb.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/8wDXwRrj7lf0jtd7s1GqH8itrkm.jpg",
-    "year": "2023",
-    "rating": "8.5",
-    "category": "Drama",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 25,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 25
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.037Z",
-    "genre": "Drama",
-    "ageRating": "",
-    "network": "Youku"
-  },
-  {
     "id": "226241",
     "tmdbId": 226241,
     "title": "Vgly",
@@ -16982,34 +14086,6 @@
     "genre": "Comedy, Drama",
     "ageRating": "TV-MA",
     "network": "HBO Max"
-  },
-  {
-    "id": "234763",
-    "tmdbId": 234763,
-    "title": "Слово пацана. Кровь на асфальте",
-    "type": "series",
-    "description": "In the late 1980s, when “perestroika” was taking place in the USSR and the era of the Soviet Union was about to collapse, life became unstable and very different. The 1980s brought not only freedom, but also waves of crime on the city streets. While some young people began to ‘grow up’ on the streets, others found it difficult to find their place in this unpredictable reality. Andrey, lives with his mother and five-year-old sister. He studies at a music school and often encounters street teenagers who harass him. To protect himself, Andrey makes friends with one of these teenagers, Marat, who introduces him to gang life. Youth groups fight for every piece of territory; they defend their right to live the life, even breaking laws and promises. The only thing that matters to them is the vows they make to their gang members-brothers, with whom they confront the violence and fears of the adult world.",
-    "poster": "https://image.tmdb.org/t/p/w500/nucFuQegKrLMX6C4kQrOTqPZnwE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pI0NFTu8iVGvmI0Dap2OFxVK8NZ.jpg",
-    "year": "2023",
-    "rating": "8.7",
-    "category": "Drama, Crime",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 8,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 8
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.037Z",
-    "genre": "Drama, Crime",
-    "ageRating": "TV-PG",
-    "network": "NTV "
   },
   {
     "id": "195670",
@@ -19564,34 +16640,6 @@
     "network": "ABC TV"
   },
   {
-    "id": "124653",
-    "tmdbId": 124653,
-    "title": "The Fog of Murder",
-    "type": "series",
-    "description": "تكشف هذه السلسلة الوثائقية عن جرائم قتل محاطة بأدلة غامضة يجب على المحققين التدقيق فيها للكشف عن القاتل وحل الجريمة.",
-    "poster": "https://image.tmdb.org/t/p/w500/g7E15Byev6cML9bFyI6XRU5xVDR.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/iwpi7TlF43DJJPEuWNmQlsQvIiD.jpg",
-    "year": "2021",
-    "rating": "1.0",
-    "genre": "Crime, Mystery",
-    "category": "Crime, Mystery",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 6,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 6
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.504Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "124416",
     "tmdbId": 124416,
     "title": "Hit & Run",
@@ -20944,38 +17992,6 @@
     "network": "ITV1"
   },
   {
-    "id": "77742",
-    "tmdbId": 77742,
-    "title": "The Sister",
-    "type": "series",
-    "description": "بعد قرابة العقد من حياته الزوجية الجديدة المخلصة، اهتز “ناثان” حتى النخاع حين ظهر “بوب”، وهو شخص غير مرحب به من الماضي، على عتبة بابه بأخبار مروعة، مما أشعل سلسلة من القرارات الكارثية.",
-    "poster": "https://image.tmdb.org/t/p/w500/vBmSs2Kn602MkuGSjCVeWcw3nk8.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/zgPG75AWcSs4ZwuiUwfRjeCbr8a.jpg",
-    "year": "2020",
-    "rating": "8.3",
-    "genre": "Action & Adventure, Mystery",
-    "category": "Action & Adventure, Mystery",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 2,
-    "totalEpisodes": 132,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 78
-      },
-      {
-        "season": 2,
-        "episodesCount": 54
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.504Z",
-    "ageRating": "",
-    "network": "ABS-CBN"
-  },
-  {
     "id": "83685",
     "tmdbId": 83685,
     "title": "Penny Dreadful: City of Angels ",
@@ -21178,34 +18194,6 @@
     "createdAt": "2025-10-09T05:59:00.505Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "219562",
-    "tmdbId": 219562,
-    "title": "Dracula",
-    "type": "series",
-    "description": "في عام 1897 بترانسيلفانيا، يظهر الكونت المرعب والمتعطش دائمًا للدماء دراكولا، لتظهر معه مساعي لا تنتهي في القضاء على الخير، ويثير الرعب والفزع في قلوب الجميع.",
-    "poster": "https://image.tmdb.org/t/p/w500/leXoGxRcNxEmAJXjPtFfyrzCR8V.jpg",
-    "backdrop": "https://web6.topcinema.cam/wp-content/uploads/2023/12/MV5BNTBmNzM4ZGMtMTE3OC00Mjc4LWE3OGEtYzA3ZmQ1MGJkNjMyXkEyXkFqcGdeQXVyNDk3ODk4OQ@@.jpg_V1_SX700.jpg",
-    "year": "2020",
-    "rating": "6.8",
-    "genre": "Drama, Horror",
-    "category": "Drama, Horror",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 11,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 11
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.505Z",
-    "ageRating": "",
-    "network": ""
   },
   {
     "id": "81354",
@@ -21592,50 +18580,6 @@
     "network": "Adult Swim"
   },
   {
-    "id": "98123",
-    "tmdbId": 98123,
-    "title": "Xian Wang de Richang",
-    "type": "series",
-    "description": "As a cultivation genius who has achieved a new realm every two years since he was a year old, Wang Ling is a near-invincible existence with prowess far beyond his control. But now that he’s sixteen, he faces his greatest battle yet – Senior High School. With one challenge after another popping up, his plans for a low-key high school life seem further and further away…",
-    "poster": "https://image.tmdb.org/t/p/w500/AqWoHl346Xw6KXi6qqbJqnfeU4B.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/Q7AZOhmO9NGO6WRzu0uKh2dbWO.jpg",
-    "year": "2020",
-    "rating": "8.3",
-    "category": "Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 5,
-    "totalEpisodes": 52,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 15
-      },
-      {
-        "season": 2,
-        "episodesCount": 12
-      },
-      {
-        "season": 3,
-        "episodesCount": 12
-      },
-      {
-        "season": 4,
-        "episodesCount": 12
-      },
-      {
-        "season": 5,
-        "episodesCount": 1
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.039Z",
-    "genre": "Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy",
-    "ageRating": "TV-14",
-    "network": "bilibili"
-  },
-  {
     "id": "104877",
     "tmdbId": 104877,
     "title": "Love Is in the Air",
@@ -21702,42 +18646,6 @@
     "genre": "Animation, Kids, Comedy, Family",
     "ageRating": "TV-Y7",
     "network": "The WB"
-  },
-  {
-    "id": "99489",
-    "tmdbId": 99489,
-    "title": "The Penthouse",
-    "type": "series",
-    "description": "يستبد بسكان أفخم وحدة سكنية في \"سول\" طموح عارم لا حدود له، فيضربون بأخلاقياتهم عرض الحائط في سبيل الارتقاء في الثروة والسلطة لمستويات مذهلة.",
-    "poster": "https://image.tmdb.org/t/p/w500/jdLcjIArQKBetHrkXDlb4cj1aEL.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/pstYidrrIc3C31KG5gleALGYX9Q.jpg",
-    "year": "2020",
-    "rating": "8.3",
-    "category": "Drama, Mystery",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 3,
-    "totalEpisodes": 48,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 21
-      },
-      {
-        "season": 2,
-        "episodesCount": 13
-      },
-      {
-        "season": 3,
-        "episodesCount": 14
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.039Z",
-    "genre": "Drama, Mystery",
-    "ageRating": "",
-    "network": "SBS"
   },
   {
     "id": "103254",
@@ -22584,34 +19492,6 @@
     "network": "HBO"
   },
   {
-    "id": "244486",
-    "tmdbId": 244486,
-    "title": "Exit",
-    "type": "series",
-    "description": "تدور أحداثه حول عالم يأكل فيه الناس بعضهم البعض وحول الطموح الجريء والفساد غير المحدود لأربعة أصدقاء من أصحاب الملايين الذين يتشاركون عدم الرضا مع الروتين في حياتهم اليومية، ويسعون إلى الإثارة التي يستطيع شراؤها المال الكثير فقط.",
-    "poster": "https://image.tmdb.org/t/p/w500/1pWIR2uJELkE0MPzVFrGND82XEH.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/b20cYyxcsRjb2Wj3jyDQda2dqH8.jpg",
-    "year": "2019",
-    "rating": "8.2",
-    "genre": "Drama",
-    "category": "Drama",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 8,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 8
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.504Z",
-    "ageRating": "",
-    "network": ""
-  },
-  {
     "id": "83015",
     "tmdbId": 83015,
     "title": "World on Fire",
@@ -22734,34 +19614,6 @@
     "createdAt": "2025-10-09T05:59:00.504Z",
     "ageRating": "TV-14",
     "network": "ABC"
-  },
-  {
-    "id": "223320",
-    "tmdbId": 223320,
-    "title": "Mummies Unwrapped",
-    "type": "series",
-    "description": "يقوم العالِم المصريولوجي رامي روماني، الحائز على جائزة إيمي ثلاث مرات، بمهمة لكشف أسرار المومياوات المثيرة للاهتمام.",
-    "poster": "https://image.tmdb.org/t/p/w500/2zCxBBstcaKaY77JGUn7Qrfgw9r.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/ucH7B1yZFifxosutQZughvtp7Pt.jpg",
-    "year": "2019",
-    "rating": "5.0",
-    "genre": "Action & Adventure, Reality",
-    "category": "Action & Adventure, Reality",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 8,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 8
-      }
-    ],
-    "createdAt": "2025-10-09T05:59:00.504Z",
-    "ageRating": "",
-    "network": ""
   },
   {
     "id": "85487",
@@ -26398,58 +23250,6 @@
     "createdAt": "2025-10-09T05:59:00.506Z",
     "ageRating": "TV-MA",
     "network": "Netflix"
-  },
-  {
-    "id": "77696",
-    "tmdbId": 77696,
-    "title": "Run BTS!",
-    "type": "series",
-    "description": "Run BTS! is a variety web series starring BTS, broadcasting intermittent for free viewing on Weverse and YouTube, was formerly offered weekly for free viewing on V LIVE.",
-    "poster": "https://image.tmdb.org/t/p/w500/guNo600nrTIIh88C9i6HFlCAhE.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/nqtLRhsa03iY82jbDsAkGEa9Pdz.jpg",
-    "year": "2015",
-    "rating": "8.6",
-    "category": "Reality",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 7,
-    "totalEpisodes": 165,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 10
-      },
-      {
-        "season": 2,
-        "episodesCount": 23
-      },
-      {
-        "season": 3,
-        "episodesCount": 23
-      },
-      {
-        "season": 4,
-        "episodesCount": 34
-      },
-      {
-        "season": 5,
-        "episodesCount": 32
-      },
-      {
-        "season": 6,
-        "episodesCount": 33
-      },
-      {
-        "season": 7,
-        "episodesCount": 10
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.040Z",
-    "genre": "Reality",
-    "ageRating": "",
-    "network": "YouTube"
   },
   {
     "id": "62286",
@@ -31890,34 +28690,6 @@
     "createdAt": "2025-10-09T05:59:00.503Z",
     "ageRating": "TV-14",
     "network": "NBC"
-  },
-  {
-    "id": "42573",
-    "tmdbId": 42573,
-    "title": "Slam Dunk",
-    "type": "series",
-    "description": "تدور أحداث المسلسل حول طالب فاشل يدعى حسان (هاناميتشي ساكوراجي) وكيفيه تحوله من طالب بلا أهداف ومبتدئ إلى لاعب جيد في فريق الصقور (شوهوكو) بطريقة طريفة وجميلة ومشّوقة حيث أثار اعجاب الكثيرين معا انه في أول مبارباته كان يطرد بخمس اخطاء ولكن الجمهور لايهتم لذلك لانه يقدم عرضا رائعا اما باقي لاعبي الفريق هم : فادي، سعد، جواد، بدر وسهيلكل منهم له قصته في الانضمام إلى الفريق وقصتهم عند وصولهم إلى البطولة.",
-    "poster": "https://image.tmdb.org/t/p/w500/gpkM8VeiYyQuEg9qkAoNplktwe4.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w1280/tnDqjnRXtTWaHIJ5TDDeFphhIVz.jpg",
-    "year": "1993",
-    "rating": "8.6",
-    "category": "Animation, Comedy",
-    "isNew": false,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "totalSeasons": 1,
-    "totalEpisodes": 101,
-    "seasonsSummary": [
-      {
-        "season": 1,
-        "episodesCount": 101
-      }
-    ],
-    "createdAt": "2026-01-16T20:20:15.042Z",
-    "genre": "Animation, Comedy",
-    "ageRating": "TV-14",
-    "network": "tv asahi"
   },
   {
     "id": "4087",
