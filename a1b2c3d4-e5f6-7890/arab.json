@@ -1,0 +1,630 @@
+[
+  {
+    "id": "88516",
+    "tmdbId": 88516,
+    "title": "AlRawabi School for Girls",
+    "type": "arabseries",
+    "description": "The bullied outcasts at prestigious Al Rawabi School for Girls plot a series of risky takedowns to get back at their tormentors.",
+    "poster": "https://image.tmdb.org/t/p/w500/sieppxxh6ydGHeWM6WgrHzqeYnJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eK8UA5kOPhLR0pgKG1cfMv61WI4.jpg",
+    "year": "2021",
+    "rating": "7.5",
+    "genre": "Drama",
+    "category": "Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 2,
+    "totalEpisodes": 12,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      },
+      {
+        "season": 2,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:31.647Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "121745",
+    "tmdbId": 121745,
+    "title": "Till Death",
+    "type": "arabseries",
+    "description": "Fed up with his wife’s distancing from him, Hadi goes on a business trip to Turkey where he meets a special woman, an encounter that changes his life forever.",
+    "poster": "https://image.tmdb.org/t/p/w500/g18jnJuhIujMYErHqeG5t8U5F9X.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4I2H2c6pR7Ws4I8SBAMh6PkdkKz.jpg",
+    "year": "2021",
+    "rating": "6.4",
+    "genre": "Drama",
+    "category": "Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 3,
+    "totalEpisodes": 90,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 30
+      },
+      {
+        "season": 2,
+        "episodesCount": 30
+      },
+      {
+        "season": 3,
+        "episodesCount": 30
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:31.946Z",
+    "ageRating": "TV-14",
+    "network": "MTV Lebanon"
+  },
+  {
+    "id": "224882",
+    "tmdbId": 224882,
+    "title": "The Assassins",
+    "type": "arabseries",
+    "description": "The events take place in a historical context, in the 11th century, where the leader of the Assassins, Hassan al-Sabah, and his leadership of the band that was famous for carrying out bloody assassinations of prominent figures at that stage.",
+    "poster": "https://image.tmdb.org/t/p/w500/qhnkrV58m9lLUL0BWX4MtKRqpKH.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lxiVSSy62EgJaCqoL4zw13MokXX.jpg",
+    "year": "2024",
+    "rating": "7.3",
+    "genre": "Drama, Action & Adventure",
+    "category": "Drama, Action & Adventure",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 30,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 30
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:32.243Z",
+    "ageRating": "TV-14",
+    "network": "WATCH iT!"
+  },
+  {
+    "id": "154810",
+    "tmdbId": 154810,
+    "title": "Finding Ola",
+    "type": "arabseries",
+    "description": "After a life-altering event, Ola embarks on a journey of self-discovery while dealing with the challenges of raising two children and making ends meet.",
+    "poster": "https://image.tmdb.org/t/p/w500/esnwUFZ2mKHNm0TAQXGwxdDwwZ4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zUtUL2O1BQjU03yNBAPdkcGx4iq.jpg",
+    "year": "2022",
+    "rating": "7.1",
+    "genre": "Comedy, Drama",
+    "category": "Comedy, Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 2,
+    "totalEpisodes": 12,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      },
+      {
+        "season": 2,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:32.543Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "106590",
+    "tmdbId": 106590,
+    "title": "Paranormal",
+    "type": "arabseries",
+    "description": "Set in the 1960s; Paranormal follows the adventures of Dr. Refaat Ismail, a professor of hematology, as he comes up against various supernatural events with the help of his Scottish old flame, Maggie.",
+    "poster": "https://image.tmdb.org/t/p/w500/fCEc46PoQ5uZlX4917jEYY3Ohoh.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/itsgqrk6WgKwKOsNLwsQD9WUihZ.jpg",
+    "year": "2020",
+    "rating": "7.1",
+    "genre": "Drama, Mystery, Sci-Fi & Fantasy",
+    "category": "Drama, Mystery, Sci-Fi & Fantasy",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 6,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:33.182Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "107485",
+    "tmdbId": 107485,
+    "title": "Takki",
+    "type": "arabseries",
+    "description": "In Jeddah, Saudi Arabia, a young aspiring filmmaker and his circle of friends grapple with family expectations, gender roles, romance and rivalry.",
+    "poster": "https://image.tmdb.org/t/p/w500/ot7twFTrywrmyWzOXtnjXdoY50y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vmD9el2oBfPwUbZAMZJUyWAosSA.jpg",
+    "year": "2012",
+    "rating": "7.4",
+    "genre": "Drama",
+    "category": "Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 3,
+    "totalEpisodes": 36,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 14
+      },
+      {
+        "season": 2,
+        "episodesCount": 14
+      },
+      {
+        "season": 3,
+        "episodesCount": 8
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:33.482Z",
+    "ageRating": "TV-14",
+    "network": "YouTube"
+  },
+  {
+    "id": "218184",
+    "tmdbId": 218184,
+    "title": "The Exchange",
+    "type": "arabseries",
+    "description": "Set in Kuwait in 1988, two women making their way in the boys club of the Kuwait Stock Exchange, on the eve of Saddam Hussein's invasion of the country.",
+    "poster": "https://image.tmdb.org/t/p/w500/imNAWAuRJoj6kquvx9VTgLnpIAK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sMeOaqqovjWltuyDp2sAXxEomZ6.jpg",
+    "year": "2023",
+    "rating": "7.9",
+    "genre": "Drama",
+    "category": "Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 2,
+    "totalEpisodes": 12,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      },
+      {
+        "season": 2,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:33.781Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "247634",
+    "tmdbId": 247634,
+    "title": "Love Is Blind, Habibi",
+    "type": "arabseries",
+    "description": "Celebrity couple Khaled Saqer and Elham Ali host this social experiment, where Arab singles connect and commit to marriage — before meeting face-to-face.",
+    "poster": "https://image.tmdb.org/t/p/w500/lzGnypnoStkAsDnmgHtauq1g53z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/csmPiAn5MJ0Y8qPDLCBsPbSADEG.jpg",
+    "year": "2024",
+    "rating": "5.2",
+    "genre": "Reality",
+    "category": "Reality",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 10,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 10
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:34.119Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "252125",
+    "tmdbId": 252125,
+    "title": "Catalog",
+    "type": "arabseries",
+    "description": "A recently widowed workaholic clumsily navigates life with his kids, guided by his late wife's online tips. Can he ace this crash course in parenthood?",
+    "poster": "https://image.tmdb.org/t/p/w500/85NgPJnx2XbbTHTrdP3jfNaGz0Q.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eJJK3xoZzVnOfZSXSG8cpu2MsyX.jpg",
+    "year": "2025",
+    "rating": "6.7",
+    "genre": "Drama, Comedy",
+    "category": "Drama, Comedy",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 8,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 8
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:34.423Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "246496",
+    "tmdbId": 246496,
+    "title": "Echoes of the Past",
+    "type": "arabseries",
+    "description": "Accused of his sister's murder, Yehia is fiercely determined to seek vengeance and unmask the true perpetrator.",
+    "poster": "https://image.tmdb.org/t/p/w500/f1alpxrEE6lFfrXVtQapwFxOfsU.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lcTwCXIoNr6J9rJeGy4uuOp9Uns.jpg",
+    "year": "2024",
+    "rating": "6.8",
+    "genre": "Mystery, Crime, Drama",
+    "category": "Mystery, Crime, Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 8,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 8
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:34.718Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "213272",
+    "tmdbId": 213272,
+    "title": "Dubai Bling",
+    "type": "arabseries",
+    "description": "Step off the private jet and into a high-flying social circle in Dubai, where lavish parties, stunning skylines and jaw-dropping fashion are the norm.",
+    "poster": "https://image.tmdb.org/t/p/w500/oDpsCJRa7P6EwsrHH0ZeUzIMPIa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/1geDKgHEZuHQTdy1syCg1XA6Ll.jpg",
+    "year": "2022",
+    "rating": "6.2",
+    "genre": "Reality",
+    "category": "Reality",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 3,
+    "totalEpisodes": 25,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 8
+      },
+      {
+        "season": 2,
+        "episodesCount": 8
+      },
+      {
+        "season": 3,
+        "episodesCount": 9
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:35.614Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "128240",
+    "tmdbId": 128240,
+    "title": "Masameer County",
+    "type": "arabseries",
+    "description": "A humorous view of a changing Saudi Arabia, as the Masameer gang venture into a global media war, a long-standing tribal feud, and a health craze gone too far.",
+    "poster": "https://image.tmdb.org/t/p/w500/xgmvdo5lfdyXiGlMZ2edLPgkY2n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3VJ32gkyBarf458etTfmRxmg6Oo.jpg",
+    "year": "2021",
+    "rating": "8.8",
+    "genre": "Comedy, Animation",
+    "category": "Comedy, Animation",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 2,
+    "totalEpisodes": 14,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 8
+      },
+      {
+        "season": 2,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:36.218Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "229550",
+    "tmdbId": 229550,
+    "title": "Devil's Advocate",
+    "type": "arabseries",
+    "description": "In Kuwait City, a determined defense lawyer defies popular sentiment and takes on a polarizing client: a footballer accused of murdering his wife.",
+    "poster": "https://image.tmdb.org/t/p/w500/fhunALono4EPNLnWMvK3CNIXw69.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/351MZmRIKjT1zwVA5328kn6k8rh.jpg",
+    "year": "2023",
+    "rating": "8.7",
+    "genre": "Drama, Crime",
+    "category": "Drama, Crime",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 7,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 7
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:36.516Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "288913",
+    "tmdbId": 288913,
+    "title": "Franklin",
+    "type": "arabseries",
+    "description": "A counterfeit artist, also a single father, is forced to work with his ex-lover to craft the perfect $100 bill — all to save his dying daughter.",
+    "poster": "https://image.tmdb.org/t/p/w500/fsakdwprdmsRPjzPB1aSyo5hQ56.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/vobYFcBcuaHPa3Rtd4L6cydyLDo.jpg",
+    "year": "2025",
+    "rating": "5.7",
+    "genre": "Drama, Crime",
+    "category": "Drama, Crime",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 6,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:37.111Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "158763",
+    "tmdbId": 158763,
+    "title": "Love, Life & Everything in Between",
+    "type": "arabseries",
+    "description": "This black humor pan-Arabic anthology series is about love in general – and relationships in particular.",
+    "poster": "https://image.tmdb.org/t/p/w500/f6Ee832SCyupCSZ4gp9iTAT0rI3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zvM4XN6o8tAlFVJjlTv68XMaWA7.jpg",
+    "year": "2022",
+    "rating": "3.2",
+    "genre": "Drama, Comedy",
+    "category": "Drama, Comedy",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 8,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 8
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:37.466Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "233060",
+    "tmdbId": 233060,
+    "title": "Tahir's House",
+    "type": "arabseries",
+    "description": "A family of amateur entrepreneurs must come together to convert their failing fish shop into a thriving business, but branching out isn't easy.",
+    "poster": "https://image.tmdb.org/t/p/w500/en9sTMuE4FKVKBVnNow2eFey4gx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/jsG3hBS6ezXG38LrWcYUGkI3GJZ.jpg",
+    "year": "2023",
+    "rating": "6.0",
+    "genre": "Comedy",
+    "category": "Comedy",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 6,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:38.441Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "235914",
+    "tmdbId": 235914,
+    "title": "Crashing Eid",
+    "type": "arabseries",
+    "description": "When Razan's British Pakistani fiance crashes her Saudi family's Eid celebrations, she attempts to convince them that he is a suitable match.",
+    "poster": "https://image.tmdb.org/t/p/w500/l5mTAzzXtNL96vXKswbul6tYXYD.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/mrFXS3n8RS0ymO8GJ2DIr13c8ds.jpg",
+    "year": "2023",
+    "rating": "7.0",
+    "genre": "Comedy",
+    "category": "Comedy",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 4,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 4
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:39.329Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "104043",
+    "tmdbId": 104043,
+    "title": "Abla Fahita: Drama Queen",
+    "type": "arabseries",
+    "description": "After disappearing from the limelight due to an ethical scandal, Abla Fahita falls victim to the ploy of a nightclub owner who seeks to exploit her, and when he is murdered under mysterious circumstances, Fahita soon becomes the prime suspect in the crime.",
+    "poster": "https://image.tmdb.org/t/p/w500/yk4Sqs13O2UQxMeGaYsvnniVKIi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/62JnQph3Pw2O9oTHSIsFrei2XCO.jpg",
+    "year": "2021",
+    "rating": "6.9",
+    "genre": "Comedy, Drama",
+    "category": "Comedy, Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 6,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:39.921Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "137439",
+    "tmdbId": 137439,
+    "title": "The Fastest",
+    "type": "arabseries",
+    "description": "In this unpredictable and thrilling racing competition, drivers from the Middle East with something to prove battle on the track for a cash prize.",
+    "poster": "https://image.tmdb.org/t/p/w500/5fAmnljmq8NBhUWJ7uJjUumA6qT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gJ5TKCOWhN4C6YwNYCwuuWIh0qD.jpg",
+    "year": "2021",
+    "rating": "5.2",
+    "genre": "Reality",
+    "category": "Reality",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 6,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:40.814Z",
+    "ageRating": "TV-14",
+    "network": "Netflix"
+  },
+  {
+    "id": "233402",
+    "tmdbId": 233402,
+    "title": "Hard Broken",
+    "type": "arabseries",
+    "description": "A tragic murder sends a friend group into a frenzy, revealing hidden romances and betrayals lurking beneath the surface of their seemingly perfect lives.",
+    "poster": "https://image.tmdb.org/t/p/w500/95kCJ8gBSG643ibOZkGqiQXur6h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/iIeEJrDO4sTPfU1Ko8EmgqZ6WDs.jpg",
+    "year": "2023",
+    "rating": "0",
+    "genre": "Drama, Crime, Mystery",
+    "category": "Drama, Crime, Mystery",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 6,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 6
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:41.762Z",
+    "ageRating": "TV-14",
+    "network": ""
+  },
+  {
+    "id": "222852",
+    "tmdbId": 222852,
+    "title": "April's Fool",
+    "type": "arabseries",
+    "description": "The seemingly perfect life of a family falls apart when a housewife finds herself caught in a web of lies and conspiracies.",
+    "poster": "https://image.tmdb.org/t/p/w500/mP97kPCXVpQUpanDZ8s73miJaHJ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/htK80EATQQjfWmadZh7Ymn3GRg7.jpg",
+    "year": "2023",
+    "rating": "0",
+    "genre": "Drama",
+    "category": "Drama",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "totalSeasons": 1,
+    "totalEpisodes": 30,
+    "seasonsSummary": [
+      {
+        "season": 1,
+        "episodesCount": 30
+      }
+    ],
+    "createdAt": "2026-02-03T15:51:42.057Z",
+    "ageRating": "TV-14",
+    "network": "MBC Shahid"
+  }
+]
