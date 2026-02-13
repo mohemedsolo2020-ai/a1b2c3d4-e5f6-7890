@@ -102,7 +102,8 @@
     "isFeatured": false,
     "createdAt": "2026-01-31T18:31:35.546Z",
     "ageRating": "PG",
-    "network": "Cinesite Animation"
+    "network": "Cinesite Animation",
+    "directServers": []
   },
   {
     "id": "23527",
@@ -438,7 +439,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "R",
-    "network": "MAPPA"
+    "network": "MAPPA",
+    "directServers": []
   },
   {
     "id": "1311031",
@@ -459,7 +461,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.741Z",
     "ageRating": "R",
-    "network": "ufotable"
+    "network": "ufotable",
+    "directServers": []
   },
   {
     "id": "803796",
@@ -480,7 +483,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.741Z",
     "ageRating": "PG",
-    "network": "Sony Pictures Animation"
+    "network": "Sony Pictures Animation",
+    "directServers": []
   },
   {
     "id": "1107216",
@@ -501,7 +505,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
-    "network": "TAT Productions"
+    "network": "TAT Productions",
+    "directServers": []
   },
   {
     "id": "1374686",
@@ -543,7 +548,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-25T15:58:32.457Z",
     "ageRating": "",
-    "network": "Pony Canyon"
+    "network": "Pony Canyon",
+    "directServers": []
   },
   {
     "id": "1181107",
@@ -564,7 +570,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.745Z",
     "ageRating": "",
-    "network": "MOFAC"
+    "network": "MOFAC",
+    "directServers": []
   },
   {
     "id": "1362429",
@@ -627,7 +634,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "NR",
-    "network": "Chengdu Coco Cartoon"
+    "network": "Chengdu Coco Cartoon",
+    "directServers": []
   },
   {
     "id": "1326106",
@@ -648,7 +656,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.989Z",
     "ageRating": "NR",
-    "network": "Production I.G"
+    "network": "Production I.G",
+    "directServers": []
   },
   {
     "id": "1338799",
@@ -753,7 +762,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "",
-    "network": "20th Century Studios"
+    "network": "20th Century Studios",
+    "directServers": []
   },
   {
     "id": "1175942",
@@ -774,7 +784,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "PG",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": []
   },
   {
     "id": "1515395",
@@ -816,7 +827,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.997Z",
     "ageRating": "PG",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": []
   },
   {
     "id": "1396965",
@@ -837,7 +849,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-25T15:58:30.883Z",
     "ageRating": "",
-    "network": "TOHO"
+    "network": "TOHO",
+    "directServers": []
   },
   {
     "id": "1359607",
@@ -900,7 +913,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
-    "network": "Mack Media"
+    "network": "Mack Media",
+    "directServers": []
   },
   {
     "id": "1484453",
@@ -942,7 +956,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.998Z",
     "ageRating": "PG-13",
-    "network": "MAPPA"
+    "network": "MAPPA",
+    "directServers": []
   },
   {
     "id": "1165642",
@@ -963,7 +978,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.998Z",
     "ageRating": "PG",
-    "network": "Climax Studios"
+    "network": "Climax Studios",
+    "directServers": []
   },
   {
     "id": "1449951",
@@ -1005,7 +1021,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.741Z",
     "ageRating": "PG",
-    "network": "Jellyfish Pictures"
+    "network": "Jellyfish Pictures",
+    "directServers": []
   },
   {
     "id": "1022787",
@@ -1026,7 +1043,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "PG",
-    "network": "Pixar"
+    "network": "Pixar",
+    "directServers": []
   },
   {
     "id": "1280282",
@@ -1068,7 +1086,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.997Z",
     "ageRating": "R",
-    "network": "Studio Mir"
+    "network": "Studio Mir",
+    "directServers": []
   },
   {
     "id": "1297763",
@@ -1110,7 +1129,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.999Z",
     "ageRating": "",
-    "network": "Nickelodeon Movies"
+    "network": "Nickelodeon Movies",
+    "directServers": []
   },
   {
     "id": "1481390",
@@ -1194,7 +1214,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:15.000Z",
     "ageRating": "R",
-    "network": "Sony Pictures Animation"
+    "network": "Sony Pictures Animation",
+    "directServers": []
   },
   {
     "id": "881415",
@@ -1215,7 +1236,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.998Z",
     "ageRating": "",
-    "network": "AgX"
+    "network": "AgX",
+    "directServers": []
   },
   {
     "id": "1205229",
@@ -1236,7 +1258,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-25T15:58:34.006Z",
     "ageRating": "PG",
-    "network": "Copperheart Entertainment"
+    "network": "Copperheart Entertainment",
+    "directServers": []
   },
   {
     "id": "1084153",
@@ -1257,7 +1280,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "PG",
-    "network": "Cinema Gypsy Productions"
+    "network": "Cinema Gypsy Productions",
+    "directServers": []
   },
   {
     "id": "936108",
@@ -1278,7 +1302,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.989Z",
     "ageRating": "PG",
-    "network": "Paramount Animation"
+    "network": "Paramount Animation",
+    "directServers": []
   },
   {
     "id": "1497397",
@@ -1320,7 +1345,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
-    "network": "Kuku Studios"
+    "network": "Kuku Studios",
+    "directServers": []
   },
   {
     "id": "1214130",
@@ -1341,7 +1367,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
-    "network": "GFM Animation"
+    "network": "GFM Animation",
+    "directServers": []
   },
   {
     "id": "1360829",
@@ -1383,7 +1410,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "PG",
-    "network": "Walt Disney Animation Studios"
+    "network": "Walt Disney Animation Studios",
+    "directServers": []
   },
   {
     "id": "1539104",
@@ -1467,7 +1495,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": []
   },
   {
     "id": "829402",
@@ -1488,7 +1517,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.745Z",
     "ageRating": "PG",
-    "network": "Tsuburaya Productions"
+    "network": "Tsuburaya Productions",
+    "directServers": []
   },
   {
     "id": "823219",
@@ -1530,7 +1560,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.770Z",
     "ageRating": "",
-    "network": "Arenamedia"
+    "network": "Arenamedia",
+    "directServers": []
   },
   {
     "id": "1244492",
@@ -1551,7 +1582,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.770Z",
     "ageRating": "",
-    "network": "Studio Durian"
+    "network": "Studio Durian",
+    "directServers": []
   },
   {
     "id": "1167027",
@@ -1593,7 +1625,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.770Z",
     "ageRating": "PG",
-    "network": "Paramount Animation"
+    "network": "Paramount Animation",
+    "directServers": []
   },
   {
     "id": "1014505",
@@ -1656,7 +1689,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG",
-    "network": "Movistar Plus+"
+    "network": "Movistar Plus+",
+    "directServers": []
   },
   {
     "id": "567811",
@@ -1677,7 +1711,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "",
-    "network": "GFM Animation"
+    "network": "GFM Animation",
+    "directServers": []
   },
   {
     "id": "1012201",
@@ -1698,7 +1733,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG-13",
-    "network": "Production I.G"
+    "network": "Production I.G",
+    "directServers": []
   },
   {
     "id": "1128606",
@@ -1719,7 +1755,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "G",
-    "network": "WildBrain Studios"
+    "network": "WildBrain Studios",
+    "directServers": []
   },
   {
     "id": "1022789",
@@ -1740,7 +1777,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "",
-    "network": "Pixar"
+    "network": "Pixar",
+    "directServers": []
   },
   {
     "id": "842859",
@@ -1782,7 +1820,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "R",
-    "network": "TMS Entertainment"
+    "network": "TMS Entertainment",
+    "directServers": []
   },
   {
     "id": "929204",
@@ -1845,7 +1884,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.995Z",
     "ageRating": "R",
-    "network": "Warner Bros. Animation"
+    "network": "Warner Bros. Animation",
+    "directServers": []
   },
   {
     "id": "762509",
@@ -1866,7 +1906,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG",
-    "network": "Walt Disney Pictures"
+    "network": "Walt Disney Pictures",
+    "directServers": []
   },
   {
     "id": "1147416",
@@ -1908,7 +1949,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG-13",
-    "network": "8bit"
+    "network": "8bit",
+    "directServers": []
   },
   {
     "id": "1299652",
@@ -1929,7 +1971,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "R",
-    "network": "Warner Bros. Animation"
+    "network": "Warner Bros. Animation",
+    "directServers": []
   },
   {
     "id": "1236419",
@@ -1971,7 +2014,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG-13",
-    "network": "Warner Bros. Animation"
+    "network": "Warner Bros. Animation",
+    "directServers": []
   },
   {
     "id": "598387",
@@ -2013,7 +2057,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.996Z",
     "ageRating": "PG",
-    "network": "Studio Colorido"
+    "network": "Studio Colorido",
+    "directServers": []
   },
   {
     "id": "989730",
@@ -2034,7 +2079,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.996Z",
     "ageRating": "",
-    "network": "EOTA"
+    "network": "EOTA",
+    "directServers": []
   },
   {
     "id": "1159311",
@@ -2118,7 +2164,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "G",
-    "network": "Illumination"
+    "network": "Illumination",
+    "directServers": []
   },
   {
     "id": "645757",
@@ -2139,7 +2186,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG",
-    "network": "Locksmith Animation"
+    "network": "Locksmith Animation",
+    "directServers": []
   },
   {
     "id": "1355755",
@@ -2160,7 +2208,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.996Z",
     "ageRating": "",
-    "network": "Esperanto Filmoj"
+    "network": "Esperanto Filmoj",
+    "directServers": []
   },
   {
     "id": "1230393",
@@ -2223,7 +2272,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "",
-    "network": "Universal Pictures"
+    "network": "Universal Pictures",
+    "directServers": []
   },
   {
     "id": "748783",
@@ -2244,7 +2294,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
-    "network": "Alcon Entertainment"
+    "network": "Alcon Entertainment",
+    "directServers": []
   },
   {
     "id": "1011985",
@@ -2265,7 +2316,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": []
   },
   {
     "id": "974397",
@@ -2391,7 +2443,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-25T16:51:27.665Z",
     "ageRating": "",
-    "network": "Story"
+    "network": "Story",
+    "directServers": []
   },
   {
     "id": "1209288",
@@ -2412,7 +2465,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.995Z",
     "ageRating": "PG-13",
-    "network": "Warner Bros. Animation"
+    "network": "Warner Bros. Animation",
+    "directServers": []
   },
   {
     "id": "839033",
@@ -2433,7 +2487,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "PG-13",
-    "network": "New Line Cinema"
+    "network": "New Line Cinema",
+    "directServers": []
   },
   {
     "id": "1134680",
@@ -2517,7 +2572,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-25T15:58:34.398Z",
     "ageRating": "PG",
-    "network": "Studio 100 Animation"
+    "network": "Studio 100 Animation",
+    "directServers": []
   },
   {
     "id": "1239251",
@@ -2580,7 +2636,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
-    "network": "Columbia Pictures"
+    "network": "Columbia Pictures",
+    "directServers": []
   },
   {
     "id": "1139087",
@@ -2601,7 +2658,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.745Z",
     "ageRating": "G",
-    "network": "Walt Disney Animation Studios"
+    "network": "Walt Disney Animation Studios",
+    "directServers": []
   },
   {
     "id": "812225",
@@ -2622,7 +2680,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "PG-13",
-    "network": "Pierrot"
+    "network": "Pierrot",
+    "directServers": []
   },
   {
     "id": "838240",
@@ -2643,7 +2702,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "",
-    "network": "Arcadia Motion Pictures"
+    "network": "Arcadia Motion Pictures",
+    "directServers": []
   },
   {
     "id": "961323",
@@ -2664,7 +2724,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "PG",
-    "network": "Annapurna Pictures"
+    "network": "Annapurna Pictures",
+    "directServers": []
   },
   {
     "id": "928833",
@@ -2706,7 +2767,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.992Z",
     "ageRating": "PG",
-    "network": "STUDIO PONOC"
+    "network": "STUDIO PONOC",
+    "directServers": []
   },
   {
     "id": "887870",
@@ -2769,7 +2831,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.992Z",
     "ageRating": "",
-    "network": "Aniplex"
+    "network": "Aniplex",
+    "directServers": []
   },
   {
     "id": "502356",
@@ -2790,7 +2853,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG",
-    "network": "Universal Pictures"
+    "network": "Universal Pictures",
+    "directServers": []
   },
   {
     "id": "976573",
@@ -2811,7 +2875,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "",
-    "network": "Pixar"
+    "network": "Pixar",
+    "directServers": []
   },
   {
     "id": "496450",
@@ -2916,7 +2981,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "NR",
-    "network": "Gébéka Films"
+    "network": "Gébéka Films",
+    "directServers": []
   },
   {
     "id": "1146348",
@@ -2937,7 +3003,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.992Z",
     "ageRating": "NR",
-    "network": "Warner Bros. Animation"
+    "network": "Warner Bros. Animation",
+    "directServers": []
   },
   {
     "id": "1076364",
@@ -3000,7 +3067,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG",
-    "network": "Universal Pictures"
+    "network": "Universal Pictures",
+    "directServers": []
   },
   {
     "id": "508883",
@@ -3021,7 +3089,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "",
-    "network": "Studio Ghibli"
+    "network": "Studio Ghibli",
+    "directServers": []
   },
   {
     "id": "1075794",
@@ -3042,7 +3111,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
-    "network": "Happy Madison Productions"
+    "network": "Happy Madison Productions",
+    "directServers": []
   },
   {
     "id": "1134424",
@@ -3084,7 +3154,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": []
   },
   {
     "id": "1147400",
@@ -3126,7 +3197,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "R",
-    "network": "Capcom"
+    "network": "Capcom",
+    "directServers": []
   },
   {
     "id": "968868",
@@ -3231,7 +3303,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
-    "network": "Animagrad Animation Studio"
+    "network": "Animagrad Animation Studio",
+    "directServers": []
   },
   {
     "id": "1064835",
@@ -3252,7 +3325,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "PG-13",
-    "network": "Marvy Jack"
+    "network": "Marvy Jack",
+    "directServers": []
   },
   {
     "id": "828898",
@@ -3294,7 +3368,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": []
   },
   {
     "id": "715385",
@@ -3399,7 +3474,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.988Z",
     "ageRating": "",
-    "network": "TMS Entertainment"
+    "network": "TMS Entertainment",
+    "directServers": []
   },
   {
     "id": "1186957",
@@ -3420,7 +3496,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "G",
-    "network": "Magic Light Pictures"
+    "network": "Magic Light Pictures",
+    "directServers": []
   },
   {
     "id": "1139979",
@@ -3483,7 +3560,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.992Z",
     "ageRating": "R",
-    "network": "Warner Bros. Animation"
+    "network": "Warner Bros. Animation",
+    "directServers": []
   },
   {
     "id": "1121575",
@@ -3672,7 +3750,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.768Z",
     "ageRating": "",
-    "network": "CoMix Wave Films"
+    "network": "CoMix Wave Films",
+    "directServers": []
   },
   {
     "id": "610150",
@@ -3693,7 +3772,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.768Z",
     "ageRating": "PG-13",
-    "network": "Toei Animation"
+    "network": "Toei Animation",
+    "directServers": []
   },
   {
     "id": "585511",
@@ -3756,7 +3836,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-25T15:58:37.631Z",
     "ageRating": "",
-    "network": "Toei Animation"
+    "network": "Toei Animation",
+    "directServers": []
   },
   {
     "id": "916192",
@@ -3924,7 +4005,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": []
   },
   {
     "id": "508947",
@@ -4050,7 +4132,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.750Z",
     "ageRating": "PG",
-    "network": "Sony Pictures Animation"
+    "network": "Sony Pictures Animation",
+    "directServers": []
   },
   {
     "id": "1015724",
@@ -4134,7 +4217,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.768Z",
     "ageRating": "PG",
-    "network": "Walt Disney Animation Studios"
+    "network": "Walt Disney Animation Studios",
+    "directServers": []
   },
   {
     "id": "667276",
@@ -4218,7 +4302,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.750Z",
     "ageRating": "PG-13",
-    "network": "MAPPA"
+    "network": "MAPPA",
+    "directServers": []
   },
   {
     "id": "663558",
@@ -4974,7 +5059,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "",
-    "network": "BONES"
+    "network": "BONES",
+    "directServers": []
   },
   {
     "id": "533514",
@@ -5877,7 +5963,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "NR",
-    "network": "Beijing Enlight Pictures"
+    "network": "Beijing Enlight Pictures",
+    "directServers": []
   },
   {
     "id": "820232",
@@ -6150,7 +6237,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "PG",
-    "network": "Columbia Pictures"
+    "network": "Columbia Pictures",
+    "directServers": []
   },
   {
     "id": "504253",
@@ -6234,7 +6322,8 @@
     "isFeatured": true,
     "createdAt": "2025-10-23T20:41:15.003Z",
     "ageRating": "PG-13",
-    "network": "BONES"
+    "network": "BONES",
+    "directServers": []
   },
   {
     "id": "533592",
@@ -6990,7 +7079,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.765Z",
     "ageRating": "PG",
-    "network": "Illumination"
+    "network": "Illumination",
+    "directServers": []
   },
   {
     "id": "137116",
@@ -7158,7 +7248,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
-    "network": "Walt Disney Animation Studios"
+    "network": "Walt Disney Animation Studios",
+    "directServers": []
   },
   {
     "id": "406785",
@@ -8712,7 +8803,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.749Z",
     "ageRating": "PG",
-    "network": "Illumination"
+    "network": "Illumination",
+    "directServers": []
   },
   {
     "id": "49519",
@@ -9699,7 +9791,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.748Z",
     "ageRating": "",
-    "network": "Illumination"
+    "network": "Illumination",
+    "directServers": []
   },
   {
     "id": "45162",
@@ -10707,7 +10800,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.758Z",
     "ageRating": "PG",
-    "network": "Imagi Animation Studios"
+    "network": "Imagi Animation Studios",
+    "directServers": []
   },
   {
     "id": "5559",
@@ -11148,7 +11242,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "PG",
-    "network": "Tim Burton Productions"
+    "network": "Tim Burton Productions",
+    "directServers": []
   },
   {
     "id": "14003",
@@ -11589,7 +11684,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.755Z",
     "ageRating": "PG-13",
-    "network": "TMS Entertainment"
+    "network": "TMS Entertainment",
+    "directServers": []
   },
   {
     "id": "13378",
@@ -12072,7 +12168,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.754Z",
     "ageRating": "PG-13",
-    "network": "TMS Entertainment"
+    "network": "TMS Entertainment",
+    "directServers": []
   },
   {
     "id": "11544",
@@ -12387,7 +12484,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.752Z",
     "ageRating": "PG-13",
-    "network": "TMS Entertainment"
+    "network": "TMS Entertainment",
+    "directServers": []
   },
   {
     "id": "9606",
@@ -12660,7 +12758,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.752Z",
     "ageRating": "PG-13",
-    "network": "TOHO"
+    "network": "TOHO",
+    "directServers": []
   },
   {
     "id": "16234",
@@ -12723,7 +12822,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG-13",
-    "network": "Toei Animation"
+    "network": "Toei Animation",
+    "directServers": []
   },
   {
     "id": "7443",
@@ -12933,7 +13033,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.745Z",
     "ageRating": "",
-    "network": "Warner Bros. Feature Animation"
+    "network": "Warner Bros. Feature Animation",
+    "directServers": []
   },
   {
     "id": "863",
@@ -12975,7 +13076,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.746Z",
     "ageRating": "",
-    "network": "Walt Disney Pictures"
+    "network": "Walt Disney Pictures",
+    "directServers": []
   },
   {
     "id": "17681",
@@ -13038,7 +13140,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-22T15:30:50.431Z",
     "ageRating": "PG-13",
-    "network": "TOHO"
+    "network": "TOHO",
+    "directServers": []
   },
   {
     "id": "12599",
@@ -13353,7 +13456,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-22T15:30:46.264Z",
     "ageRating": "PG-13",
-    "network": "TOHO"
+    "network": "TOHO",
+    "directServers": []
   },
   {
     "id": "21832",
@@ -14298,7 +14402,8 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "G",
-    "network": "Silver Screen Partners IV"
+    "network": "Silver Screen Partners IV",
+    "directServers": []
   },
   {
     "id": "15080",
