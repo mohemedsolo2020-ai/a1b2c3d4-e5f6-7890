@@ -861,7 +861,48 @@
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "NR",
     "network": "Chengdu Coco Cartoon",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "hc8f4lux850f",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "6n3qsp1wzvsa-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "D",
+        "d": "2su77ycgfrk9",
+        "q": "1"
+      },
+      {
+        "t": "F",
+        "d": "m5fh43k3gwa6",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "GaRb8j8q38S1KKZ",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "2n6xth9vntol",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "8484jv8w81ht",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "dke3gk77tkl84l",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1326106",
