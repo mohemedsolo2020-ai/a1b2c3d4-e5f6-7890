@@ -39,7 +39,49 @@
     "isFeatured": false,
     "createdAt": "2026-01-31T18:31:34.891Z",
     "ageRating": "PG",
-    "network": "Sunrise Productions"
+    "network": "Sunrise Productions",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "mfkp1xtvx4em",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "rbzbayn27hhg-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "n2lkoyj6npyi",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "qk61m9r1mdz7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "th21elgl3im8",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "JqKX9kY49Yij1Kx",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "1eu2r56x1a9e",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "9wqqnrkrszlzql",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1147411",
@@ -103,7 +145,43 @@
     "createdAt": "2026-01-31T18:31:35.546Z",
     "ageRating": "PG",
     "network": "Cinesite Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "wk6wr2isqn0v",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "v4mkq64jzsfi-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "q562a1ufkf4u",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9va8l7pjmcge",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "coocl6tkmkmt",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "7pxkrgw6prhA6Zy",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "eu50kc533lgm",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "23527",
@@ -484,7 +562,58 @@
     "createdAt": "2025-10-21T20:43:25.741Z",
     "ageRating": "PG",
     "network": "Sony Pictures Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "podhoo52ze68",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "42t4i5uz8oxt-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "0twm0m31tdb2",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "1pu80r5e8w69",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "i1s5hnseypgb",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "xPxJPAZpeqCkeYa",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "brf52njc6qzo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "5harw4r0jimt",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "pl5e05crgint",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "8l3nmvx3hj686d",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1107216",
@@ -506,7 +635,53 @@
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
     "network": "TAT Productions",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "8synj3h562wi",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "fb8xmthkbefg-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "mblvm8949xlh",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "dij3psotbaxo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "dkyk57gsblhy",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "jWgJpwoO2KhgVg",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "gkpd2r8pu23e",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "avg7h8x1usim",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "7kjzo9nwc030ow",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1374686",
@@ -571,7 +746,58 @@
     "createdAt": "2025-10-21T20:43:25.745Z",
     "ageRating": "",
     "network": "MOFAC",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "po5yj72fjb2n",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "jm6psm5sa0g2-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "2m616tuhmrmu",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "y0ocvy8c2k11",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "nx3dhg2zud6y",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "9jzPj44Lv2uaxa8",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "i2a7mcgtiz90",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "bve5hxzwftmi",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "uwlfo3s869u2",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "q16rmqwpfxk7j66",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1362429",
@@ -763,7 +989,58 @@
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "",
     "network": "20th Century Studios",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "r2cow3kp7gqc",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "u56qwqgdn4d1-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "dg0rwsjt28v4",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "cmjez3w4pazu",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "yq3zgntb9ib9",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "ydvwD41gjXH1Mqr",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "rlhy1bf8zwyu",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "28kryh8v8pah",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wq522v4o60gw",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "l7e17lemu9md3m",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1175942",
@@ -785,7 +1062,58 @@
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "PG",
     "network": "DreamWorks Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "ovfzn0sz48wz",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "z7q2zame6zta-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "fund5erlnw7v",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "lijvqflklths",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "nbckdvand5zl",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "WPkbB9jKo1cbvZY",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "49wjm8ypil4r",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7k9zgvlwrbrb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fudfe5ymfbwh",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "elz64po0ix3e4j",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1515395",
@@ -828,7 +1156,53 @@
     "createdAt": "2025-10-23T20:41:14.997Z",
     "ageRating": "PG",
     "network": "DreamWorks Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "5m9s9r59rpre",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "hl9gi5dys4p9-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "6unq0ohv6n43",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "e6xwys1j4dgi",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "BOOpolm6ZysyY91",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "p5gkfbm6ynr1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "rgv6j4zotg0e",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "udntmrbcxrbk",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "l783wngqsg79jp",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1396965",
@@ -892,7 +1266,49 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.999Z",
     "ageRating": "",
-    "network": "Tunche Films"
+    "network": "Tunche Films",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "f8ux47xuk7xh",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "6k4ri2v332i5-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "wvbhraak7qxh",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gut1dnzk8bmo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "0382hgvpdsj1",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "Rqr1POYLjmhdPV4",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "blcrjfmz4bod",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "l7qe47gzcqkdrl",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1316147",
@@ -914,7 +1330,58 @@
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
     "network": "Mack Media",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "h1o9eu2jy0pb",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "vef102u0mptp-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "rhy8d45r2f1e",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "w1ic68u03kxb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "blqizjy7nwvs",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "MqOY4MKLPOcm30g",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "4jw58t5phbxc",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "twnw9l0bpjxo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9lhkjxtigkvy",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "q1dvwgd3ux8g0x",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1484453",
@@ -979,7 +1446,58 @@
     "createdAt": "2025-10-23T20:41:14.998Z",
     "ageRating": "PG",
     "network": "Climax Studios",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "9wrstpkuczbf",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "cchapu36i6uq-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "dv8xyaitzv44",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "o9plun9bewff",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6vaej5cz0bv1",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "kvXZoQ2pYWUOzQe",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "pl2kmohalg03",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ha6aeb4fztkc",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "yl8y27776dxr",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "r6nm3vrouppxx8",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1449951",
@@ -1000,7 +1518,59 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "",
-    "network": "The Asylum"
+    "network": "The Asylum",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "85s9dlfud2xi",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "or1uqhf3e3na-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "gij8n5os76os",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9tx3rxnuxy9h",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "270hg06uy3b1",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "b2JqmX3XvLCPj1Q",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "kfgtfnupyhwo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m0un94ftqsbo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "rx52whv8zaah",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "pjzjv08zfggnle",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "927254",
@@ -1022,7 +1592,58 @@
     "createdAt": "2025-10-21T20:43:25.741Z",
     "ageRating": "PG",
     "network": "Jellyfish Pictures",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "9lfcnhltrs42",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "zan5br7rrtdm-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "5897jdd6h29c",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3xwwoygnomhc",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "hzq7bv8af7ks",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "BvJ8ym4P0YUKG4",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8vkrucnar2bf",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "tvt0fa37m6pd",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6awdurey9w4l",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "q1dmkn9ntzz80",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1022787",
@@ -1044,7 +1665,53 @@
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "PG",
     "network": "Pixar",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "o7nwybi0n307",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "fos0d6r5x4e4-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "907384su165r",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "86dapct603ic",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "mvbJljyXXOubgJ2",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "ew5er3p3z237",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "2xyeignv89uq",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ddtbd9khq6o8",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "3601n7nvt4xdw",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1280282",
@@ -1087,7 +1754,53 @@
     "createdAt": "2025-10-23T20:41:14.997Z",
     "ageRating": "R",
     "network": "Studio Mir",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "0qb2lglpiwvw",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "ehps0tq295l5-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "rcqzl3fe37kb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gdmqqj6s6gxr",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "94qXDvaexofaQe2",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "op2y4b06n747",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "jzqamejarclo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "72jkd5ud1osw",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "7kqg9xj3s4wp3j",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1297763",
@@ -1108,7 +1821,59 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.997Z",
     "ageRating": "PG-13",
-    "network": "Kamikaze Douga"
+    "network": "Kamikaze Douga",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "hrm2vq6wm5g1",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "4h4ygmsn8hk5-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "rtcv9zkk6hia",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "elgeefbxb4n6",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9ywx6sbiuan0",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "kpZR8dBLabFOVW4",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "a368wav6l2iu",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fiagp8vxs1p3",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "hb67xglwn8m8",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "gjgrmg3ec86w1w",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1104845",
@@ -1130,7 +1895,53 @@
     "createdAt": "2025-10-23T20:41:14.999Z",
     "ageRating": "",
     "network": "Nickelodeon Movies",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "l0n541g7mmgg",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "s8n1qav1b1av-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "oxxvgxxn2rbl",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7fcttduinnsd",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "LaRrxKgxaruRB3Q",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "t8sfprpsjrd1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "t5brx5lxifp1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "mox1f82u8kru",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "dkj6ze03um3dj6",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1481390",
@@ -1215,7 +2026,48 @@
     "createdAt": "2025-10-23T20:41:15.000Z",
     "ageRating": "R",
     "network": "Sony Pictures Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "v8z91emxhu0k",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "9z2ek50ry6ed-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "v3vikl2q0crf",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "l9odd1aankhe",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "Orek3GlYxwCZP3K",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "85h7ohl1wq14",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "03mqwsaexefb",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "vklkwn4zhrod6k",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "881415",
@@ -1237,7 +2089,58 @@
     "createdAt": "2025-10-23T20:41:14.998Z",
     "ageRating": "",
     "network": "AgX",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "xn6aydnwpgjq",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "9ijlw9r46pwb-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "5d0ri8lnzfru",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "eyxu6bqomu0w",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "xb0sjo1605tr",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "JKMX3JB6GwUjwZl",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "yre4ccro5ok3",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "2uzf2hj4qw3e",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "s8yjlga2t9g1",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "xwg7qeljue9kwn",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1205229",
@@ -1259,7 +2162,53 @@
     "createdAt": "2025-10-25T15:58:34.006Z",
     "ageRating": "PG",
     "network": "Copperheart Entertainment",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "w54z6z18a2vx",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "paknxdpoh4qx-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ouoaxbbie7l0",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "qi0nx6t789ou",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "006829fytqb5",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "VrxydkkeyWSKG9Z",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "r9avkao1zi19",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "drrhv4dhsfvg",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "4d7o1ondcq6l91j",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1084153",
@@ -1281,7 +2230,58 @@
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "PG",
     "network": "Cinema Gypsy Productions",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "ngty3vyjnbrk",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "e8ubv076a9q3-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "j4cgiibefrkj",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "k6u4walbmu9v",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "t23ka66d8au5",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "49xRjvb4QJfKl9L",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "igse910ccggx",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m5kxvb2a4q4e",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "c7cnnxxt2d1t",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "67lqk9z9u93dnp",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "936108",
@@ -1303,7 +2303,48 @@
     "createdAt": "2025-10-23T20:41:14.989Z",
     "ageRating": "PG",
     "network": "Paramount Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "9ezdx5kir76w",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "ipfsbu2e9rov-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "k5a80pibz7ob",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vkf4t3ksfxaz",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "lqdy7k2PZjUmZy",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "qfhonx4q98wl",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "uka1lvrrg7dz",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "q161x904b3n1q4",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1497397",
@@ -1346,7 +2387,58 @@
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
     "network": "Kuku Studios",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "o34vr0k6v73c",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "pcjntoyudjgb-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "j0ujzqovjlv8",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "439hncz8bol5",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wv259mzq7m6v",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "yxL8xp80JViyxv",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "h79fqeelt1ww",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "2k76i00n9ree",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "z1izg4v38glz",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "nlngmg4vsgpoqk",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1214130",
@@ -1368,7 +2460,53 @@
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
     "network": "GFM Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "sfmn4ct1aqvj",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "q9jieferqfon-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "3yaeb6jtuun9",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "5cdnehlhbtub",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "3JOObqmVzlFdZR7",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "4v13hdzt5pnx",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "yh79cifs56s8",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "zzxbkx06mewr",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "q1dex4nos0gdo9",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1360829",
@@ -1411,7 +2549,43 @@
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "PG",
     "network": "Walt Disney Animation Studios",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "yu5gc1drvq6l",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "yhfwdcjmfweo-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "x51f4e7kq4ro",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wuz1626kujm8",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "be410j2lkjt5",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "BABeMLZLwztyyYb",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8byvsc5nxa1w",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1539104",
@@ -1496,7 +2670,43 @@
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "",
     "network": "DreamWorks Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "jj2ddtczag0t",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "fz2211kbchbf-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "sd6l38bmlyh5",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ejun9ulvb4y0",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7510947138245",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "pjoZQ2v32zuxzw",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "zrz8bl8lwy9d",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "829402",
@@ -1518,7 +2728,53 @@
     "createdAt": "2025-10-21T20:43:25.745Z",
     "ageRating": "PG",
     "network": "Tsuburaya Productions",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "wanosos3dbyl",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "iz3ne7janz33-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "09xu334p5zrz",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vfku285qzah0",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wmxmzhi4x9eo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7085609454277",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "xl8gbfva4qth",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "W6gmWAVKR3ubKG6",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "3iqmcqmgzpe0",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "823219",
@@ -1561,7 +2817,43 @@
     "createdAt": "2025-10-21T20:43:25.770Z",
     "ageRating": "",
     "network": "Arenamedia",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "71yft1ioy7ly",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "abmho4xd0pap-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "8ivcwqyqzkl0",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "sy759f7sl5sp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "1pv5bdsb2677",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "laK1WL6Ve6h7Yr6",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "yyv9ibp2yws1",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1244492",
@@ -1583,7 +2875,43 @@
     "createdAt": "2025-10-21T20:43:25.770Z",
     "ageRating": "",
     "network": "Studio Durian",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "yecpat179n3v",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "5uef42uc1r8o-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "sshg3af3ssas",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "mcoa86ggk4o7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "in5v8xpd0d3p",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "wOQ9Ya6GeyCJy2l",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "f8o3148da5ef",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1167027",
@@ -1626,7 +2954,43 @@
     "createdAt": "2025-10-21T20:43:25.770Z",
     "ageRating": "PG",
     "network": "Paramount Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "xgqzqu0uimn3",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "wktdurwvxr29-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "8nat6bt84dfe",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "w20pdj2ghd7h",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7528595196613",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "o6Pl9qdw6OUJoRp",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "5f1ougmah7e6",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1014505",
@@ -1690,7 +3054,48 @@
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG",
     "network": "Movistar Plus+",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "8nscze20bx01",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "4kiynbvj9eik-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "0c1t7qpuxlvb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "bzb2b9sfkkav",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "p265gh23tkj2",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7158416476869",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "zVr9Z0vgrOcY3wK",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "qjj31a9l9ox1",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "567811",
@@ -1712,7 +3117,38 @@
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "",
     "network": "GFM Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "5k65opi15tto",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "u8kdilt99t55-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "3ya4b9x9qoci",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "egu7fnubl6p3",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "02vk8gPelmUbOQJ",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "rlcgojs170jl",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1012201",
@@ -1756,7 +3192,48 @@
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "G",
     "network": "WildBrain Studios",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "8rmq3mwrs378",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "m0y9p4c79e2q-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "42xjodoyniie",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wiba5diqm0ew",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6pxo1b285kot",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6735387429573",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "LOq2GzzAo9hRLyQ",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "jyxh2b2np3im",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1022789",
@@ -1778,7 +3255,48 @@
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "",
     "network": "Pixar",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "rlnvix92xr5t",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "tnve9l26knnv-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "cxshbzltndi1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "2pl11ztcbdie",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "1qgfk368op5m",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7334395448005",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "Xg7JBZQrqpUDOGM",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "9gofk4x84pmc",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "842859",
@@ -1885,7 +3403,53 @@
     "createdAt": "2025-10-23T20:41:14.995Z",
     "ageRating": "R",
     "network": "Warner Bros. Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "z6hn5qht5685",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "sipobjfrgaln-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "vn96eq5fpfb2",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "t4l03g8huwqx",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "zXlqZXelmbuYzpz",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "3m0p30wc29rr",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "rkugkmiawou4",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "446wnkyzmu4f",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "z1gvgr0mtg8g1w1",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "762509",
@@ -1907,7 +3471,53 @@
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG",
     "network": "Walt Disney Pictures",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "ew6ipwx3fea5",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "zntdfgswbosy-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "m5ek3excphdp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7kpqkfny93ww",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "oD2xpKw8kRHxrP",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "ox1y5rf0zs2d",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "u73dk7pl4hj4",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ojibo7f2dda8",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "67o6npk1fw4wvd",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1147416",
@@ -1972,7 +3582,43 @@
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "R",
     "network": "Warner Bros. Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "w8cvq377dlwy",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "4ww49iafboad-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "l1rs5eq20pbe",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gxdkrkh9ko32",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "b7aqqnxmwydg",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "69gRvR33bVF93mD",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "5chsgpmgtvhb",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1236419",
@@ -2143,7 +3789,49 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG-13",
-    "network": "Warner Bros. Animation"
+    "network": "Warner Bros. Animation",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "5zsq67nqt9fm",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "pzesob1w2u7i-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "0kdlzw6zi6sl",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "dxzmq8zr8t3n",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gjxwkiz89lta",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7232241011397",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "WGAbeKDB2YUbVzK",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "vie38op97now",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1371727",
@@ -2165,7 +3853,43 @@
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "G",
     "network": "Illumination",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "bxi9rbm5b3h8",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "jgfnmdt6jgba-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "4jgrt1wllwi3",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "szj3vybeue7g",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7514072156869",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "rKm2Q3ageyCbbLo",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "12vu0pm0fckp",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "645757",
@@ -2187,7 +3911,43 @@
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "PG",
     "network": "Locksmith Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "rrg66gxwt54m",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "todye331z5xj-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "22oml7xapv4s",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "x7ikkizjm62j",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7afofy6v7524",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "p1oavp9bPpfBV8",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "25qdpsy8f22h",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1355755",
@@ -2209,7 +3969,43 @@
     "createdAt": "2025-10-23T20:41:14.996Z",
     "ageRating": "",
     "network": "Esperanto Filmoj",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "gsgt4qtcosk5",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "bbs1gpcfepa5-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "tfy25p4hq74y",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "artry94mah15",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "183872okcjs1",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "7d03awwkXBTAXX2",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "r17iyabjnsti",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1230393",
@@ -2230,7 +4026,49 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "R",
-    "network": "E&H production"
+    "network": "E&H production",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "wvy8mvxu4v1j",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "a6a6xyv1qzvo-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "4w5tziflvpzx",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6i0ixxcpo89h",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "xc8h8hw3vnyq",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6662434261701",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ymogzpyxlc9o",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "mPvQB87k22ibYaP",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1241982",
@@ -2251,7 +4089,59 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.743Z",
     "ageRating": "PG",
-    "network": "Walt Disney Animation Studios"
+    "network": "Walt Disney Animation Studios",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "w76556cmlbs4",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "x5zujwkdl9b4-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "eththu792k5b",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "5rwuhl1zdv0r",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "xyavuszl1bdz",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "gr31b7VwVwiqWaX",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "ih8opkq4ug79",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "podrh6cwxrns",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "uo1idzr58f4b",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "4dpekgwdt4vvjl",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "519182",
@@ -2273,7 +4163,48 @@
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "",
     "network": "Universal Pictures",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "zsr4ghwdc8kf",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "c2cr2yv9jopt-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "9mpcxragm6cx",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "46w0ch6djaoe",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fyarryfd2yfv",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7349564082885",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "R49mrK74jbcLjJ",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "koj7904yz3l7",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "748783",
@@ -2295,7 +4226,48 @@
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
     "network": "Alcon Entertainment",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "bjmwcqcb5xlu",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "78gdzh3i0byg-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "2ofnr402vvxg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "hu8zi3kekai7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "0ehk3nibrhf1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7255271213765",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "ZadwgAlQlac7Jw",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "591qux1urxp8",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1011985",
@@ -2317,7 +4289,53 @@
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
     "network": "DreamWorks Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "8dt28hlcxtoe",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "ehr5dywf1bh9-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "6xr6sha3tf5n",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "drb1c8g4e6i7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "job5324pfzjk",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7034957531845",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "juzv8k91e60z",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "MjYkLdwgGaI0VV",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "arvgit97d25u",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "974397",
@@ -2488,7 +4506,48 @@
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "PG-13",
     "network": "New Line Cinema",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "xn1zv837tiub",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "k6c8ypkn07sa-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "g1e0x9zpdbuz",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "B7gBjJaL96tyXvG",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "7hwco726r41x",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6r3pyo10u86g",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "x49yn6ujeqwk",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "mkvpdo8jixxmnd6",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1134680",
@@ -2573,7 +4632,48 @@
     "createdAt": "2025-10-25T15:58:34.398Z",
     "ageRating": "PG",
     "network": "Studio 100 Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "i1ezl81a5y4g",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "xzvitmw93fbf-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "rmhd04743acs",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "18ca91ny1wf7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "jd8isaifnbb8",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7360045910725",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "KgAQpoAZp8C0xlL",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "xmau35p9f3cg",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1239251",
@@ -2703,7 +4803,48 @@
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "",
     "network": "Arcadia Motion Pictures",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "z5mduff6pgd7",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "rd6adq3a4l41-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ipdlql0xn8ji",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ot99bpyk03li",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "a1mrysr5xmqj",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6715901676229",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "op4zGbbjwwsJ2bj",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "aarstuh8d8kj",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "961323",
@@ -2746,7 +4887,44 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "PG",
-    "network": "Cartoon Network Studios"
+    "network": "Cartoon Network Studios",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "60o1lphj33zz",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "s19a7xbexs5z-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "bj4j71hsn2yp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m5pz9sr9iawg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6534110317253",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vdbbnc532g65",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "vlzaVox7XPt4q6V",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "913001",
@@ -2939,7 +5117,49 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.994Z",
     "ageRating": "",
-    "network": "Breakthru Films"
+    "network": "Breakthru Films",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "jmlc8cytbzm1",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "z8pk117k4m6m-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "upmczolyahyc",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "iflhwnirtf2h",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "0gh4hc814x8g",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6850648345285",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "zxGRmLbzRAUXGB",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "f7226ngw3m4j",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1089654",
@@ -2982,7 +5202,53 @@
     "createdAt": "2025-10-23T20:41:14.991Z",
     "ageRating": "NR",
     "network": "Gébéka Films",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "6gkfc424t4vi",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "60f9txy7din1-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "bfh277g8dafn",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "zh184ghv6j1u",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9ce0aa2owipx",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7065302076101",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "c33nzcgh7qzk",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "aPrzeqyl2OHxGp3",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "jgdt7kjqawd3",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1146348",
@@ -3068,7 +5334,48 @@
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG",
     "network": "Universal Pictures",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "n84jaqodo41r",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "gw9be9vvtb5d-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "mhtqbdu9yg6q",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fphqia0zw1nn",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "l385uynga0gr",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6746243271365",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "61O2XP8e17Sp2b",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "tgfh8n3gvufq",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "508883",
@@ -3090,7 +5397,53 @@
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "",
     "network": "Studio Ghibli",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "5ptq2ffxch47",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "h0fxxq2twblg-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "88q6l1ck0r16",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "rghezxu43ume",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wsf8gns946hf",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7150984432325",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "il4jio0qrpzx",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "RgzAq1y0JMcdO6D",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "qzlb2jap44lg",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1075794",
@@ -3155,7 +5508,48 @@
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
     "network": "DreamWorks Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "8b3dlciu68el",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "amynn1jtq8vk-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "rv1f1gcluu1f",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "u9tgrepta3wb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ovsk19bhojn0",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6721794345669",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "Xz8oYJKeQmHDv8d",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "auc0e3kd7fl3",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1147400",
@@ -3261,7 +5655,54 @@
     "isFeatured": false,
     "createdAt": "2025-10-23T20:41:14.993Z",
     "ageRating": "PG-13",
-    "network": "MAPPA"
+    "network": "MAPPA",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "jtu61t2ja8vr",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "4jl43szkq3pz-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ffscofg7la47",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "kkovfhed0mdb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "cfh2fhaww444",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6643700927173",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "b89ams4gth4z",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "KwpPZyLPVXh0x9b",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m5hoewadeu71",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "614930",
@@ -3282,7 +5723,59 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
-    "network": "Paramount Pictures"
+    "network": "Paramount Pictures",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "apkrra1yqg7t",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "814u1sg29ftz-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "7lgl7an97san",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "rsxzaeunsa6p",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gn1d2agregcy",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6911176084165",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "05wrfywkd6fn",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "2Odpr7WPyGuZYLx",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "5zd1wi7xjgtf",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "jp0ngbaq",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "459003",
@@ -3453,7 +5946,39 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
-    "network": "Nickelodeon Movies"
+    "network": "Nickelodeon Movies",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "1e6vaydl8c2i",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "rl6f81p9ca2l-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ttrbpmuqbpgb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6539369384645",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "03mc64j2bjol",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "8Zj6rlgmq7CobZo",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1047041",
@@ -3539,7 +6064,44 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
-    "network": "Aardman"
+    "network": "Aardman",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "66a8f4hc5ggc",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "5uldeowin299-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "htvxj8tl167t",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3h8wa71z1top",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6542238747333",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "z8kc1b81sbjn",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "4xml0kZ6ymSKmP7",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "1003581",
@@ -3624,7 +6186,54 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.769Z",
     "ageRating": "PG",
-    "network": "Walt Disney Animation Studios"
+    "network": "Walt Disney Animation Studios",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "hrx1x490p6pi",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "r7jzbobx568t-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "8qcj4lr2ijnv",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6vxm0q9o56f7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "lbws845pq26t",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6667061758661",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "x4otmwtcfxmm",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9jwd1g7g9xp8",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "3B0oL76PDgh29Z",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "938567",
@@ -3837,7 +6446,48 @@
     "createdAt": "2025-10-25T15:58:37.631Z",
     "ageRating": "",
     "network": "Toei Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "cvz34ivph91v",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "5ue78pe47qft-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "bh89q61q387f",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "i0ko10sj2x91",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3u82j3ghpbwq",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6816363186885",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "yAAPg9rmw0u1QK3",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ne1hg6nvc4yy",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "916192",
@@ -4006,7 +6656,58 @@
     "createdAt": "2025-10-21T20:43:25.751Z",
     "ageRating": "PG",
     "network": "DreamWorks Animation",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "oo6cdvo2kh5a",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "sog6sh1caj3w-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "s09eyahkh8e7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "kkxfi07n08f6",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "oa11tquvmeqs",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "YGDz6L3J4jcvVjj",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "h4vcjc0t62ud",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gj6kmwil33kh",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "xexh5phy8d8g",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "vkldkwx6f8zjvn",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "508947",
@@ -5964,7 +8665,58 @@
     "createdAt": "2025-10-21T20:43:25.742Z",
     "ageRating": "NR",
     "network": "Beijing Enlight Pictures",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "y5bhk3tdukw1",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "mf73m6tyxxwz-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "4ncxgaty8nio",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "dqck3gxo9zcc",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fa7lfnrjlu90",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "ylpDo30xBxc1GXj",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "2szsp4szyi3j",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9k9o9vibewbm",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "zkntchwj67o5",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "l7wx360lh1mzer",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "820232",
@@ -7080,7 +9832,48 @@
     "createdAt": "2025-10-21T20:43:25.765Z",
     "ageRating": "PG",
     "network": "Illumination",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "51smrxvbas8r",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "n3fo7brews38-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "g6radodqju3b",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3zjowi7urrv3",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "q82fguugp5n8",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7349685258949",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "OgLBxM4vGVTZ8JQ",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8u66us3pveag",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "137116",
@@ -7249,7 +10042,53 @@
     "createdAt": "2025-10-21T20:43:25.744Z",
     "ageRating": "PG",
     "network": "Walt Disney Animation Studios",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "61l7v5hqw3h0",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "fdy427a0cl7c-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "qt1ap2d66iy2",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "anuo4zhjzzx6",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "d1biw4lulmp5",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "1B38vQew3yueZrx",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "32sgap5j5fib",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vz8gdw6u5f7a",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "q1dnzwpzsne8ml",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "406785",
@@ -8804,7 +11643,48 @@
     "createdAt": "2025-10-21T20:43:25.749Z",
     "ageRating": "PG",
     "network": "Illumination",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "kgyy6pni495u",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "k0gy7voccccc-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "zdg9xvwkgw0c",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vjb39ndg6oam",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "iypp09v4bx5t",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7349852637893",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "bKVr1bxGLWIPpBD",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "l5v2q63eknz4",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "49519",
@@ -9707,7 +12587,59 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.748Z",
     "ageRating": "PG",
-    "network": "DreamWorks Animation"
+    "network": "DreamWorks Animation",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "f8v8pdv39clp",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "lja8fkqnjx0m-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "fmdgu8awyr9v",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ldgvhbr5ke4g",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "hoa6581s0lql",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "rAJMr0a3w8tbWaV",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8f32xhxecffm",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "2cbi3gau3404",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "o6qgjmqvbfi0",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "wlx6468qt0zvm19",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "10193",
@@ -9792,7 +12724,48 @@
     "createdAt": "2025-10-21T20:43:25.748Z",
     "ageRating": "",
     "network": "Illumination",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "s3plvm5l5kbg",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "tk8xbnzxku31-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "b8mr9b7d788w",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "sgzjw9cqcvws",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vujy3ql3qyeb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7349788478149",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "M6MPkpbQ30CmjbP",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "6hv9ayx323e3",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "45162",
@@ -10170,7 +13143,54 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.759Z",
     "ageRating": "PG",
-    "network": "Walt Disney Pictures"
+    "network": "Walt Disney Pictures",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "1502wpk4ajjn",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "trhnxvn82491-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "oz7o6ce033c3",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7dfvllohoai4",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "JA2VWQD1oyIJ0D",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "bh2lm8bhagke",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3uc0a5hl5ixw",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "zn5c1t274hok",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "q1m00eg0hml8m3",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "8355",
@@ -10801,7 +13821,43 @@
     "createdAt": "2025-10-21T20:43:25.758Z",
     "ageRating": "PG",
     "network": "Imagi Animation Studios",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "r5mcixb3278o",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "4yksdnk5bjvm-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "d3aaphh5blso",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ygrewd7gxvzb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7352632740549",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "4oWm8wGbbOcKerW",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "ac1oaprw86tp",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "5559",
@@ -13077,7 +16133,48 @@
     "createdAt": "2025-10-21T20:43:25.746Z",
     "ageRating": "",
     "network": "Walt Disney Pictures",
-    "directServers": []
+    "directServers": [
+      {
+        "t": "v",
+        "d": "6usk8apyi9jz",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "452atk9lcpca-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ujymzc48yof9",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "baugh8wc9n8y",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3yu4qw1vpwns",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7352467065541",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "1jZoMkPJJLcemo2",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "c9mbfzvilk3l",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "17681",
@@ -13435,7 +16532,44 @@
     "isFeatured": false,
     "createdAt": "2025-10-21T20:43:25.746Z",
     "ageRating": "",
-    "network": "Walt Disney Feature Animation"
+    "network": "Walt Disney Feature Animation",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "orsgz0xcey5f",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "17nwoz8945xy-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "o7bbsb3ixwc3",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "qseo3esva8jy",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7528580385477",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "8WPaQ8QrbWsobVR",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "m6bt19ri0r0i",
+        "q": "1"
+      }
+    ]
   },
   {
     "id": "21422",
@@ -15076,5 +18210,2997 @@
     "createdAt": "2025-10-23T20:41:15.002Z",
     "ageRating": "G",
     "network": "Walt Disney Productions"
+  },
+  {
+    "id": "1148706",
+    "tmdbId": 1148706,
+    "title": "Boku to Roboko Movie",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/54hWqGljwZZBz0U8NmXjFbyuxCk.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/x7Bms1qLg6eOTaz5jlA7iJLlWVR.jpg",
+    "year": "2025",
+    "rating": "9.5",
+    "duration": "",
+    "genre": "كوميديا, رسوم متحركة",
+    "category": "كوميديا, رسوم متحركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:25.150Z",
+    "ageRating": "",
+    "network": "Gallop",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "i86cwqb1lj61",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "jmoo0xmaewp6-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "w3pn4t3j1rro",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "v9t0khw10726",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "bjcgxigc3e58",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "DP7oX6lyLmTkM8R",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "s9hbqwse1p3s",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "717787",
+    "tmdbId": 717787,
+    "title": "Your Letter",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/nbm36xsDILraKIphEag1kqVKHV6.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/thsAU92Ei2Nbm38ZdkvHI8xLaSc.jpg",
+    "year": "2025",
+    "rating": "7.1",
+    "duration": "97 min",
+    "genre": "رسوم متحركة, دراما, غموض, مغامرة",
+    "category": "رسوم متحركة, دراما, غموض, مغامرة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:29.714Z",
+    "ageRating": "",
+    "network": "Studio N",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "ojb1do0ec4jq",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "xze3eosqp5vl-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ko76yhsjrdsw",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "bcy27yh53vaw",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "2vze61lrf2ej",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "PjAb9QxZYlF0mBx",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "echiz7wnv463",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "el06g1lmb7exk8",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "974691",
+    "tmdbId": 974691,
+    "title": "Streaming",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/dfgZJlKYg5xm6dBl05bOKhfunXb.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/zOZ3Uh76Z2dNrW4qkHYIxxTvPY5.jpg",
+    "year": "2022",
+    "rating": "7.174",
+    "duration": "49 min",
+    "genre": "رسوم متحركة, كوميديا, فيلم تلفازي",
+    "category": "رسوم متحركة, كوميديا, فيلم تلفازي",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:29.602Z",
+    "ageRating": "",
+    "network": "MTV Entertainment Studios",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "4rjsfeuafb95",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "qemogl3zb1nz-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "wxi8gs4nzrng",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "z22a48fkktmg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m1vnf9rceyjq",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "q9JZdPWzyBSwGv",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "phsf4wamgytk",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "jdzqr9pktno1mz",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1437198",
+    "tmdbId": 1437198,
+    "title": "Tafiti: Across the Desert",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/lLJgzLhKjUjGVIfY6MTyCJQzD9t.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/lboPYPg7fj4YltvOWmj4sShnweh.jpg",
+    "year": "2025",
+    "rating": "7.2",
+    "duration": "82 min",
+    "genre": "رسوم متحركة, مغامرة, عائلي",
+    "category": "رسوم متحركة, مغامرة, عائلي",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:32.563Z",
+    "ageRating": "",
+    "network": "Little Dream Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "cqdo947wzlvd",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "4xzq73qvgg36-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "srybcs080u7q",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "2zb5cgddsbgg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "n0z6wl8gjzci",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "RmB3oRBA77udrXJ",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "fgjyyv6syjpy",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "k0me8vjksj0w3p",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1209217",
+    "tmdbId": 1209217,
+    "title": "Detective Conan Movie 27: The Million-Dollar Pentagram",
+    "type": "animation",
+    "description": "وصلت رسالة من اللص الطائر (كايتو كيد) يعلن فيها أنه سيسرق سيفاً يابانياً يخص عائلة (أونوي) الثرية في هاكوداتي بـ (هوكايدو). يتصادف وجود (كونان) و(هيجي هاتوري) هناك، فيتوليان مهمة القبض عليه. وفي هذه الأثناء، يُعثر على محامي عائلة (أونوي) مقتولاً بسيف ياباني في منطقة المستودعات، ويصبح المشتبه به تاجر أسلحة يسعى خلف كنز العائلة المخفي. وسط أزهار الكرز في الشمال، تبدأ رحلة البحث المثيرة عن الكنز!",
+    "poster": "https://image.tmdb.org/t/p/w500/5QynS9jkfCKwUQI05hqjR4pUqGf.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/4TMkOnI6rCYxqD059aeeQSBv5mc.jpg",
+    "year": "2024",
+    "rating": "6.8",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, جريمة, غموض, حركة",
+    "category": "رسوم متحركة, جريمة, غموض, حركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:36.174Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "qyyadi36yomf",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "47u5qb5fytlb-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ngm3dv6kaz6m",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wkv09l930xut",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "kyj9fsq9a81o",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "OXdpJxReA3iZAP0",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "32o20257j4st",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "o58p845ky0fn",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "4zrcgk8vwpbf",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "xw96xzqva8xz0x",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "903939",
+    "tmdbId": 903939,
+    "title": "Detective Conan Movie 25: Halloween no Hanayome",
+    "type": "animation",
+    "description": "شيبويا، طوكيو، تعج بموسم الهالوين. يقام حفل زفاف في شيبويا هيكاري، حيث يرتدي المحقق ميواكو ساتو من قسم شرطة العاصمة فستان زفاف. بينما يشاهد كونان والضيوف المدعوون الآخرون، اقتحم مهاجم فجأة، وأصيب المحقق واتارو تاكاجي، الذي كان يحاول حماية ساتو. نجت تاكاجي وتم تسوية الوضع، ولكن في نظر ساتو، تداخلت صورة الحاصد القاتم الذي رأته عندما قُتل المحقق ماتسودا، الرجل الذي كانت تحبه، في سلسلة من التفجيرات قبل ثلاث سنوات، مع تاكاجي.",
+    "poster": "https://image.tmdb.org/t/p/w500/3JfgyHo8WlaLYgXDTujt2Ne0Cmy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/7DBdVT5KEhjnMLpoejbYylfzd92.jpg",
+    "year": "2022",
+    "rating": "6.4",
+    "duration": "111 min",
+    "genre": "رسوم متحركة, حركة, جريمة, غموض",
+    "category": "رسوم متحركة, حركة, جريمة, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.390Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "nj7gz8ntjqhd",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "brod6ixvu5y2-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "otde5vjhwl02",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "tg9cmsvkycav",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "co1k8x3qsysq",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "r4vAKpX4LmIb1dX",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "nxew3z11xzko",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "tpzp5pyqlrbg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "n8rbmldoj242",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "xw96xxeecrznr6",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "662638",
+    "tmdbId": 662638,
+    "title": "Detective Conan Movie 24: The Scarlet Bullet",
+    "type": "animation",
+    "description": "تستضيف مدينة طوكيو اليابانية، أكبر مهرجان رياضي في العالم - الدورة الأولمبية للألعاب الرياضية-، ومع الاستعداد الكامل لهذا الحدث الهام؛ يفاجئ القائمين عليه باختطاف عدد من رعاة البطولة، فيتولى المحقق كونان أدوجاوا التحقيق في الأمر، وكشف لغز الرعاة المختطفين.",
+    "poster": "https://image.tmdb.org/t/p/w500/fnDNBzt3jIOvA3xnnGXYYHnh0dZ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/f5o7KiOdcM9mqbobPbLDFcVqjcy.jpg",
+    "year": "2021",
+    "rating": "6.433",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, حركة, جريمة, غموض, رومنسية, إثارة",
+    "category": "رسوم متحركة, حركة, جريمة, غموض, رومنسية, إثارة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.745Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "a6b84yf45gfy",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "jbqz8b2pua3d-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "dshzaoe9500q",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "tg0u9o1kvy5r",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "4ue4t304vqzx",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "ZPYlDBZWmxFqb03",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "kwejmxvg8rwb",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3hl54beron38",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "aczjwgtw61xi",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "nlnredg0cm6kkj",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "566555",
+    "tmdbId": 566555,
+    "title": "Detective Conan Movie 23: The Fist of Blue Sapphire",
+    "type": "animation",
+    "description": "تدور أحداث الفيلم حول جريمة قتل تحصل بالتزامن مع محاولات “كايتو كيد” “الفتى اللص” سرقة أكبر جوهرة ياقوت في العالم، والتي قيل أنها فُقدت في البحر بالقرب من سنغافورة. يخدع “كايتو” “المحقق كونان” ويدفعه إلى الحضور إلى سنغافورة عنوة، كجزء من خطته، لكنه يتفاجئ بوجود بطل الكاراتيه “ماكوتو كيوغوكو” الذي يمنعه من سرقة “الياقوتة الزرقاء”.",
+    "poster": "https://image.tmdb.org/t/p/w500/zIzwrXTtuPeqfWg1C6Kql4ZTeQC.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wf6VDSi4aFCZfuD8sX8JAKLfJ5m.jpg",
+    "year": "2019",
+    "rating": "6.2",
+    "duration": "109 min",
+    "genre": "رسوم متحركة, غموض, جريمة, حركة, مغامرة",
+    "category": "رسوم متحركة, غموض, جريمة, حركة, مغامرة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.532Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "vh3elgrm8pcy",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "8x27swpvbeuu-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "htd8oj95by49",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "j0svkgkqkd2g",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "p1hazbdfjf0i",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "3WDPmk0qZmcdvpj",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "1rloqrtz7s7b",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vmwaidt5h03n",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "c1gbd7pn2jtr",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "z1j0mnn4t1gpk",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "493006",
+    "tmdbId": 493006,
+    "title": "Detective Conan Movie 22: Zero the Enforcer",
+    "type": "animation",
+    "description": "حول سلسلة انتهاكات قانونية قام بها أفراد لغايات شخصية, تؤدي إلى زعزعة الاستقرار في مدينة طوكيو اليابانية، يقودها شخص في محاولة منه للانتقام، عقب إثبات تورطه بعملية تفجير ضخمة، أودت بحياة عشرات الضحايا من رجال الشرطة، وسط المدينة خلال حدث سنوي بارز. يبدأ المحقق كونان مهمته بتبرأة المشتبه به الرئيسي في القضية، ثم يتنقل إلى ملاحقة الشخص الذي يقف وراء هذه الجرائم، تتسارع الأحداث أكثر، عندما يقوم المجرم باختراق نظام وكالة نازو الفضائية لإسقاط مسبار فوق مركز الشرطة في طوكيو، وهنا تتشابك الخيوط، وتصعُب المهمة أمام المحقق كونان، لإيجاد المجرم والإيقاع به. قصة شيقة ومغامرات تحبس الأنفاس يخوضها كونان برفقة أمورو، والدكتور أغاسا وشخصيات مختلفة يُغير بعضها مجرى الأحداث بشكل مفاجئ في اللحظات الأخيرة",
+    "poster": "https://image.tmdb.org/t/p/w500/eWfXVTNaVkpxZXaLJA0xSNBrDZR.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/b34gFOKl4GjW3QtZ0H7SY5NYNan.jpg",
+    "year": "2018",
+    "rating": "6.2",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, جريمة, غموض, حركة",
+    "category": "رسوم متحركة, جريمة, غموض, حركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.400Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "brm6i0v44jyk",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "frgezeh2cwwf-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ih983jehkch2",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "u4hqhhnc8uo4",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "4m2kzhv4b029",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "xXw9GP8228TkKqb",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "jrj0bhvm6duj",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "umcmr6nbh7p1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6xkceoxjwv2i",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "wlwrq3wmi7nwgq",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "438058",
+    "tmdbId": 438058,
+    "title": "Detective Conan Movie 21: The Crimson Love Letter",
+    "type": "animation",
+    "description": "تبدأ القصة مع موموجي أوكا وهي طالبة في السنة الثانية بمدرسة كيوتو الثانوية، وهي بطلة في لعبة الورقة المعروفة باسم الهياكونين إيشو. وتدعي أنها موموجي أوكا صديقة هيجي هاتوري وأنها ستكون زوجته المستقبلية. وأثناء تواجد هيجي هاتوري مع صديقة طفولته كازوها توياما في مدينة أوساكا، يستهدف مبنى تلفزيون نيشييوري بقنبلة.",
+    "poster": "https://image.tmdb.org/t/p/w500/v51KT0hZT3387NVxocRPxie5yWG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/60h5gBY9YLUBIRRBmXgnVt5Ywkt.jpg",
+    "year": "2017",
+    "rating": "6.487",
+    "duration": "112 min",
+    "genre": "رسوم متحركة, جريمة, غموض, حركة",
+    "category": "رسوم متحركة, جريمة, غموض, حركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.317Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "82li23er2651",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "36lk60u8rudq-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "7lf0cq5kszhp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "4apon3sitevo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6o8h9goa6py1",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "aby31klQdpcJpR",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "2j2myh6072po",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ex1pt56vnpsm",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "hm4g1rf30f5f",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "9wx0gr86a668z7",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "374856",
+    "tmdbId": 374856,
+    "title": "Detective Conan Movie 20: The Darkest Nightmare",
+    "type": "animation",
+    "description": "تعد كيرسو أحد أهم أفراد المنظمة السوداء ومخزن معلوماتها بما تمتلكه من ذاكرةٍ مميزة، لكنها تتعرض لحادث يقلب حياتها رأساً على عقب لتصبح ذاكرتها فجأةً صفحة بيضاء لا شيء فيها. يقابلها كونان والأطفال عند زيارتهم معرض الأسماك وهي بحالةٍ مزرية ويبدأ الجميع بمحاولة مساعدتها على استعادة ذاكرتها، ومن هنا تبدأ تلك الصفحة البيضاء تمتلئ بالألوان الجميلة التي يضيفها أولئك الأطفال الصغار، مما يجعلها تأبى العودة إلى تلك الحياة السوداء التي كانت تعيشها، حيث أظهر لها الأطفال للمرة الأولى في حياتها كيف تكون الحياة",
+    "poster": "https://image.tmdb.org/t/p/w500/83NFS1z9EIPQcVqXPUsP6iiPeC5.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/qO9gSwfWCQogiWMHZC7tEPunRJO.jpg",
+    "year": "2016",
+    "rating": "6.8",
+    "duration": "112 min",
+    "genre": "رسوم متحركة, غموض, حركة, جريمة",
+    "category": "رسوم متحركة, غموض, حركة, جريمة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.607Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "3tyvlvoe9kjb",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "2irlrp36hg8g-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "f88p3chxiddn",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "0keofrtscjhw",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "dd97l3fondv5",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "BL9AQ7Ygx7cybWb",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "4vd8vn5oti4u",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "oidkcs09c9fp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "8hl6biodgcjf",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "owzr6j6ja937xv",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "316873",
+    "tmdbId": 316873,
+    "title": "Detective Conan Movie 19: Sunflowers of Inferno",
+    "type": "animation",
+    "description": "يضع كايتو كد عينيه على لوحة لتباعات شمس بواسطة ڤان گوخ قد أعيد إظهارها للعلن مؤخرًا، وفجأة يظهر كايتو كد ليسرق اللوحة الفنية.",
+    "poster": "https://image.tmdb.org/t/p/w500/fdkuANc2OnaFityPV2OFRgNY93h.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/3iMg59ZgBxm9Qm4fdRawnZLI4Vo.jpg",
+    "year": "2015",
+    "rating": "6.11",
+    "duration": "113 min",
+    "genre": "رسوم متحركة, جريمة, مغامرة, غموض",
+    "category": "رسوم متحركة, جريمة, مغامرة, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.429Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "uhgd074vdocm",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "68extxx4ihd6-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "7u5zxilj5x1n",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "pq9ho04o1jyd",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "lnliedtl54sa",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "Z19K3d4d7AhqbKp",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "rfwsg012w3xm",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fq4ahs9zwzat",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "rca3ggtici9m",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "4d9zj0mnfqq9893",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "257512",
+    "tmdbId": 257512,
+    "title": "Detective Conan Movie 18: The Sniper from Another Dimension",
+    "type": "animation",
+    "description": "أثناء زيارة كلٍّ من كونان وران وسونوكو سوزوكي وفريق المتحرين الصغار برفقة الدكتور أغاسا لبُرج Bell Tree Tower ذو الـ635 مترًا الذي لم يُفتتح للجميع بعد، يقوم قناص مجهول فجأة بقتل أحد الرجال هناك من مسافة بعيدة نسبيًا. يُلاحق كونان وماسومي سيرا التي كانت موجودة هناك القناص بدراجتها النارية، ولكن الأمور تأخذ مُنحنًى عنيفًا بعد أن قام القناص بتفجير مجموعة من سيارات الشرطة. حتى الـمكتب التحقيقات الفدرالي تأخذ دورًا في المُطاردة.",
+    "poster": "https://image.tmdb.org/t/p/w500/qUfyRqOl68oJ1OyCvQlUTFk2y0a.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/5ucjKx2rR8Z55Qd7lK5mBtQPGkr.jpg",
+    "year": "2014",
+    "rating": "6.831",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, حركة, دراما, غموض",
+    "category": "رسوم متحركة, حركة, دراما, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.473Z",
+    "ageRating": "",
+    "network": "Shogakukan-Shueisha Productions",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "1fdalkl568v1",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "3w3l7o4fsjze-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "vdnggdhp7las",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3k3v8xjle4yh",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fli96akt979w",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "6o9eXjV7G2FOPY",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "xhjyjtic3ni2",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9u2ezqxdsry2",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "eajmrrfzlzhi",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "9wx0gd83unv3gg",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "228805",
+    "tmdbId": 228805,
+    "title": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+    "type": "animation",
+    "description": "تدور أحداث قصة الفيلم حول قضية مُغلقة في سفينة ما تُدعى ايجيس محمية من قِبل وزارة الدفاع اليابانية و بالتعاون كذلك مع وزارة الدفاع البحرية الذاتية , تبدأ القصة عندما يتم العثور على جثة أحد أعضاء قوات الدفاع البحري الذاتي ناقص الذراع الأيسر بعدما عرفواً أن هنالك جاسوس قد تسلل إلى السفينة نفسها ايجيس مسبباً اضطرابات و كذلك يضع ران في خطر مُحدق للغاية , يضطر كونان مع صديقه هيجي هاتوري لمواجهة هذا الجاسوس الغامض أو كما يُدعى بحرف اكس كـ دلالة على أنه غامض و مجهول بالإضافة إلى التعديل الجديد الذي قام به الدكوتور أجاسا على ساعة كونان",
+    "poster": "https://image.tmdb.org/t/p/w500/dBZ3yeNvVLrZOdxzDh9IM0Sbcpy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/xACr1uSjnqRzw8COb7UUmPca1ZZ.jpg",
+    "year": "2013",
+    "rating": "6.608",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, حركة, دراما",
+    "category": "رسوم متحركة, حركة, دراما",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:37.675Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "l2he6wtfvw7f",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "8afs6rlj1h5n-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "2tjvz0mqd1rw",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "e604e7ywg6ni",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gc62cbcgtjgp",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "PkzKoWQlbzS00ow",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "28wmfnh8hzca",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9lnb3ms8dxzy",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m3ftx8cu02ht",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "4d9zj6j7c49zk0",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "122583",
+    "tmdbId": 122583,
+    "title": "Detective Conan Movie 16: The Eleventh Striker",
+    "type": "animation",
+    "description": "تتلقى وكالة موري للتحريات مكالمة هاتفية مجهولة، شخص ما يحذر من وضعه لقنبلة ويترك وراءه شفرة غامضة. مغامرة جديدة للمحقق كونان برفقة المتحرين الصغار؛ أثناء حضورهم مباراةً بين فريق طوكيو وفريق أوساكا.. فيكون المحقق كونان في موقف صعب.",
+    "poster": "https://image.tmdb.org/t/p/w500/makUKhrs7YkPPwLydEaU3Q2oaCN.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kajpfvaVqDt9Rn04StPeEP9rQt2.jpg",
+    "year": "2012",
+    "rating": "6.846",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, غموض, حركة",
+    "category": "رسوم متحركة, غموض, حركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.586Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "8b8mxuclvy6e",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "f742og0kwo2w-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "tut8myrp38h1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ag879dphn6l8",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7oz02w4alkrk",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "djwXyY7MVwskkA1",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "142gcftwjnik",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "l0qf4olyesdr",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "a1avwcekew1n",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "4d9zj6n9hqkovz6",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "77617",
+    "tmdbId": 77617,
+    "title": "Detective Conan Movie 15: Quarter of Silence",
+    "type": "animation",
+    "description": "كونان وران وفرقة المتحرين الصغار وآخرون يذهبون إلى مملكة الثلوج وفي بداية الأمر يتلقى محافظ طوكيو رسالة تهديد غامضة وفى نفس اليوم ستنفجر قنبلة في مترو الأنفاق الذي افتتح حديثا.",
+    "poster": "https://image.tmdb.org/t/p/w500/jYTCw2sb701oaepaeUZ24uwIH0z.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/uGmONzT0bskwT23Gu07UkeQjvGJ.jpg",
+    "year": "2011",
+    "rating": "7.074",
+    "duration": "109 min",
+    "genre": "رسوم متحركة, حركة, جريمة, غموض",
+    "category": "رسوم متحركة, حركة, جريمة, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.256Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "wr2jphphw6fz",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "odijn8ddeo54-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "qz50ao7nck48",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6fjvob2bbooo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "76wtbt2p882t",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "DWgklLyARwfkkyv",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "3b6s583n2xke",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "l4msf9f4of4y",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "or7g5dupn1dg",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "nlnreozdiq6rx4",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "97375",
+    "tmdbId": 97375,
+    "title": "Detective Conan Movie 14: The Lost Ship in the Sky",
+    "type": "animation",
+    "description": "قصة الفيلم تدور حول جوهرة تدعى ” سيدة السماء ” يحاول كيد سرقتها، هذه الجوهرة وضعها جيروكيشي عم سونوكو في أكبر منطاد في العالم متحديًا كيد بسرقتها. في نفس المنطاد يتواجد كل من ، ران، كوغورو والبقية والذين يحضرون هناك بدعوة من سونوكو صديقة ران، ولكن فجأة يختطف المنطاد من قبل جماعة إرهابية تدعى ” شامو -- نيكو الحمراء ” التي سرقت أحد الأمراض البيلوجيه ولا أحد يعرف أهدافها.",
+    "poster": "https://image.tmdb.org/t/p/w500/z9T3Gtq6K9ymGZbfyvArCEX70gK.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/ubj8Y0gFZK3d3glD55BzIx8arOV.jpg",
+    "year": "2010",
+    "rating": "7.082",
+    "duration": "103 min",
+    "genre": "رسوم متحركة, جريمة, غموض, حركة",
+    "category": "رسوم متحركة, جريمة, غموض, حركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.645Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "mw0int2cc8eu",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "vwywlwxbd7as-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "a6lwxi34dvvs",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "1nv0wtmmn7ck",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "g52ltae575jm",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "jkDPWGXBwwTzRoW",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "qze1ne6jv8bz",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wglnbshcq2ep",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "wqwgu3qilwox",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "7kj6zmj6uv71nn",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "28764",
+    "tmdbId": 28764,
+    "title": "Detective Conan Movie 13: The Raven Chaser",
+    "type": "animation",
+    "description": "رجل يقود على طريق التلال فجأة يدرك أن فرامل سيارته لا تعمل وتسير بسرعة عالية، وتحطم سيارة في كشك حصيلة. يموت الرجل ولكنه يترك رسالة غامضة قبل الموت : \" تاناباتا. كيو \" وجد بجانبه قطعة من الماهوجونج بجوار جثة وعثر على ست حالات متشابهة في طريقة القتل في طوكيو، كاناغاوا، شيزوكا، ناغانو وأماكن أخرى في اليابان.",
+    "poster": "https://image.tmdb.org/t/p/w500/yRaU0Key5lcEcVC4zb7yX2T5H4c.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6LYJE4q6mujBzdtcrioCMFlKjSg.jpg",
+    "year": "2009",
+    "rating": "7.258",
+    "duration": "111 min",
+    "genre": "رسوم متحركة, جريمة, غموض, إثارة",
+    "category": "رسوم متحركة, جريمة, غموض, إثارة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.429Z",
+    "ageRating": "",
+    "network": "TOHO",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "wrm1eq5th5zr",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "j1sb6uom0032-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "c47glr28pke5",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3h7fb4oddwaa",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3kcsw36d1fjp",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "wdg1Wkd4XeHJOzv",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "p3y883pu1ucp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ji5fvl1lheda",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7mcb7wky2g7e",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "k0erokxdb7zz37",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "39207",
+    "tmdbId": 39207,
+    "title": "Detective Conan Movie 12: Full Score of Fear",
+    "type": "animation",
+    "description": "تتمحور قصة هذا الفلم حول أكاديمية موسيقية يملكها موسيقار ياباني يدعى \"دوموتو كازوكي\", أحد مستشاري هذا الموسيقار يحقد عليه لأنه تحول من عزف البيانو إلى عزف الأورغ!",
+    "poster": "https://image.tmdb.org/t/p/w500/kXNpeQF0q6TVSTIlTRaPPtQtkVx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/tED9WowWMskdvK6hfTIUUt0za32.jpg",
+    "year": "2008",
+    "rating": "6.9",
+    "duration": "115 min",
+    "genre": "رسوم متحركة, حركة, جريمة, غموض",
+    "category": "رسوم متحركة, حركة, جريمة, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.518Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "t950t67rwkuh",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "ixtejmd83fo7-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "gvs0u7h2v7qs",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7yabklqrlhcg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "cfds16d62sp9",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "vQJwljWydvhLlZ",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "69prhj8pq8i5",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "l6pn8mk8bsjo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "euus027drbzq",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "1nojkjr7ckk3zpm",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "39206",
+    "tmdbId": 39206,
+    "title": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
+    "type": "animation",
+    "description": "\"ماري\" هي قرصانة يابانية قديمة ولها صديقة أخرى تحميها من ظهرها في أثناء المعارك تركت \"ماري\" كنز في جزيرة تسمى \"جزيرة الإله\" قبل 300 سنة! في بداية الفلم يسافر كونان وأصدقائه بالإضافة إلى توغو وران وسونوكو إلى هذه الجزيرة ويتعرفون على مجموعة من صائدي الكنوز, تذهب ران وسونوكو للغطس رفقة المرشدة وفي أثناء غطسهم في قاع المحيط يشاهدن أسماك القرش تقوم بالفتك بأحد ثلاثة من صائدي الكنوز, ينقل هذا الأخير إلى المستشفى ولكنه مات بعد وصوله, يكتشف كونان أن هذا الحادث ليس عاديا بل هي جريمة متعمدة!",
+    "poster": "https://image.tmdb.org/t/p/w500/a5UpwASFKtgpGipFWoNtU1c1iVy.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/h5RPSswlgc2KvvkvfW7pipBtPLo.jpg",
+    "year": "2007",
+    "rating": "6.497",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, مغامرة",
+    "category": "رسوم متحركة, مغامرة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.538Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "h5zha8cfka0c",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "w8etijzko8ob-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "hcy064la80ip",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "xvvlhvn8a4nt",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "4k97mmv1s6z5",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "3a1bVdAGlrcdojP",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "ajgijq3lhdvp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "exovss2a40rj",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "y6jxpz0xxfmh",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "1nojkjm7s1d0d4",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "39204",
+    "tmdbId": 39204,
+    "title": "Detective Conan Movie 09: Strategy Above the Depths",
+    "type": "animation",
+    "description": "أفروديت هي باخرة ضخمة (التي تظهر في الغلاف) والتي تمتلكها \"مجموعة ياشيرو\". مصممة الباخرة هي \"ميناكو أكيوشي\" التي تكن الكره لأصحاب الشركة مالكة الباخرة. تقوم هذه الآنسة باغتيال رئيس المجموعة وزوجته وتوهم الجميع بأن الفاعل هو شخص يسمى \"كساها\" (الذي كان بدوره يخطط لاغتيالهما!).",
+    "poster": "https://image.tmdb.org/t/p/w500/vNov2x0q8S3z2zaTwc9SxuId5eo.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gJIp1c5dxkQz7oYz5ZGFTIvnH6L.jpg",
+    "year": "2005",
+    "rating": "6.903",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, غموض",
+    "category": "رسوم متحركة, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.609Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "8fgv1783kvko",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "kesrzh201dd3-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "wv45fa7n3kbx",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ng8cgkml6t7t",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "e67ygvoctwao",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "XJ27Aq8w22UDJoV",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "q1y1qylovac1",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "139s2219d9f8",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "tq5qxg6ibswu",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "pj6qdegrsg737m",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "39202",
+    "tmdbId": 39202,
+    "title": "Detective Conan Movie 07: Crossroad in the Ancient Capital",
+    "type": "animation",
+    "description": "هيجي وسينشي يتعاونان معاً في حل لغز معقد لرسالة من مصدر مجهول والتي ستقود للتمثال المفقود منذ 8 سنوات",
+    "poster": "https://image.tmdb.org/t/p/w500/bMZ5TCtTVvCQ586MPbto2xJ1Wh4.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/bIlgVsRkASYjLh5BABmAMAMeHji.jpg",
+    "year": "2003",
+    "rating": "7.113",
+    "duration": "110 min",
+    "genre": "رسوم متحركة, غموض, مغامرة",
+    "category": "رسوم متحركة, غموض, مغامرة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:38.507Z",
+    "ageRating": "",
+    "network": "TMS Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "04osdmldapx3",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "a54erjewkji7-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "380latmrqw56",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "d3jpseepc8gk",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "dj3cnc9q8xbl",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "VmAJvMoRjoU3JK",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "nr7b9ti92ybg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "8u4s93nyysuf",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "atbevk20wtgo",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "9wx0g6wqt04nml",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "21452",
+    "tmdbId": 21452,
+    "title": "Detective Conan Movie 02: The Fourteenth Target",
+    "type": "animation",
+    "description": "تدور أحداث الفيلم حول الجرائم المتسلسلة، ويستخدم المجرم من أجلها أوراق اللعب بشكل تنازلي لاختيار ضحاياه بالترتيب، بحيث يحوي اسم الضحية على دلالة لورقة من أوراق اللعب. الضحية الأولى كانت المفتش جوزو ميغوري والذي يدل اسمه على الرقم 13 وهو الملك في ورق اللعب، حيث استطاع النجاة بعدما أصيب بواسطة سيف بشبه السيف الموجود بصورة الملك في ورق اللعب.",
+    "poster": "https://image.tmdb.org/t/p/w500/529cMugwnQD9kIrxTDpEv3nKOOa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6Bev1r0VbGp8Riv9QiSgt832OoW.jpg",
+    "year": "1998",
+    "rating": "7.16",
+    "duration": "100 min",
+    "genre": "رسوم متحركة, جريمة, غموض, مغامرة",
+    "category": "رسوم متحركة, جريمة, غموض, مغامرة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:39.705Z",
+    "ageRating": "",
+    "network": "TOHO",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "eplpl815ed1r",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "xlw9beuyztxq-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "9djktybayd2u",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gq9b9ooqa8ka",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "9ldi8drjr573",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "2BwopaQPdmHVVO",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "60c06qfodkwp",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "zvh089swn5ck",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "er2wb5j56e7t",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "1nojk98jikk1r8n",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1573526",
+    "tmdbId": 1573526,
+    "title": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/ee4ZPmO6dIYjcJXlfB4nzrK6R6V.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rLk3ZXXgEbTF7rVW36SMLpNVrbv.jpg",
+    "year": "2025",
+    "rating": "0",
+    "duration": "23 min",
+    "genre": "حركة, مغامرة, رسوم متحركة, خيال علمي",
+    "category": "حركة, مغامرة, رسوم متحركة, خيال علمي",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:46.192Z",
+    "ageRating": "",
+    "network": "",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "tmqs8kagwklc",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "t2vgime61666-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "845qh4sdht5f",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "swqofxyw7n6p",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "YWw1wR6PvdSvAYl",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8sawdy9ckfeo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gm850j4dva6n",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "nlp3klj4hj48xm",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1103432",
+    "tmdbId": 1103432,
+    "title": "Bloody Escape: Jigoku no Tousou Geki",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/XtmxgjOYd9qYbyUyhUkvbGLgvG.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/l6pbaLXYzfOwpaCn3Eo3GybiLHE.jpg",
+    "year": "2024",
+    "rating": "6.955",
+    "duration": "98 min",
+    "genre": "رسوم متحركة, حركة, خيال علمي",
+    "category": "رسوم متحركة, حركة, خيال علمي",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:47.457Z",
+    "ageRating": "",
+    "network": "Slow Curve",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "jiwpfsmjz32c",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "hfjhme4r1oh2-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "qo9ehmfnlxgi",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "k3h1ujshbimg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "h7luk7amaqzf",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "qOMzeGgy32IzJA4",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8zvrxwswtgw6",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "sb1db2mtcbxu",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "t2mrbmh0d4f8",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "7k3wv8p1bnj4dk",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "629078",
+    "tmdbId": 629078,
+    "title": "The Glassworker",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/gWdMPoQO54vYaFWrmUg3pbpAVFi.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/wNfo4jTlzLPcWc68xxw8VnBJjae.jpg",
+    "year": "2024",
+    "rating": "6.9",
+    "duration": "98 min",
+    "genre": "رسوم متحركة, عائلي, رومنسية, حرب",
+    "category": "رسوم متحركة, عائلي, رومنسية, حرب",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:48.071Z",
+    "ageRating": "",
+    "network": "Mano Animation Studios",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "458fd3vhxjv2",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "8bwzfdwodv2u-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "34irb7mzspql",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "oth3ylumxl6x",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ljh6gajri6t0",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "9kDmaRymOytaMe8",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "agtporo0bnd7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "5tw7adow7cfo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "0que0drwgkn6",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "mk97evzgaz7rpg",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1030588",
+    "tmdbId": 1030588,
+    "title": "Bakeneko Anzu-chan",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/nPxYNExVI2MfVIAU2ktPqzY11Tu.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/oZMpjEvO19ILidHNmRn1QTkXgpQ.jpg",
+    "year": "2024",
+    "rating": "6.6",
+    "duration": "94 min",
+    "genre": "رسوم متحركة, فانتازيا, كوميديا, عائلي",
+    "category": "رسوم متحركة, فانتازيا, كوميديا, عائلي",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:51.997Z",
+    "ageRating": "",
+    "network": "Shin-Ei Animation",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "088irovde3bd",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "sa436faqu8xk-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "gb3lzy75zyz9",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "taim6e2cgehp",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "K7L228ZZBRH0ral",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "4ueutwxa8rzu",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "l8mi3l9njuz5",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "80h295g54i05",
+        "q": "1"
+      },
+      {
+        "t": "m",
+        "d": "gjgz1jl1sg4p14",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "725064",
+    "tmdbId": 725064,
+    "title": "Amrita no Kyouen",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/eHt9KnmZDQBiEnhk7hoYcKxCiwX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gzZit2X2qxfI4dOWlKXotnXRwUR.jpg",
+    "year": "2023",
+    "rating": "6.4",
+    "duration": "48 min",
+    "genre": "رسوم متحركة, غموض, فانتازيا, رعب",
+    "category": "رسوم متحركة, غموض, فانتازيا, رعب",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:52.976Z",
+    "ageRating": "",
+    "network": "ゼリコ・フィルム",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "nosmffj2b7dz",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "fjt6x4w8p32l-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "3vg50e5bsh46",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "b0ddwlib5d0j",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "j3n0b50dd0w9",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "b3JLgJowo9tJrD",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "leuvb99p3k0o",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1207830",
+    "tmdbId": 1207830,
+    "title": "Gracie and Pedro: Pets to the Rescue",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/1agSI7NGvagr720za8XAubtqUoB.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/AjTodtZJlQxycfRPktnUTpknblv.jpg",
+    "year": "2024",
+    "rating": "6.907",
+    "duration": "89 min",
+    "genre": "رسوم متحركة, مغامرة, كوميديا, عائلي",
+    "category": "رسوم متحركة, مغامرة, كوميديا, عائلي",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:53.265Z",
+    "ageRating": "",
+    "network": "2nd Chance",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "03l0f87imwfa",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "i3oz66gk3oh4-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "npnd25xvozsg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "1w4hjnek0tko",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7m66hel6x1eu",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "oxpx9GAWL9CdXw",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "g3d7t90xptpb",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1329336",
+    "tmdbId": 1329336,
+    "title": "The Bad Guys: Haunted Heist",
+    "type": "animation",
+    "description": "يشرع \"الأشرار\" الماكرون في عملية سرقة خطيرة في الهالوين للاستحواذ على تميمة ثمينة من قصر مخيف، فما الضرر الذي قد يحدث؟",
+    "poster": "https://image.tmdb.org/t/p/w500/kMtnMUlNTdiTvwqf5zhiUq5QOsM.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rI9Mh0Q0XAtqTiSgKI0M2fflO1X.jpg",
+    "year": "2024",
+    "rating": "6.897",
+    "duration": "25 min",
+    "genre": "رسوم متحركة, كوميديا",
+    "category": "رسوم متحركة, كوميديا",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:27:58.156Z",
+    "ageRating": "",
+    "network": "DreamWorks Animation Television",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "rtopn6d4optd",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "8tgh7bbasywj-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "xh5w6hfjyhke",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gppooz8x69gc",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "784drxspdvln",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7422337419973",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "b3yRBp6KBBtP8Pa",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "dmkggst9cg8e",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1119211",
+    "tmdbId": 1119211,
+    "title": "Komada Jouryuusho e Youkoso",
+    "type": "animation",
+    "description": "يزور كوتارو معمل تقطير كومادا من أجل مشروع عن الويسكي الياباني الحرفي. بقيادة الرئيسة الشابة روي، التي تولت إدارة الشركة العائلية، يعمل مصنع التقطير بجد لإعادة إنتاج الويسكي المميز، ويسكي كوما، الذي توقفوا عن صنعه منذ سنوات. ومع ذلك، ناهيك عن الدعم المالي، هناك الكثير من القرائن المفقودة لإحياء الويسكي الذي كان مفقوداً في الماضي.",
+    "poster": "https://image.tmdb.org/t/p/w500/dqy7or7dokmZjHnPxZ6vRKMD1b3.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/hXvXFHbo4BR4LJwFIUkGCL0k1KX.jpg",
+    "year": "2023",
+    "rating": "6.8",
+    "duration": "91 min",
+    "genre": "رسوم متحركة, دراما, عائلي",
+    "category": "رسوم متحركة, دراما, عائلي",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:01.186Z",
+    "ageRating": "",
+    "network": "P.A.WORKS",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "67kep6l7fr0o",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "uc9rfn6e0z5y-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "qphspvsks433",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "vakiwppt1b0l",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ds4oesgcrptu",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7314464836293",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "LVVzMkV4x8tZMo",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8c2dcc3b13vp",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1246389",
+    "tmdbId": 1246389,
+    "title": "Dog Days",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/hcYRy3zGonL8nolHGAFULltiCCH.jpg",
+    "backdrop": "",
+    "year": "2024",
+    "rating": "0",
+    "duration": "3 min",
+    "genre": "رسوم متحركة, كوميديا",
+    "category": "رسوم متحركة, كوميديا",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:02.016Z",
+    "ageRating": "",
+    "network": "",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "nu0r4kwdsk69",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "wdj98i5xxhf5-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "84an2f216q8a",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ei1a83am3cyx",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "bdeskkhe7gcj",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7302619597509",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "7Re1Zg23oDTJwb",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "qnrk3qjwhfco",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "831815",
+    "tmdbId": 831815,
+    "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+    "type": "animation",
+    "description": "حين تُجرف \"قاع الهامور\" من المحيط، تستعد السنجابة العالِمة \"ساندي أمور\" وصديقها \"سبونج بوب سكوير بانتس\" لخوض غمار رحلة إلى \"تكساس\" لإنقاذ بلدتهما.",
+    "poster": "https://image.tmdb.org/t/p/w500/azjBayNa9endky6D5ImbKwEROr8.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/gcW8rMiA9OKbetpjAVAAdbGrDd8.jpg",
+    "year": "2024",
+    "rating": "6",
+    "duration": "86 min",
+    "genre": "عائلي, كوميديا, مغامرة, رسوم متحركة",
+    "category": "عائلي, كوميديا, مغامرة, رسوم متحركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:05.161Z",
+    "ageRating": "",
+    "network": "Nickelodeon Movies",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "aay62viyxddo",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "4ww95s33zamu-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "jwvi172pvzyy",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "js6yansvyivg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ea65armss538",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7225226234565",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "VxxeDk7alPiK7Wx",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "bgm3z2ymdvoc",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1117609",
+    "tmdbId": 1117609,
+    "title": "Hokkyoku Hyakkaten no Concierge-san",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/x7U7SZI3MA9sDwLc5oYm1UYfEgQ.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/a68COsb7PvpEUIBa9vA3mvZMS3I.jpg",
+    "year": "2023",
+    "rating": "6.938",
+    "duration": "70 min",
+    "genre": "رسوم متحركة, فانتازيا",
+    "category": "رسوم متحركة, فانتازيا",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:06.938Z",
+    "ageRating": "",
+    "network": "Production I.G",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "1w0oqrufelex",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "uqv42ds70277-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "mc0wimlirdlo",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m6cgyg9y0vhe",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "f082y5rrj6vw",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "7037977758405",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "mqdep00plpcr",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "ab4oPZlML2CxKYP",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "kdtoy9ydqbix",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1223429",
+    "tmdbId": 1223429,
+    "title": "Treasure Fellowship",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/gdjKXvXsLd7KiFhvzpezP5RYF2b.jpg",
+    "backdrop": "",
+    "year": "2023",
+    "rating": "0",
+    "duration": "86 min",
+    "genre": "رسوم متحركة, فانتازيا, مغامرة, حركة",
+    "category": "رسوم متحركة, فانتازيا, مغامرة, حركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:11.829Z",
+    "ageRating": "",
+    "network": "7Toon Animation Studio",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "f76b8vaudon8",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "fm09iwbpu21y-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "r6pn02zats21",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "b7wwmctqdj7i",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "fwfyqgz3xqow",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6902809561797",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ok9f8vgqhl2z",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "BPJKypZqQWCyD4b",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "2nhu7h8dh7n4",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6804u6c8",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "698835",
+    "tmdbId": 698835,
+    "title": "Kurayukaba",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/1eJfJZW1pD3JcPN78FM7mIiKtov.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/kGcaOzVyfa71TAp2Ac1nGCj26Ij.jpg",
+    "year": "2024",
+    "rating": "6.8",
+    "duration": "64 min",
+    "genre": "رسوم متحركة, دراما, غموض",
+    "category": "رسوم متحركة, دراما, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:12.079Z",
+    "ageRating": "",
+    "network": "Twin Engine",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "qnxfl26orf22",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "z1scvvh7em1q-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ttekr90ydeaf",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "mmqbp6cvfixm",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "hl31619wdjaf",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6901060799173",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "3rsbt67pyw54",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "ldKZ0D3Xd6cOYW",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "21samsju35im",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "872ebcx7",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1250784",
+    "tmdbId": 1250784,
+    "title": "Kuramerukagari",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/geLky5wNVMFMbylJMfP3qlzDvyx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/fsgGP4ZzPAUSFGu9No3upiw9FLh.jpg",
+    "year": "2024",
+    "rating": "6.6",
+    "duration": "62 min",
+    "genre": "رسوم متحركة, دراما, غموض",
+    "category": "رسوم متحركة, دراما, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:12.084Z",
+    "ageRating": "",
+    "network": "Twin Engine",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "fx4y032qx5ho",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "t6ds6522o0sz-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ni6ebrie5wqy",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "v1aelwly5w89",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "631r5pxwas77",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6901054769861",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "4qifm9zdqudf",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "q9VLbrk1yLTz9Y0",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "8luk7uyd4k4a",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "s15p0jyo",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1239146",
+    "tmdbId": 1239146,
+    "title": "Woody Woodpecker Goes to Camp",
+    "type": "animation",
+    "description": "بعد أن تم طرده من الغابة، يحاول (وودي) نقار الخشب، العثور على منزل جديد، ويعثر أخيرًا على ضالته في مخيم جميل، لكن أحلامه تصطدم بمفتش متزمِت يسعى لطرده.",
+    "poster": "https://image.tmdb.org/t/p/w500/5HGrebDxGF3TxX4sTMysPIl58e9.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/cIztAxDn3H8JylRaJwiHHpkGe53.jpg",
+    "year": "2024",
+    "rating": "6.418",
+    "duration": "101 min",
+    "genre": "عائلي, كوميديا, رسوم متحركة",
+    "category": "عائلي, كوميديا, رسوم متحركة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:12.831Z",
+    "ageRating": "",
+    "network": "Universal 1440 Entertainment",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "dcdol0109z0r",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "6rq4ffnhimg2-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "772d0624g87x",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "1n34h1cjfj7m",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "51yssl1rxhkl",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6899930761925",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "npdl3y2z42ep",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "W9d9VJWA3ycbBbm",
+        "q": "1"
+      },
+      {
+        "t": "L",
+        "d": "tp2gnstbmhld",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "lyeufkdj",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "991190",
+    "tmdbId": 991190,
+    "title": "Kin no Kuni Mizu no Kuni",
+    "type": "animation",
+    "description": "تحكي القصّة عن مملكتين متجاورتين غير ودودتين، الأولى مملكة الحميد وهي مستوحاة من الحضارة العراقيّة والثانية مملكة البايكالي وهي مستوحاة من حضارة البلقان.  تبرمُ الدولتان معاهدةً بموجبها ترسل الحميد أجمل فتياتها ويرسلُ البايكالي أذكى شبّانهم لعقد زواجٍ بينهما",
+    "poster": "https://image.tmdb.org/t/p/w500/kwiYIZUrl0qW0g2rTYoNeZ27O11.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6tW0O03jlSSHy6K5tYig1Qmo00o.jpg",
+    "year": "2023",
+    "rating": "6.714",
+    "duration": "116 min",
+    "genre": "رسوم متحركة, رومنسية, فانتازيا",
+    "category": "رسوم متحركة, رومنسية, فانتازيا",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:19.622Z",
+    "ageRating": "",
+    "network": "Madhouse",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "mnbaq8mm146m",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "7i2k2mun6kun-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "ytlx6ojzxsku",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "zlg82lnhjit4",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "8dgligohh564",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6710068120261",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "7K71yl1GXOhArXW",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "xtnxzdabqebl",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "893250",
+    "tmdbId": 893250,
+    "title": "Princess Principal: Crown Handler Movie 3",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/m2IUKpVpKrgcQZcLrymr24wzS22.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/rI5ejmyXjYBhtPKQ5ndlwHw6Yqe.jpg",
+    "year": "2023",
+    "rating": "6.7",
+    "duration": "60 min",
+    "genre": "رسوم متحركة, حركة, مغامرة, دراما, غموض",
+    "category": "رسوم متحركة, حركة, مغامرة, دراما, غموض",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:24.150Z",
+    "ageRating": "",
+    "network": "Actas",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "pbjlatu3tz6r",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "lslyy94p049r-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "7ezp5orcbt8d",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "p3tjxu2s7sdg",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6619950156485",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "blwcqv358cj2",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "aVyqwzvgxMIx74L",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "4w5zu2osmfvt",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1071101",
+    "tmdbId": 1071101,
+    "title": "Ooyukiumi no Kaina: Hoshi no Kenja",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/8OIRFvdIHJowTRiL00NKWLZcasF.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/eHKRUk1QENXXzrgKg3nLHJCQn4m.jpg",
+    "year": "2023",
+    "rating": "5.833",
+    "duration": "100 min",
+    "genre": "رسوم متحركة, فانتازيا",
+    "category": "رسوم متحركة, فانتازيا",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:24.578Z",
+    "ageRating": "",
+    "network": "Polygon Pictures",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "cnoqoz0a0wxk",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "kbs49319qm9p-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "y4hryapa6o2c",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6566511839941",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "sa7tga68p489",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "23XYzvqGw3CZ0mA",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1012652",
+    "tmdbId": 1012652,
+    "title": "Psycho-Pass Movie: Providence",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/loQnGx81zO3RDf1VmNiGZf60mCg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/6TwCGF6M9di9yFxFmg76F90It2f.jpg",
+    "year": "2023",
+    "rating": "7.1",
+    "duration": "121 min",
+    "genre": "رسوم متحركة, جريمة, غموض, إثارة",
+    "category": "رسوم متحركة, جريمة, غموض, إثارة",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:25.596Z",
+    "ageRating": "",
+    "network": "Production I.G",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "d0jx1jdguwm2",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "cd5lkzo1x4fa-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "9f4vn90zehps",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "q6uepwx2ltxh",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6543294663365",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ojrzz01paez8",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "Z3PQ09eymlS7vz",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "1056803",
+    "tmdbId": 1056803,
+    "title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/paTSxRphNiIhi25g2v290FtpX22.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/sdh76YtGseZHPk4WiOJjMzKKFSB.jpg",
+    "year": "2023",
+    "rating": "7.7",
+    "duration": "74 min",
+    "genre": "رسوم متحركة, دراما, فانتازيا",
+    "category": "رسوم متحركة, دراما, فانتازيا",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:26.643Z",
+    "ageRating": "",
+    "network": "KADOKAWA",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "ae8qi8451h7s",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "0bohzv7oaz7l-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "w",
+        "d": "rhx5cismqa04",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "h1pcxa684mrv",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6534260591301",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "ww6fvzbzn2nn",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "zKJA80jkB0sYmvb",
+        "q": "1"
+      }
+    ]
+  },
+  {
+    "id": "870358",
+    "tmdbId": 870358,
+    "title": "Merry Little Batman",
+    "type": "animation",
+    "description": "",
+    "poster": "https://image.tmdb.org/t/p/w500/2J70guF8wcErbYbRgZUBcvShgI1.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w1280/t4I3Zsbuk6G9yOL8Gn6dOWIbqJm.jpg",
+    "year": "2023",
+    "rating": "6.6",
+    "duration": "97 min",
+    "genre": "رسوم متحركة, حركة, عائلي, كوميديا",
+    "category": "رسوم متحركة, حركة, عائلي, كوميديا",
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "createdAt": "2026-03-10T02:28:28.680Z",
+    "ageRating": "",
+    "network": "Warner Bros. Animation",
+    "directServers": [
+      {
+        "t": "v",
+        "d": "uafguyyy8233",
+        "q": "1"
+      },
+      {
+        "t": "u",
+        "d": "2b4cekt40tfw-1280x640",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "yyks4ug5i19q",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "gujqesqksqx7",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "6522727631557",
+        "q": "1"
+      },
+      {
+        "t": "v",
+        "d": "m8bqaapk30j8",
+        "q": "1"
+      },
+      {
+        "t": "s",
+        "d": "0LL2yqlV47Ib7xx",
+        "q": "1"
+      }
+    ]
   }
 ]
