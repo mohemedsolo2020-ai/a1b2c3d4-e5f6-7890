@@ -43174,6 +43174,41 @@
     "totalEpisodes": 12
   },
   {
+    "id": "97940",
+    "anilistId": 97940,
+    "malId": 34572,
+    "title": "Black Clover",
+    "titleEnglish": "Black Clover",
+    "type": "anime",
+    "description": "القصة تدور حول أستا ويونو الذين تم التخلي عنهما معا في نفس الكنيسة وكانا لا ينفصلان منذ ذلك الحين. وباعتبارهم أطفالا، وعدوا بأنهم سيتنافسون مع بعضهم البعض لمعرفة من سيصبح الإمبراطور المقبل ماجوس. ومع ذلك، عندما كبرا، أصبحت بعض الاختلافات بينهما واضحة. كان يونو عبقريا مع السحر، مع قوة وسيطرة مذهلين، في حين أن أستا لا يمكنه استخدام السحر على الإطلاق، وحاول تعويض عن نقصه من خلال التدريب جسديا.ومع انطلاق بطولة “جريمويري” ستبدأ الرحلة المليئة بالمغامرات والأكشن.\r\n                    \r\n                                                    \r\n                                النوع: TV",
+    "poster": "https://witanime.you/wp-content/uploads/2021/01/Black-Clover-Spade-Kingdom-Arc-413x559.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97940-1URQdQ4U1a0b.jpg",
+    "year": "2017",
+    "rating": "79",
+    "popularity": 519920,
+    "genre": "أكشن, كوميدي, سحر, خيال, شونين",
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "duration": 24,
+    "isNew": false,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-MA",
+    "network": "TV Tokyo, TV Aichi",
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/black-clover/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 170
+  },
+  {
     "id": "21856",
     "anilistId": 21856,
     "malId": 33486,
@@ -55433,6 +55468,41 @@
     "totalEpisodes": 13
   },
   {
+    "id": "11061",
+    "anilistId": 11061,
+    "malId": 11061,
+    "title": "Hunter x Hunter (2011)",
+    "titleEnglish": "Hunter x Hunter (2011)",
+    "type": "anime",
+    "description": "النوع: TV",
+    "poster": "https://witanime.you/wp-content/uploads/2021/07/Hunter-x-Hunter-2011-413x559.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-8WkkTZ6duKpq.jpg",
+    "year": "2011",
+    "rating": "89",
+    "popularity": 764404,
+    "genre": "أكشن, مغامرات, خيال, شونين, قوة خارقة",
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "duration": 24,
+    "isNew": false,
+    "isTrending": true,
+    "isPopular": true,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "Nippon TV",
+    "studios": [
+      "MADHOUSE"
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/hunter-x-hunter-2011/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 148
+  },
+  {
     "id": "6547",
     "anilistId": 6547,
     "malId": 6547,
@@ -56987,6 +57057,41 @@
     "totalEpisodes": 27
   },
   {
+    "id": "1735",
+    "anilistId": 1735,
+    "malId": 1735,
+    "title": "Naruto: Shippuuden",
+    "titleEnglish": "Naruto: Shippuden",
+    "type": "anime",
+    "description": "تكملة لأحداث قصة ناروتو بعد مرور سنتين ونصف قضاها في التدريب مع المعلم جيرايا.\r\n                    \r\n                                                    \r\n                                النوع: TV",
+    "poster": "https://witanime.you/wp-content/uploads/2021/10/Naruto-Shippuuden-413x559.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1735.jpg",
+    "year": "2007",
+    "rating": "82",
+    "popularity": 555031,
+    "genre": "أكشن, مغامرات, كوميدي, فنون قتالية, قوة خارقة, شونين",
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "WINTER",
+    "duration": 23,
+    "isNew": false,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-PG",
+    "network": "TV Tokyo",
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/naruto-shippuuden/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 500
+  },
+  {
     "id": "889",
     "anilistId": 889,
     "malId": 889,
@@ -57447,6 +57552,41 @@
     "totalEpisodes": 1
   },
   {
+    "id": "20",
+    "anilistId": 20,
+    "malId": 20,
+    "title": "Naruto",
+    "titleEnglish": "Naruto",
+    "type": "anime",
+    "description": "القصة تتحدث عن النينجا المراهق ناروتو أوزوماكي الذي وجد نفسه منبوذًا من قبل سكان قريته بسبب الكيوبي الذي بداخله، لذلك وضع نصب عينيه أن ينال لقب الهوكاجي وهو اللقب الذي يُطلق على قائد القرية وأقوى نينجا فيها، لينال احترام واعتراف الجميع.\r\n                    \r\n                                                    \r\n                                النوع: TV",
+    "poster": "https://witanime.you/wp-content/uploads/2021/09/Naruto-413x559.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
+    "year": "2002",
+    "rating": "80",
+    "popularity": 657656,
+    "genre": "أكشن, مغامرات, كوميدي, فنون قتالية, قوة خارقة",
+    "format": "TV",
+    "status": "FINISHED",
+    "season": "FALL",
+    "duration": 23,
+    "isNew": false,
+    "isTrending": true,
+    "isPopular": true,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-PG",
+    "network": "TV Tokyo",
+    "studios": [
+      "Studio Pierrot"
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/naruto/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 128
+  },
+  {
     "id": "552",
     "anilistId": 552,
     "malId": 552,
@@ -57515,6 +57655,41 @@
     ],
     "totalSeasons": 1,
     "totalEpisodes": 43
+  },
+  {
+    "id": "21",
+    "anilistId": 21,
+    "malId": 21,
+    "title": "One Piece",
+    "titleEnglish": "ONE PIECE",
+    "type": "anime",
+    "description": "العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.\r\n                    \r\n                                                    \r\n                                النوع: TV",
+    "poster": "https://witanime.you/wp-content/uploads/2023/12/One-Piece-Egghead-413x559.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "year": "1999",
+    "rating": "88",
+    "popularity": 662639,
+    "genre": "شونين, قوة خارقة, مغامرات, أكشن, خيال, دراما, كوميدي",
+    "format": "TV",
+    "status": "RELEASING",
+    "season": "FALL",
+    "duration": 24,
+    "isNew": false,
+    "isTrending": false,
+    "isPopular": true,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "Fuji TV",
+    "studios": [
+      "Toei Animation"
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/one-piece/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 1176
   },
   {
     "id": "1",
