@@ -1,85 +1,72 @@
 [
   {
-    "id": "181284",
-    "anilistId": 181284,
-    "malId": 59835,
-    "title": "Kirio Fanclub",
-    "titleEnglish": "Kirio Fan Club",
+    "id": "196935",
+    "anilistId": 196935,
+    "malId": 62164,
+    "title": "Akane-banashi",
+    "titleEnglish": "Akane-banashi",
     "type": "anime",
-    "description": "القصة تتحدث عن إيمي ميوشي ونامي سوميتاني وهما طالبتان في المرحلة الثانوية تربطهما صداقة تنافسية تكمن في حبهما المشترك للممثل الشهير كيريو وتبدأ الأحداث عندما تتشابك مشاعرهما مع واقعهما اليومي.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181284-JJafhd5gDT53.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181284-JJafhd5gDT53.jpg",
+    "description": "القصة تتحدث عن أكاني التي تدخل عالم (فن الحكاية اليابانية) بعد طرد والدها ظلمًا، وتبدأ رحلتها للانتقام بطريقتها بالكلام، والموهبة، والوقوف على المسرح!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196935-RnLWBsEvNp8M.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196935-RnLWBsEvNp8M.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
     "year": "2026",
-    "rating": null,
-    "popularity": 3653,
-    "genre": "كوميدي, رومانسي, شريحة من الحياة",
+    "rating": "77",
+    "popularity": 23050,
+    "genre": "دراما",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "يعرض الان",
     "season": "SPRING",
-    "duration": 24,
+    "duration": 25,
     "isNew": true,
     "isTrending": false,
     "isPopular": false,
     "isFeatured": false,
     "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
     "studios": [
-      "Satelight"
+      "ZEXCS"
+    ],
+    "characters": [
+      {
+        "name": "Akane Ousaki",
+        "nameNative": "桜咲朱音",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264023-7IqKZv0bL8o8.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 144866,
+        "title": "Akane-banashi",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
     ],
     "sourceUrl": [
-      "https://witanime.you/anime/kirio-fanclub/"
-    ],
-    "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg"
-  },
-  {
-    "id": "202381",
-    "anilistId": 202381,
-    "malId": 62964,
-    "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
-    "titleEnglish": "Killed again, Mr. Detective.",
-    "type": "anime",
-    "description": "القصة تتحدث عن ساكويا أوتسوكي طالب ثانوية ومحقق يمتلك قدرة على العودة للحياة كلما قُتل ليحل القضايا الغامضة التي تحيط به.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202381-bxgyUXGtGtZj.jpg",
-    "year": "2026",
-    "rating": null,
-    "popularity": 4757,
-    "genre": "غموض, نفسي, خارق للطبيعة",
-    "format": "TV",
-    "status": "RELEASING",
-    "season": "SPRING",
-    "duration": 24,
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "isAdult": false,
-    "studios": [
-      "LIDENFILMS"
-    ],
-    "sourceUrl": [
-      "https://witanime.you/anime/mata-korosarete-shimatta-no-desu-ne-tantei-sama/"
+      "https://witanime.you/anime/akane-banashi/"
     ],
     "totalSeasons": 1,
     "totalEpisodes": 0
   },
   {
-    "id": "195333",
-    "anilistId": 195333,
-    "malId": 61943,
-    "title": "Haibara-kun no Tsuyokute Seishun New Game",
-    "titleEnglish": "Haibara's Teenage New Game+",
+    "id": "105749",
+    "anilistId": 105749,
+    "malId": 38731,
+    "title": "Diamond no Ace act II",
+    "titleEnglish": "Ace of the Diamond act II",
     "type": "anime",
-    "description": "القصة تتحدث عن اتسكي هايبارا طالب جامعي نادم على فرص شبابه الضائعة يعود بالزمن سبع سنوات إلى الوراء ليعاود عيش أيام المدرسة الثانوية من جديد.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-KUIF1eqOdVdd.png",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png",
-    "year": "2026",
-    "rating": null,
-    "popularity": 5172,
-    "genre": "رومانسي, شريحة من الحياة",
+    "description": "الموسم الرابع من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105749-bbqFNGq0r6mS.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105749-bbqFNGq0r6mS.jpg",
+    "backdrop": "",
+    "year": "2019",
+    "rating": "82",
+    "popularity": 25185,
+    "genre": "رياضي",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "مكتمل",
     "season": "SPRING",
     "duration": 24,
     "isNew": true,
@@ -87,242 +74,143 @@
     "isPopular": false,
     "isFeatured": false,
     "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
     "studios": [
-      "Studio Comet"
+      "MADHOUSE"
+    ],
+    "characters": [
+      {
+        "name": "Eijun Sawamura",
+        "nameNative": "沢村栄純",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22998-cg0IkjoiUMf7.png"
+      },
+      {
+        "name": "Satoru Furuya",
+        "nameNative": "降谷暁",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30266-JABit0MAiibG.png"
+      },
+      {
+        "name": "Kazuya Miyuki",
+        "nameNative": "御幸一也",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30267-RW6RhAA6iQdX.png"
+      },
+      {
+        "name": "Haruichi Kominato",
+        "nameNative": "小湊春市",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69295-KjGUCNotOXN6.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 21085,
+        "title": "Diamond no Ace: Second Season",
+        "type": "PREQUEL",
+        "format": "TV"
+      },
+      {
+        "anilistId": 86569,
+        "title": "Diamond no Ace Act II",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 177634,
+        "title": "Diamond no Ace act II: Second Season",
+        "type": "SEQUEL",
+        "format": "TV"
+      }
     ],
     "sourceUrl": [
-      "https://witanime.you/anime/haibara-kun-no-tsuyokute-seishun-new-game/"
+      "https://witanime.you/anime/diamond-no-ace-act-ii-second-season/"
     ],
     "totalSeasons": 1,
-    "totalEpisodes": 12,
-    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg"
+    "totalEpisodes": 52
   },
   {
-    "id": "186497",
-    "anilistId": 186497,
-    "malId": 60852,
-    "title": "Koori no Jouheki",
-    "titleEnglish": "The Ramparts of Ice",
-    "type": "anime",
-    "description": "هيغاوا كويوكي فتاة خجولة اجتماعيًا تضع جدارًا بينها وبين الآخرين. تقضي أيامها في المدرسة الثانوية وحيدة حتى تلتقي بأماميا مينامي التي تبدأ بكسر جدارها الجليدي ببطء.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186497-uwPrNPphXvjP.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
-    "year": "2026",
-    "rating": null,
-    "popularity": 10970,
-    "genre": "كوميدي, رومانسي, شريحة من الحياة",
-    "format": "TV",
-    "status": "RELEASING",
-    "season": "SPRING",
-    "duration": 26,
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "isAdult": false,
-    "studios": [
-      "Studio KAI"
-    ],
-    "sourceUrl": [
-      "https://witanime.you/anime/koori-no-jouheki/"
-    ],
-    "totalSeasons": 1,
-    "totalEpisodes": 0,
-    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg"
-  },
-  {
-    "id": "201817",
-    "anilistId": 201817,
-    "malId": 62893,
-    "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
-    "titleEnglish": "Always a Catch!",
-    "type": "anime",
-    "description": "منذ صغرها لاحظ الجميع أن ماريا ابنة الدوق الصغرى مليئة بالإمكانات. نشأت كوريثة لعائلتها لكنها وجدت نفسها في عالم من الخيال والرومانسية.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201817-pyfL9F8muPeq.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-pyfL9F8muPeq.jpg",
-    "year": "2026",
-    "rating": "65",
-    "popularity": 5636,
-    "genre": "خيال, رومانسي",
-    "format": "TV",
-    "status": "RELEASING",
-    "season": "SPRING",
-    "duration": 24,
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "isAdult": false,
-    "studios": [
-      "TROYCA"
-    ],
-    "sourceUrl": [
-      "https://witanime.you/anime/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/"
-    ],
-    "totalSeasons": 1,
-    "totalEpisodes": 0
-  },
-  {
-    "id": "194317",
-    "anilistId": 194317,
-    "malId": 61831,
-    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-    "titleEnglish": "The Beginning After the End Season 2",
+    "id": "173172",
+    "anilistId": 173172,
+    "malId": 57779,
+    "title": "Dorohedoro Season 2",
+    "titleEnglish": "Dorohedoro Season 2",
     "type": "anime",
     "description": "الموسم الثاني من الأنمي.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-M7t2ymBDHqyW.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173172-404XnuOS0DhR.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173172-404XnuOS0DhR.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173172-tkPQqLzfnxYN.jpg",
     "year": "2026",
-    "rating": "62",
-    "popularity": 20023,
-    "genre": "أكشن, مغامرات, خيال",
-    "format": "TV",
-    "status": "RELEASING",
-    "season": "SPRING",
-    "duration": 23,
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "isAdult": false,
-    "studios": [
-      "studio A-CAT"
-    ],
-    "sourceUrl": [
-      "https://witanime.you/anime/the-beginning-after-the-end-season-2-saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/"
-    ],
-    "totalSeasons": 1,
-    "totalEpisodes": 12
-  },
-  {
-    "id": "197868",
-    "anilistId": 197868,
-    "malId": 62342,
-    "title": "Maid-san wa Taberu dake",
-    "titleEnglish": "The Food Diary of Miss Maid",
-    "type": "anime",
-    "description": "ماذا تفعل خادمة عندما تجد نفسها عالقة في اليابان لمدة عام؟ تأكل بالطبع! تابع سوزومي تاتشيبانا المتدربة كخادمة وهي تجرب أشهى الأطعمة اليابانية.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png",
-    "year": "2026",
-    "rating": "62",
-    "popularity": 5137,
-    "genre": "شريحة من الحياة",
+    "rating": "79",
+    "popularity": 27569,
+    "genre": "أكشن, مغامرات, كوميديا, فانتازيا, رعب, غموض",
     "format": "ONA",
-    "status": "RELEASING",
+    "status": "يعرض الان",
     "season": "SPRING",
-    "duration": 24,
+    "duration": 0,
     "isNew": true,
     "isTrending": false,
     "isPopular": false,
     "isFeatured": false,
     "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "ONA",
     "studios": [
-      "EMT Squared",
-      "Magic Bus"
+      "MAPPA"
+    ],
+    "characters": [
+      {
+        "name": "Kaiman",
+        "nameNative": "カイマン",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9192-Jly0Soaxc6DX.png"
+      },
+      {
+        "name": "Nikaido",
+        "nameNative": "ニカイドウ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16057-eFteZol4cg9t.jpg"
+      },
+      {
+        "name": "Shin",
+        "nameNative": "心",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16058-WGqEK3I9bH7c.jpg"
+      },
+      {
+        "name": "Noi",
+        "nameNative": "能井",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16059-mUfErMfV09e5.jpg"
+      },
+      {
+        "name": "Risu",
+        "nameNative": "栗鼠",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31212-Y8ZdrqTQ4Od7.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 31133,
+        "title": "Dorohedoro",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 105228,
+        "title": "Dorohedoro",
+        "type": "PREQUEL",
+        "format": "TV"
+      }
     ],
     "sourceUrl": [
-      "https://witanime.you/anime/maid-san-wa-taberu-dake/"
+      "https://witanime.you/anime/dorohedoro-season-2/"
     ],
     "totalSeasons": 1,
-    "totalEpisodes": 0
-  },
-  {
-    "id": "200769",
-    "anilistId": 200769,
-    "malId": 62825,
-    "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-    "titleEnglish": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
-    "type": "anime",
-    "description": "هيبيكي طالب ثانوية يُنقل فجأة إلى عالم آخر خيالي حيث تسكن الوحوش. يتجول وحيدًا في أراضٍ عشبية شاسعة ويكتشف أن مهنته ليست بطلاً أو حكيمًا بل مُقيّم مؤقت!",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
-    "year": "2026",
-    "rating": "59",
-    "popularity": 9272,
-    "genre": "أكشن, مغامرات, كوميدي, خيال",
-    "format": "ONA",
-    "status": "RELEASING",
-    "season": "SPRING",
-    "duration": 24,
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": false,
-    "isFeatured": false,
-    "isAdult": false,
-    "studios": [
-      "Studio Flad"
-    ],
-    "sourceUrl": [
-      "https://witanime.you/anime/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo/"
-    ],
-    "totalSeasons": 1,
-    "totalEpisodes": 0
-  },
-  {
-    "id": "181449",
-    "anilistId": 181449,
-    "malId": 59848,
-    "title": "Virgin Punk: Clockwork Girl",
-    "titleEnglish": "VIRGIN PUNK Clockwork Girl",
-    "type": "anime",
-    "description": "القصة تتحدث عن أوبو شابة شجاعة تجد نفسها فجأة في حياة خطيرة حياة صائدة مكافآت! بينما تصارع اضطراباتها الداخلية تكتشف أنها جزء من عالم مليء بالمغامرات والأسرار.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181449-OciICz3Pgl29.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181449-OciICz3Pgl29.jpg",
-    "year": "2025",
-    "rating": "69",
-    "popularity": 20831,
-    "genre": "أكشن, دراما, خيال, خيال علمي",
-    "format": "MOVIE",
-    "status": "FINISHED",
-    "season": "SPRING",
-    "duration": 40,
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "isAdult": false,
-    "studios": [
-      "Shaft"
-    ],
-    "sourceUrl": [
-      "https://witanime.you/anime/virgin-punk-clockwork-girl/"
-    ],
-    "totalSeasons": 1,
-    "totalEpisodes": 1,
-    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181449-qsSswZzHUdmX.jpg"
-  },
-  {
-    "id": "170110",
-    "anilistId": 170110,
-    "malId": 56906,
-    "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
-    "titleEnglish": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Special)",
-    "type": "anime",
-    "description": "حلقة خاصة جديدة من أنمي ايسيكاي دي تشيت سكيل.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170110-MzWm7RaFxAnu.png",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170110-MzWm7RaFxAnu.png",
-    "year": "2026",
-    "rating": "68",
-    "popularity": 18917,
-    "genre": "أكشن, مغامرات, خيال, رومانسي",
-    "format": "SPECIAL",
-    "status": "FINISHED",
-    "season": "WINTER",
-    "duration": 47,
-    "isNew": true,
-    "isTrending": false,
-    "isPopular": true,
-    "isFeatured": false,
-    "isAdult": false,
-    "studios": [
-      "Millepensee"
-    ],
-    "sourceUrl": [
-      "https://witanime.you/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta/"
-    ],
-    "totalSeasons": 1,
-    "totalEpisodes": 1
+    "totalEpisodes": 11
   },
   {
     "id": "137662",
@@ -331,24 +219,43 @@
     "title": "Fangkai Nage Nüwu",
     "titleEnglish": "Release that Witch",
     "type": "anime",
-    "description": "القصة تتحدث عن مهندس حديث ينتقل إلى عالم خيالي بقرون وسطى ويصبح الأمير رولاند. يستخدم رولاند معرفته العلمية وتكنولوجيا العالم الحديث لتغيير مصير مملكته والساحرات اللاتي يُلاحقن فيها.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137662-iZigHTc71wi7.png",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137662-iZigHTc71wi7.png",
-    "year": "2026",
-    "rating": "72",
-    "popularity": 5691,
-    "genre": "أكشن, مغامرات, خيال, رومانسي",
+    "description": "القصة تتحدث عن مهندس حديث ينتقل إلى عالم خيالي بقرون وسطى ويصبح الأمير رولاند يستخدم رولاند معرفته العلمية وتكنولوجيا العالم الحديث جنباً إلى جنب مع قدرات الساحرات اللواتي كنّ مضطهدات لتطوير المملكة وتغيير النظرة إليهنّ وبناء قوة عسكرية وصناعية قوية.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137662-iZigHTc71wi7.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137662-iZigHTc71wi7.png",
+    "backdrop": "",
+    "year": "",
+    "rating": "75",
+    "popularity": 7304,
+    "genre": "أكشن, مغامرات, فانتازيا, رومانسي",
     "format": "ONA",
-    "status": "RELEASING",
-    "season": "SPRING",
+    "status": "يعرض الان",
+    "season": "",
     "duration": 22,
     "isNew": true,
     "isTrending": false,
     "isPopular": false,
     "isFeatured": false,
     "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "ONA",
     "studios": [
       "Thundray"
+    ],
+    "characters": [
+      {
+        "name": "Roland Wimbledon",
+        "nameNative": "罗兰·温布顿",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136764-gbdDjESfqNaV.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 108152,
+        "title": "Fangkai Nage Nüwu",
+        "type": "ALTERNATIVE",
+        "format": "MANGA"
+      }
     ],
     "sourceUrl": [
       "https://witanime.you/anime/fangkai-nage-nuwu-release-that-witch/"
@@ -357,37 +264,2073 @@
     "totalEpisodes": 8
   },
   {
+    "id": "201090",
+    "anilistId": 201090,
+    "malId": 62852,
+    "title": "Ghost Concert: missing Songs",
+    "titleEnglish": "GHOST CONCERT : missing Songs",
+    "type": "anime",
+    "description": "في عام 2045، في عالم يُحظر فيه الغناء يقوم تطبيق يُدعى ميوكس بإنشاء وتأدية كل الموسيقى بدلًا من البشر أثناء خروجها مع أصدقائها تسمع فتاة صغيرة تُدعى سيريا آيبا شيئًا لا ينبغي لها سماعه: صوت الغناء. وما يزيد الأمر غرابةً، أن الصوت صادر عن كائن من عالم آخر يُعرف بـ \"الشبح العظيم\".",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201090-HzQKUjjvde32.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201090-HzQKUjjvde32.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201090-YIO0HtbUiCwC.jpg",
+    "year": "2026",
+    "rating": "52",
+    "popularity": 2650,
+    "genre": "أكشن, موسيقي, خارق للطبيعة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "ENGI"
+    ],
+    "characters": [
+      {
+        "name": "Seria Aiba",
+        "nameNative": "相葉芹亜",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b378042-pQNKtGI723w1.png"
+      },
+      {
+        "name": "Cleopatra",
+        "nameNative": "クレオパトラ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b378043-DY2wRrR7ToZI.png"
+      }
+    ],
+    "relations": [],
+    "sourceUrl": [
+      "https://witanime.you/anime/ghost-concert-missing-songs/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "169228",
+    "anilistId": 169228,
+    "malId": 56646,
+    "title": "Hokuto no Ken: FIST OF THE NORTH STAR",
+    "titleEnglish": "FIST OF THE NORTH STAR: HOKUTO NO KEN",
+    "type": "anime",
+    "description": "في عالم ما بعد نهاية العالم دمّرته الحرب النووية، يتجول كينشيرو وريث أسلوب هوكوتو شينكن القتالي القاتل عبر الأراضي القاحلة بحثاً عن خطيبته المخطوفة يوريا. في رحلته يواجه طغاة وأشراراً يستغلون الضعفاء، ويستخدم قبضاته المميتة لحماية الأبرياء وتحقيق العدالة في عالم فقد كل أمل.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169228-y79xDpZ29Vv4.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169228-y79xDpZ29Vv4.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169228-L0wA8BGp54fa.jpg",
+    "year": "2026",
+    "rating": "53",
+    "popularity": 4212,
+    "genre": "أكشن, دراما, خيال علمي",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "TMS Entertainment"
+    ],
+    "characters": [
+      {
+        "name": "Kenshirou",
+        "nameNative": "ケンシロウ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2511-I5ff3jioC5Ze.jpg"
+      },
+      {
+        "name": "Lin",
+        "nameNative": "リン",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17906-N5UxLPEw0SBe.png"
+      },
+      {
+        "name": "Bat",
+        "nameNative": "バット",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b17907-Ap7Lb80fwbCb.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 31149,
+        "title": "Hokuto no Ken",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 967,
+        "title": "Hokuto no Ken",
+        "type": "ALTERNATIVE",
+        "format": "TV"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/hokuto-no-ken-fist-of-the-north-star/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "209980",
+    "anilistId": 209980,
+    "malId": 63822,
+    "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta 2nd Season",
+    "titleEnglish": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta 2nd Season",
+    "type": "anime",
+    "description": "حلقة خاصة مكملة لأحداث الموسم الأول من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209980-ilH3QHcKPw7t.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209980-ilH3QHcKPw7t.jpg",
+    "backdrop": "",
+    "year": "",
+    "rating": "",
+    "popularity": 4685,
+    "genre": "أكشن, مغامرات, فانتازيا, رومانسي",
+    "format": "TV",
+    "status": "لم يعرض بعد",
+    "season": "",
+    "duration": 0,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [],
+    "characters": [
+      {
+        "name": "Lexia Von Alceria",
+        "nameNative": "レクシア・フォン・アルセリア",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192857-9e29iwsxNRyJ.jpg"
+      },
+      {
+        "name": "Yuuya Tenjou",
+        "nameNative": "天上優夜",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192860-E2kX3ctHLf4g.jpg"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 116063,
+        "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 170110,
+        "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+        "type": "PREQUEL",
+        "format": "SPECIAL"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-tv-special/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "197824",
+    "anilistId": 197824,
+    "malId": 62146,
+    "title": "Isekai Nonbiri Nouka 2",
+    "titleEnglish": "Farming Life in Another World 2",
+    "type": "anime",
+    "description": "الموسم الثاني من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197824-k9Uyef8g49hB.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197824-k9Uyef8g49hB.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
+    "year": "2026",
+    "rating": "74",
+    "popularity": 21906,
+    "genre": "فانتازيا, شريحة من الحياة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Zero-G"
+    ],
+    "characters": [
+      {
+        "name": "Hiraku Machio",
+        "nameNative": "街尾火楽",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293201-VoMIPmwpVgn9.jpg"
+      },
+      {
+        "name": "Loo",
+        "nameNative": "ルー",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293202-LeeAQbBr34Hm.png"
+      },
+      {
+        "name": "Tier",
+        "nameNative": "ティア",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293203-2nM80VLWC5CB.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 146850,
+        "title": "Isekai Nonbiri Nouka",
+        "type": "PREQUEL",
+        "format": "TV"
+      },
+      {
+        "anilistId": 100461,
+        "title": "Isekai Nonbiri Nouka",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 100456,
+        "title": "Isekai Nonbiri Nouka",
+        "type": "ALTERNATIVE",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/isekai-nonbiri-nouka-2/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "196029",
+    "anilistId": 196029,
+    "malId": 62050,
+    "title": "Kami no Niwatsuki Kusunoki-tei ",
+    "titleEnglish": "Kusunoki's Garden of Gods",
+    "type": "anime",
+    "description": "القصة تتحدث عن شاب يدعى ميناتو كوسونوكي يتم تعيينه في دار رعاية في اعماق الأرياف تتجمع فيه مخلوقات اليوكاي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196029-4ML0UHngkZhn.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196029-4ML0UHngkZhn.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
+    "year": "2026",
+    "rating": "68",
+    "popularity": 7746,
+    "genre": "كوميديا, فانتازيا, شريحة من الحياة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "JUVENAGE"
+    ],
+    "characters": [
+      {
+        "name": "Minato Kusunoki",
+        "nameNative": "楠木湊",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374766-hfWPVN3KcWMA.png"
+      },
+      {
+        "name": "Yamagami",
+        "nameNative": "山神",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375329-3l2BEVH0ozA7.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 147074,
+        "title": "Kami no Niwatsuki Kusunoki-tei",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 180080,
+        "title": "Kami no Niwatsuki Kusunoki-tei",
+        "type": "ALTERNATIVE",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/kami-no-niwatsuki-kusunoki-tei/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "202508",
+    "anilistId": 202508,
+    "malId": 62981,
+    "title": "Kami no Shizuku",
+    "titleEnglish": "The Drops of God",
+    "type": "anime",
+    "description": "القصة تتحدث عن شاب يكتشف جمال عالم النبيذ بعد وفاة والده الناقد الشهير، حيث يترك وصية غامضة تتضمن وصف 12 نبيذًا أسطوريًا، ليبدأ سباقًا حادًا بينه وبين أخيه المتبنى للعثور عليها.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202508-dk6LEyevJYUY.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
+    "year": "2026",
+    "rating": "53",
+    "popularity": 2974,
+    "genre": "دراما, غموض, شريحة من الحياة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Satelight"
+    ],
+    "characters": [
+      {
+        "name": "Shizuku Kanzaki",
+        "nameNative": "神咲雫",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24249-mCYAICAUIe1X.png"
+      },
+      {
+        "name": "Issei Tomine",
+        "nameNative": "遠峰一青",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28828-ZqG0E1vF1a1D.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 33964,
+        "title": "Kami no Shizuku",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/kami-no-shizuku/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 24
+  },
+  {
+    "id": "190704",
+    "anilistId": 190704,
+    "malId": 61501,
+    "title": "Kanan-sama wa Akumade Choroi",
+    "titleEnglish": "Mistress Kanan is Devilishly Easy",
+    "type": "anime",
+    "description": "القصة تتحدث كانان وهي شيطانة قوية تتسلل إلى مدرسة ثانوية بشرية لالتهم الأرواح لكنها تقع في حب أول ضحاياها يوجي كوغي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190704-Ts1VvkrNdnCZ.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190704-Ts1VvkrNdnCZ.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
+    "year": "2026",
+    "rating": "68",
+    "popularity": 20798,
+    "genre": "كوميديا, إيتشي, فانتازيا, رومانسي",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Studio KAI"
+    ],
+    "characters": [
+      {
+        "name": "Youji Kyougi",
+        "nameNative": "供犠羊司",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282075-jlO4CJ7c8HPp.png"
+      },
+      {
+        "name": "Kanan Zebul",
+        "nameNative": "カナン・ぜべる",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282076-ERpAOU16uHxv.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 149893,
+        "title": "Kanan-sama wa Akumade Choroi",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/kanan-sama-wa-akumade-choroi/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "198113",
+    "anilistId": 198113,
+    "malId": 62391,
+    "title": "Kill Ao",
+    "titleEnglish": "KILL BLUE",
+    "type": "anime",
+    "description": "القصة تتحدث عن قاتل أسطوري يبلغ من العمر 39 عاماً جوزو أوغامي قاتل مأجور لم يفشل في أي مهمة مهما بلغت صعوبتها. في أحد الأيام وبعد أن قضى على منظمة قوية، يلسعه دبور غامض فينهار. وعندما يستيقظ، يكتشف أن جسده قد تحول من رجل بالغ مخيف إلى شاب صغير قبل أن يستوعب ما حدث يتلقى أمراً جديداً من رئيسه: بهذا الجسد، تسلل إلى مدرسة إعدادية.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198113-NRa47idWSlnx.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+    "year": "2026",
+    "rating": "68",
+    "popularity": 7980,
+    "genre": "أكشن, كوميديا",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 0,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "CUE"
+    ],
+    "characters": [
+      {
+        "name": "Juuzou Ougami",
+        "nameNative": "大狼十三",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308634-T0mevoTZEmGC.jpg"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 163495,
+        "title": "Kill Ao",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/kill-ao/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "196974",
+    "anilistId": 196974,
+    "malId": 62171,
+    "title": "Kuroneko to Majo no Kyoushitsu",
+    "titleEnglish": "The Classroom of the Black Cat and a Witch",
+    "type": "anime",
+    "description": "سبـيكا فيرغو هي ساحرة مبتدئة، لكنها غير قادرة على استخدام السحر. وللانضمام إلى أكاديمية أحلامها، تحتاج إلى معلم، لكنها تفتقر إلى المال والمعارف. فجأة، يظهر أمامها قط أسود غامض قادر على استخدام السحر! سبـيكا ترغب في تعلم السحر، والقط الأسود يسعى لكسر لعنته هدفان يسيران في طريقٍ واحد. وهكذا وُلدت علاقة سرية بين المعلم والمتدرّبة.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196974-mZk1uyrx0XNx.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
+    "year": "2026",
+    "rating": "62",
+    "popularity": 8540,
+    "genre": "فانتازيا",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 0,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "LIDENFILMS"
+    ],
+    "characters": [
+      {
+        "name": "Spica Virgo",
+        "nameNative": "スピカ・ヴァルゴ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307378-kxTiUmY9GDFd.png"
+      },
+      {
+        "name": "Claude Sirius",
+        "nameNative": "クロード・シリアス",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307380-jXbgRluNQ1ST.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 146181,
+        "title": "Kuroneko to Majo no Kyoushitsu",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/kuroneko-to-majo-no-kyoushitsu/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "197754",
+    "anilistId": 197754,
+    "malId": 62331,
+    "title": "LIAR GAME",
+    "titleEnglish": "LIAR GAME",
+    "type": "anime",
+    "description": "عندما تتلقى ناو كانزاكي رسالة غريبة وحقيبة تحتوي على 100 مليون ين، تكتشف أنها قد تم اختيارها للمشاركة في لعبة LIAR GAME (لعبة الكذب). في هذه المعركة النفسية عالية المخاطر، تسود الأكاذيب والخداع والخيانة. ببراءتها وصدقها، تلجأ ناو إلى شينيتشي أكياما، المحتال السابق الذكي، لتتمكن من النجاة في اللعبة الملتوية. في لعبة قائمة على الأكاذيب، هل يمكن للصدق أن ينتصر؟",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197754-Q5KqcUhIdypp.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+    "year": "2026",
+    "rating": "64",
+    "popularity": 22271,
+    "genre": "دراما, نفسي",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "MADHOUSE"
+    ],
+    "characters": [
+      {
+        "name": "Nao Kanzaki",
+        "nameNative": "神崎直",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13472-96yBTxlLK8gr.png"
+      },
+      {
+        "name": "Shinichi Akiyama",
+        "nameNative": "秋山真一",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13473-sYtvI1hxorvY.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 31649,
+        "title": "LIAR GAME",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/liar-game/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "197868",
+    "anilistId": 197868,
+    "malId": 62342,
+    "title": "Maid-san wa Taberu dake",
+    "titleEnglish": "The Food Diary of Miss Maid",
+    "type": "anime",
+    "description": "تجد الخادمة سوزومي تاتشيبانا نفسها عالقة في اليابان لمدة عام كامل، فتقرر استكشاف الثقافة من خلال الطعام حيث تجرب مختلف أصناف الطعام الياباني.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197868-sm5jcjPKWhNL.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197868-sm5jcjPKWhNL.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197868-wBmzwZ3Ay4bD.jpg",
+    "year": "2026",
+    "rating": "63",
+    "popularity": 7127,
+    "genre": "شريحة من الحياة",
+    "format": "ONA",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "ONA",
+    "studios": [
+      "EMT Squared",
+      "Magic Bus"
+    ],
+    "characters": [
+      {
+        "name": "Suzume Tachibana",
+        "nameNative": "橘スズメ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192581-TOU0VNB4KBm0.jpg"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 114010,
+        "title": "Maid-san wa Taberu dake",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/maid-san-wa-taberu-dake/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "196012",
+    "anilistId": 196012,
+    "malId": 62048,
+    "title": "MAO",
+    "titleEnglish": "MAO",
+    "type": "anime",
+    "description": "القصة تتحدث عن نانوكا كيبا فتاة نجت من حادث مأساوي في طفولتها وتجد نفسها تنتقل عبر الزمن إلى عصر تايشو الياباني. تلتقي هناك طارد الأرواح الشريرة ماو الذي يبحث عن وحش تسبب في مآسٍ ماضية.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-R3YNjunufpYh.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196012-R3YNjunufpYh.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+    "year": "2026",
+    "rating": "66",
+    "popularity": 10678,
+    "genre": "دراما, غموض, رومانسي, خارق للطبيعة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 25,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Sunrise"
+    ],
+    "characters": [
+      {
+        "name": "Mao",
+        "nameNative": "摩緒",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138866-vgg7dpWNoAlb.png"
+      },
+      {
+        "name": "Nanoka Kiba",
+        "nameNative": "黄葉菜花",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138867-haBdWYcDtgBZ.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 106102,
+        "title": "MAO",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/mao/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "202381",
+    "anilistId": 202381,
+    "malId": 62964,
+    "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+    "titleEnglish": "Killed again, Mr. Detective.",
+    "type": "anime",
+    "description": "القصة تتحدث عن ساكويا أوتسوكي طالب ثانوية ومحقق يمتلك قدرة على العودة للحياة كلما قُتل ليحل القضايا مع مساعدته الذكية ليليثيا حيث يصبح موته المتكرر جزءًا من التحقيق.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202381-bxgyUXGtGtZj.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202381-bxgyUXGtGtZj.jpg",
+    "backdrop": "",
+    "year": "2026",
+    "rating": "59",
+    "popularity": 9208,
+    "genre": "غموض, نفسي, خارق للطبيعة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "LIDENFILMS"
+    ],
+    "characters": [
+      {
+        "name": "Sakuya Outsuki",
+        "nameNative": "追月朔也",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379913-BDtDxNUtRRFG.png"
+      },
+      {
+        "name": "Lilithea",
+        "nameNative": "リリテア",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379914-xBzmH9SPfDlu.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 137043,
+        "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 151749,
+        "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+        "type": "ALTERNATIVE",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/mata-korosarete-shimatta-no-desu-ne-tantei-sama/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "202102",
+    "anilistId": 202102,
+    "malId": 62913,
+    "title": "NEEDY GIRL OVERDOSE",
+    "titleEnglish": "NEEDY GIRL OVERDOSE",
+    "type": "anime",
+    "description": "في رحلة تحاكي واقع منصات البث الرقمي، تسعى فتاة تطمح لتكون \"ملاك الإنترنت\" إلى نيل إعجاب الجماهير وتحقيق الشهرة، وذلك من خلال مواجهة تحديات نفسية وعلاقات معقدة، في تجربة استثنائية تستعرض الجوانب الخفية والمظلمة وراء بريق الشاشة.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202102-7qDmTI7eT5xF.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202102-7qDmTI7eT5xF.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
+    "year": "2026",
+    "rating": "68",
+    "popularity": 22703,
+    "genre": "مغامرات, دراما, نفسي, شريحة من الحياة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 25,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Yostar Pictures"
+    ],
+    "characters": [
+      {
+        "name": "Ame-chan",
+        "nameNative": "あめちゃん",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296304-dmi9pquQZmQo.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 164675,
+        "title": "Yume Juuya",
+        "type": "CHARACTER",
+        "format": "ONA"
+      },
+      {
+        "anilistId": 160010,
+        "title": "Chou Ten-chan! NEEDY GIRL OVERDOSE Koushiki Anthology",
+        "type": "CHARACTER",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 169446,
+        "title": "INTERNET YAMERO",
+        "type": "CHARACTER",
+        "format": "MUSIC"
+      },
+      {
+        "anilistId": 173640,
+        "title": "Aru Hi no Gogo",
+        "type": "CHARACTER",
+        "format": "ONA"
+      },
+      {
+        "anilistId": 163906,
+        "title": "NEEDY GIRL OVERDOSE: RUN WITH MY SICK",
+        "type": "CHARACTER",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/needy-girl-overdose/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 13
+  },
+  {
+    "id": "206914",
+    "anilistId": 206914,
+    "malId": 63375,
+    "title": "Nippon Sangoku",
+    "titleEnglish": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+    "type": "anime",
+    "description": "في اليابان بالمستقبل القريب شهدت تراجع الحضارة بسبب الحرب النووية والكوارث الطبيعية والفساد الحكومي انقسمت البلاد إلى ثلاث دول متصارعة لتدخل فترة جديدة مشابهة لعصر الممالك الثلاث حيث يتنافس كل جزء على السيطرة أويتيرو ميسومي، موظف محلي كان مجهولًا سابقًا، يضع نصب عينيه إعادة توحيد اليابان مسلحًا بمعرفة واسعة وبلاغة استثنائية، يبدأ في الصعود تدريجيًا وهكذا تبدأ أسطورة الرجل الذي سيعرف لاحقًا بالمخطط الاستراتيجي العبقري.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-SHKX08LarRzB.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206914-SHKX08LarRzB.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
+    "year": "2026",
+    "rating": "79",
+    "popularity": 15916,
+    "genre": "أكشن, دراما, خيال علمي",
+    "format": "ONA",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 0,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "ONA",
+    "studios": [
+      "Studio Kafka"
+    ],
+    "characters": [
+      {
+        "name": "Aoteru Misumi",
+        "nameNative": "三角青輝",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388635-U4PivuffJKLV.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 142098,
+        "title": "Nippon Sangoku",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/nippon-sangoku/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "179813",
+    "anilistId": 179813,
+    "malId": 59393,
+    "title": "Niwatori Fighter",
+    "titleEnglish": "Rooster Fighter",
+    "type": "anime",
+    "description": "في عالم تجوب فيه الوحوش المرعبة الأرض، هناك ديك بطولي مقدّر له أن يحقق العظمة. وعندما تهدد الشياطين العملاقة الأبرياء، سيريهم من هو الزعيم!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-cLHpUPV1IiEm.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179813-cLHpUPV1IiEm.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
+    "year": "2026",
+    "rating": "65",
+    "popularity": 14858,
+    "genre": "أكشن, مغامرات, كوميديا, خارق للطبيعة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 23,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "SANZIGEN"
+    ],
+    "characters": [
+      {
+        "name": "Keiji",
+        "nameNative": "けいじ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212585-9H3fZVoe95h2.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 127554,
+        "title": "Niwatori Fighter",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/niwatori-fighter/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "21",
+    "anilistId": 21,
+    "malId": 21,
+    "title": "ONE PIECE",
+    "titleEnglish": "ONE PIECE",
+    "type": "anime",
+    "description": "العظمة , المجد , الذهب , مزايا اشتملت عليها حياة ملك القراصنة غولد روجر الذي حكم عليه بالإعدام لأسباب مجهولة, و ارتأى أن يشي بسر كنزه المعروف بـ ” ون بيس” و المخبأ في مكان ما على الخط الكبير قبل أن ينفذ فيه حكم الإعدام. و بعد اثنين و عشرين سنة من هذه الحادثة تبدأ أحداث قصتنا , و يظهر بطلنا القرصان مونكي دي لوفي الحالم بالعثور على الكنزو الطامع بلقب ملك القراصنة , و من أجل ذلك , يقوم بتناول فاكهة الشيطان للحصول على القوة اللازمة و لتيسير و تذييل العقبات التي من شأنها إعاقة المهمة. و قبل البدء بأي شيء , عليه أولاً أن يجد الطاقم المناسب ليبدءون رحلة البحث عن الكنز الأسطوري.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "year": "1999",
+    "rating": "87",
+    "popularity": 680480,
+    "genre": "أكشن, مغامرات, كوميديا, دراما, فانتازيا",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "FALL",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Toei Animation"
+    ],
+    "characters": [
+      {
+        "name": "Luffy Monkey",
+        "nameNative": "モンキー・D・ルフィ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png"
+      },
+      {
+        "name": "Robin Nico",
+        "nameNative": "ニコロビン",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61-ywXUyyocEEqt.png"
+      },
+      {
+        "name": "Zoro Roronoa",
+        "nameNative": "ロロノア・ゾロ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-S7oAeA9WInjV.png"
+      },
+      {
+        "name": "Franky",
+        "nameNative": "フランキー",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/n64-ChX6ZzHHjXqA.png"
+      },
+      {
+        "name": "Sanji",
+        "nameNative": "サンジ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305-6lisPmHtCnLT.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 466,
+        "title": "ONE PIECE: Taose! Kaizoku Ganzack",
+        "type": "SIDE_STORY",
+        "format": "OVA"
+      },
+      {
+        "anilistId": 1094,
+        "title": "ONE PIECE TV Special: Umi no Heso no Daibouken-hen",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 1237,
+        "title": "ONE PIECE: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 1238,
+        "title": "ONE PIECE: Mamore! Saigo no Oobutai",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 2020,
+        "title": "ONE PIECE: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 2386,
+        "title": "ONE PIECE: Yume no Soccer Ou!",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 2490,
+        "title": "ONE PIECE: Mezase! Kaizoku Yakyuu Ou",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 12001,
+        "title": "ONE PIECE 3D: Gekisou! Trap Coaster",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 16239,
+        "title": "ONE PIECE: Episode of Luffy - Hand Island no Bouken",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 16468,
+        "title": "ONE PIECE FILM: Z - GLORIOUS ISLAND",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 15323,
+        "title": "ONE PIECE: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+        "type": "SUMMARY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 19123,
+        "title": "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+        "type": "SUMMARY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 20835,
+        "title": "ONE PIECE \"3D2Y\": Ace no shi wo Koete! Luffy Nakama to no Chikai",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 21230,
+        "title": "ONE PIECE: Episode of Sabo - 3-Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+        "type": "SUMMARY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 21485,
+        "title": "ONE PIECE: Adventure of Nebulandia",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 21831,
+        "title": "ONE PIECE: Heart of Gold",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 99302,
+        "title": "ONE PIECE: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+        "type": "SUMMARY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 459,
+        "title": "ONE PIECE (Movie)",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 460,
+        "title": "ONE PIECE: Nejimaki-jima no Bouken",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 461,
+        "title": "ONE PIECE: Chinjuu-jima no Chopper Oukoku",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 462,
+        "title": "ONE PIECE THE MOVIE: Dead End no Bouken",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 463,
+        "title": "ONE PIECE: Norowareta Seiken",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 464,
+        "title": "ONE PIECE THE MOVIE: Omatsuri Danshaku to Himitsu no Shima",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 465,
+        "title": "ONE PIECE THE MOVIE: Karakuri-jou no Mecha Kyohei",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 2107,
+        "title": "ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "type": "SUMMARY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 3848,
+        "title": "ONE PIECE THE MOVIE: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "type": "SUMMARY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 4155,
+        "title": "ONE PIECE FILM: STRONG WORLD",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 9999,
+        "title": "ONE PIECE 3D: Mugiwara Chase",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 12859,
+        "title": "ONE PIECE FILM: Z",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 21335,
+        "title": "ONE PIECE FILM: GOLD",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 96427,
+        "title": "ONE PIECE: Loguetown-hen",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 30013,
+        "title": "ONE PIECE",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 101918,
+        "title": "ONE PIECE: Episode of Sorajima",
+        "type": "SUMMARY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 8740,
+        "title": "ONE PIECE FILM: STRONG WORLD - EPISODE:0",
+        "type": "SIDE_STORY",
+        "format": "OVA"
+      },
+      {
+        "anilistId": 105143,
+        "title": "ONE PIECE STAMPEDE",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 102639,
+        "title": "Nissan SERENA x One Piece: Sennyuu Sauzando Sanii-gou",
+        "type": "CHARACTER",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 106492,
+        "title": "Kyutai Panic Adventure!",
+        "type": "CHARACTER",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 106572,
+        "title": "ONE PIECE: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "type": "SUMMARY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 107110,
+        "title": "ONE PIECE: Cry heart",
+        "type": "OTHER",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 107256,
+        "title": "Kyutai Panic Adventure Returns!!!",
+        "type": "CHARACTER",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 2385,
+        "title": "ONE PIECE: Nejimaki-jima no Bouken - Jango no Dance Carnival",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 101099,
+        "title": "HUNGRY DAYS: Aoharu ka yo.",
+        "type": "CHARACTER",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 21880,
+        "title": "ONE PIECE FILM: GOLD - episode 0 711ver.",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 5252,
+        "title": "ONE PIECE: ROMANCE DAWN STORY",
+        "type": "ALTERNATIVE",
+        "format": "OVA"
+      },
+      {
+        "anilistId": 30793,
+        "title": "WANTED! Oda Eiichiro Tanpenshuu",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 113308,
+        "title": "Kinen Satsuei",
+        "type": "CHARACTER",
+        "format": "MUSIC"
+      },
+      {
+        "anilistId": 114761,
+        "title": "A-RA-SHI : Reborn",
+        "type": "CHARACTER",
+        "format": "MUSIC"
+      },
+      {
+        "anilistId": 10033,
+        "title": "Toriko",
+        "type": "CHARACTER",
+        "format": "TV"
+      },
+      {
+        "anilistId": 813,
+        "title": "Dragon Ball Z",
+        "type": "CHARACTER",
+        "format": "TV"
+      },
+      {
+        "anilistId": 126649,
+        "title": "Tokyo One Piece Tower: Tongari Shima no Dai Hihou",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 134184,
+        "title": "Romance Dawn",
+        "type": "ADAPTATION",
+        "format": "ONE_SHOT"
+      },
+      {
+        "anilistId": 141902,
+        "title": "ONE PIECE FILM: RED",
+        "type": "SIDE_STORY",
+        "format": "MOVIE"
+      },
+      {
+        "anilistId": 143293,
+        "title": "One Piece: Annecy Festival 60th Anniversary",
+        "type": "OTHER",
+        "format": "ONA"
+      },
+      {
+        "anilistId": 167404,
+        "title": "MONSTERS: Ippaku Sanjou Hiryuu Jigoku",
+        "type": "PREQUEL",
+        "format": "ONA"
+      },
+      {
+        "anilistId": 171630,
+        "title": "THE ONE PIECE",
+        "type": "ALTERNATIVE",
+        "format": null
+      },
+      {
+        "anilistId": 177475,
+        "title": "ONE PIECE×KAWAISOUNI! Kono Boushi wo Omae ni Azukeru",
+        "type": "OTHER",
+        "format": "ONA"
+      },
+      {
+        "anilistId": 182469,
+        "title": "ONE PIECE FAN LETTER",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 183423,
+        "title": "ONE PIECE: Gyojin Tou-hen",
+        "type": "SUMMARY",
+        "format": "TV"
+      },
+      {
+        "anilistId": 187225,
+        "title": "LOS ANGELES LAKERS x ONE PIECE",
+        "type": "CHARACTER",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 188668,
+        "title": "Koisuru ONE PIECE",
+        "type": "SIDE_STORY",
+        "format": "ONA"
+      },
+      {
+        "anilistId": 197178,
+        "title": "ONE PIECE HEROINES",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 187380,
+        "title": "ONE PIECE: Original Episode/Luffy, Law",
+        "type": "SIDE_STORY",
+        "format": "SPECIAL"
+      },
+      {
+        "anilistId": 204432,
+        "title": "CHOPPER's",
+        "type": "SPIN_OFF",
+        "format": "TV_SHORT"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/one-piece/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "189987",
+    "anilistId": 189987,
+    "malId": 61425,
+    "title": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+    "titleEnglish": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+    "type": "anime",
+    "description": "القصة تتحدث عن ساكورادايمون مشرف الانضباط في المدرسة يُفترض أن يكون قدوة، لكنه ليس مثاليًا. يحاول ضبط كوهيناتـا لعدم التزامها بالزي المدرسي، لكنها ما زالت ترفض الانصياع.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189987-CkTDPfD7vu2Y.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189987-CkTDPfD7vu2Y.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
+    "year": "2026",
+    "rating": "72",
+    "popularity": 12799,
+    "genre": "كوميديا, رومانسي, شريحة من الحياة",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Zero-G"
+    ],
+    "characters": [
+      {
+        "name": "Tougo Sakuradaimon",
+        "nameNative": "桜大門統悟",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188007-HfnNo0NEsiSj.png"
+      },
+      {
+        "name": "Poemu Kohinata",
+        "nameNative": "小日向微笑",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188008-m1E32k98zx86.jpg"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 108768,
+        "title": "Ponkotsu Fuukiiin to Skirt Take ga Futekisetsu na JK no Hanashi",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "189046",
+    "anilistId": 189046,
+    "malId": 61316,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+    "titleEnglish": "Re:ZERO -Starting Life in Another World- Season 4",
+    "type": "anime",
+    "description": "الموسم الرابع من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189046-yaHWtS5FII46.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
+    "year": "2026",
+    "rating": "85",
+    "popularity": 66866,
+    "genre": "أكشن, مغامرات, دراما, فانتازيا, نفسي, رومانسي",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "WHITE FOX"
+    ],
+    "characters": [
+      {
+        "name": "Emilia",
+        "nameNative": "エミリア",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88572-IzTwXEHSobRs.jpg"
+      },
+      {
+        "name": "Subaru Natsuki",
+        "nameNative": "ナツキ・スバル",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88573-F8yMTK9GhnTA.png"
+      },
+      {
+        "name": "Beatrice",
+        "nameNative": "ベアトリス",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90181-wRPm0OEaucmw.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 163134,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+        "type": "PREQUEL",
+        "format": "TV"
+      },
+      {
+        "anilistId": 85737,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 210687,
+        "title": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+        "type": "SPIN_OFF",
+        "format": "ONA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/rezero-kara-hajimeru-isekai-seikatsu-4th-season/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 19
+  },
+  {
+    "id": "200769",
+    "anilistId": 200769,
+    "malId": 62825,
+    "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+    "titleEnglish": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
+    "type": "anime",
+    "description": "هيبيكي طالب في المرحلة الثانوية نُقل فجأة إلى عالم آخر يتجول وحيدًا في سهول شاسعة تسكنها الوحوش. لا يمتلك سوى مهارات غير قتالية مثل التقييم! ومن وضع ميؤوس منه، يقوده القدر إلى لقاءات تغيّر مصيره، لتنطلق قدراته الخارقة الكامنة!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200769-8WkFkoFxc2fw.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200769-8WkFkoFxc2fw.jpg",
+    "backdrop": "",
+    "year": "2026",
+    "rating": "60",
+    "popularity": 15775,
+    "genre": "أكشن, مغامرات, كوميديا, فانتازيا",
+    "format": "ONA",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "ONA",
+    "studios": [
+      "Studio Flad"
+    ],
+    "characters": [
+      {
+        "name": "Hibiki Manabe",
+        "nameNative": "真名部響生",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377717-QKwCClzZY5fn.png"
+      },
+      {
+        "name": "Emalia Steinbart",
+        "nameNative": "エマリア・ステインバルト",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b377718-hgp99BC2I0kB.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 99895,
+        "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+        "type": "ALTERNATIVE",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 121904,
+        "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
     "id": "190143",
     "anilistId": 190143,
     "malId": 61443,
     "title": "Shunkashuutou Daikousha: Haru no Mai",
     "titleEnglish": "Agents of the Four Seasons: Dance of Spring",
     "type": "anime",
-    "description": "عندما تُختطف وكيلة الربيع هيناغيكو كايو يختفي الربيع نفسه ويغرق العالم في شتاء لا ينتهي. يرفض مساعدها المخلص الاستسلام ويبدأ رحلة لإنقاذها واستعادة الربيع.",
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
-    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+    "description": "كان الشتاء هو الموسم الوحيد في العالم، لكن هذه الوحدة كانت أكثر من أن تُحتمل، فخلق الربيع ليكون رفيقًا له. مع مرور الوقت، شعرت الأرض بالحاجة للمزيد من الراحة في الدورة، فظهر الصيف والخريف. الذين يحملون هذه الدورة يُدعون وكلاء الفصول الأربعة. اختفت هيناجيكو، وكيلة الربيع، من الأرض منذ عشرة أعوام، وأخذت معها فصل الربيع. الآن، وبعد معاناة شديدة، عادت لاستعادة الدورة إلى حالتها الطبيعية.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190143-IqqbkMAF0GOo.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
     "year": "2026",
-    "rating": "74",
-    "popularity": 15144,
-    "genre": "دراما, خيال, رومانسي",
+    "rating": "76",
+    "popularity": 23185,
+    "genre": "دراما, فانتازيا, رومانسي",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "يعرض الان",
     "season": "SPRING",
     "duration": 24,
     "isNew": true,
     "isTrending": false,
-    "isPopular": true,
+    "isPopular": false,
     "isFeatured": false,
     "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
     "studios": [
       "WIT STUDIO"
+    ],
+    "characters": [
+      {
+        "name": "Hinagiku Kayo",
+        "nameNative": "花葉雛菊",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319954-53FhuzMiSoue.png"
+      },
+      {
+        "name": "Sakura Himedaka",
+        "nameNative": "姫鷹さくら",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319956-TRREaamL2ulm.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 131534,
+        "title": "Shunkashuutou Daikousha, Haru no Mai",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 142616,
+        "title": "Shunkashuutou Daikousha: Haru no Mai ",
+        "type": "ALTERNATIVE",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 210823,
+        "title": "Petals",
+        "type": "OTHER",
+        "format": "MUSIC"
+      }
     ],
     "sourceUrl": [
       "https://witanime.you/anime/shunkashuutou-daikousha-haru-no-mai/"
     ],
     "totalSeasons": 1,
-    "totalEpisodes": 14,
-    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg"
+    "totalEpisodes": 14
+  },
+  {
+    "id": "196144",
+    "anilistId": 196144,
+    "malId": 62068,
+    "title": "Snowball Earth",
+    "titleEnglish": "SNOWBALL EARTH",
+    "type": "anime",
+    "description": "يعود تيتسو إلى الأرض لأول مرة بعد ثماني سنوات من السبات العميق عندما يخرج تيتسوو يجد عالماً في حالة خراب، متجمداً بالكامل فما الذي حدث للسكان والبشرية؟ وكيف تجمد الكوكب بأكمله؟",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-UqVOcMjThkqa.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-UqVOcMjThkqa.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
+    "year": "2026",
+    "rating": "60",
+    "popularity": 6326,
+    "genre": "أكشن, ميكا, خيال علمي",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 23,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Studio KAI"
+    ],
+    "characters": [
+      {
+        "name": "Tetsuo Yabusame",
+        "nameNative": "流鏑馬鉄男",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242827-yU5joZqemtCU.png"
+      },
+      {
+        "name": "Yukio",
+        "nameNative": "ユキオ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242828-ssrhBGNw5HTh.jpg"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 136063,
+        "title": "Snowball Earth",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/snowball-earth/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 13
+  },
+  {
+    "id": "182205",
+    "anilistId": 182205,
+    "malId": 59970,
+    "title": "Tensei Shitara Slime Datta Ken 4th Season",
+    "titleEnglish": "That Time I Got Reincarnated as a Slime Season 4",
+    "type": "anime",
+    "description": "الموسم الرابع من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+    "year": "2026",
+    "rating": "80",
+    "popularity": 62151,
+    "genre": "أكشن, مغامرات, كوميديا, فانتازيا",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "8-bit"
+    ],
+    "characters": [
+      {
+        "name": "Rimuru Tempest",
+        "nameNative": "リムル・テンペスト",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123962-eL9yGV0NLMF7.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 86355,
+        "title": "Tensei Shitara Slime Datta Ken",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 86399,
+        "title": "Tensei Shitara Slime Datta Ken",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      },
+      {
+        "anilistId": 156822,
+        "title": "Tensei Shitara Slime Datta Ken 3rd Season",
+        "type": "PREQUEL",
+        "format": "TV"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/tensei-shitara-slime-datta-ken-4th-season/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "183161",
+    "anilistId": 183161,
+    "malId": 60146,
+    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+    "titleEnglish": "The Beginning After the End",
+    "type": "anime",
+    "description": "الموسم الثاني من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183161-5M054tuPmZJX.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183161-5M054tuPmZJX.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183161-L5X2veRcYJnh.jpg",
+    "year": "2025",
+    "rating": "59",
+    "popularity": 78343,
+    "genre": "أكشن, مغامرات, فانتازيا",
+    "format": "TV",
+    "status": "مكتمل",
+    "season": "SPRING",
+    "duration": 23,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "studio A-CAT"
+    ],
+    "characters": [
+      {
+        "name": "Arthur Leywin",
+        "nameNative": "アーサー・レイウィン",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347710-IWQMYSaqToZd.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 194317,
+        "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+        "type": "SEQUEL",
+        "format": "TV"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/the-beginning-after-the-end-season-2-saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 12
+  },
+  {
+    "id": "147105",
+    "anilistId": 147105,
+    "malId": 51553,
+    "title": "Tongari Boushi no Atelier",
+    "titleEnglish": "Witch Hat Atelier",
+    "type": "anime",
+    "description": "في عالم يعج بالسحر والتنانين، تحلم كوكو بأن تصبح ساحرة رغم أنها لم تولد بموهبة السحر. لكن لقاءها بساحر غامض يكشف لها سرًا يغير كل شيء، ويجعل حلمها أقرب مما ظنت!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-rwOX8qyUy8gV.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147105-rwOX8qyUy8gV.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
+    "year": "2026",
+    "rating": "85",
+    "popularity": 89620,
+    "genre": "مغامرات, دراما, فانتازيا",
+    "format": "ONA",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "ONA",
+    "studios": [
+      "BUG FILMS"
+    ],
+    "characters": [
+      {
+        "name": "Coco",
+        "nameNative": "ココ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129840-B2CVE0TIcKpT.png"
+      },
+      {
+        "name": "Qifrey",
+        "nameNative": "キーフリー",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129841-brgGFuOv1h0n.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 98263,
+        "title": "Tongari Boushi no Atelier",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/tongari-boushi-no-atelier/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 13
+  },
+  {
+    "id": "182300",
+    "anilistId": 182300,
+    "malId": 59983,
+    "title": "Tsue to Tsurugi no Wistoria Season 2",
+    "titleEnglish": "Wistoria: Wand and Sword Season 2",
+    "type": "anime",
+    "description": "الموسم الثاني من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182300-IYkq5KrkQq1V.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-IYkq5KrkQq1V.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
+    "year": "2026",
+    "rating": "78",
+    "popularity": 46321,
+    "genre": "أكشن, مغامرات, دراما, فانتازيا",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 0,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Actas",
+      "Bandai Namco Pictures"
+    ],
+    "characters": [
+      {
+        "name": "Will Serfort",
+        "nameNative": "ウィル・セルフォルト",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212394-LBHoN071nIuu.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 174576,
+        "title": "Tsue to Tsurugi no Wistoria",
+        "type": "PREQUEL",
+        "format": "TV"
+      },
+      {
+        "anilistId": 125116,
+        "title": "Tsue to Tsurugi no Wistoria",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/tsue-to-tsurugi-no-wistoria-season-2/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 0
+  },
+  {
+    "id": "195600",
+    "anilistId": 195600,
+    "malId": 62001,
+    "title": "Yomi no Tsugai",
+    "titleEnglish": "Daemons of the Shadow Realm",
+    "type": "anime",
+    "description": "القصة تتحدث عن صياد يكتشف سرًا صادمًا عن قريته بعد مذبحة دموية ليبدأ رحلة كشف حقيقة شقيقته والغموض وراء الشياطين!",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195600-moI0UFArtOme.jpg",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+    "year": "2026",
+    "rating": "78",
+    "popularity": 52545,
+    "genre": "أكشن, مغامرات, كوميديا, فانتازيا",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "bones film"
+    ],
+    "characters": [
+      {
+        "name": "Asa",
+        "nameNative": "アサ",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270810-RDnZzM4DtLyn.png"
+      },
+      {
+        "name": "Yuru",
+        "nameNative": "ユル",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270811-RA1UwUhCSFiF.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 136899,
+        "title": "Yomi no Tsugai",
+        "type": "ADAPTATION",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/yomi-no-tsugai/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 24
+  },
+  {
+    "id": "180745",
+    "anilistId": 180745,
+    "malId": 59708,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+    "titleEnglish": "Classroom of the Elite 4th Season: Second Year, First Semester",
+    "type": "anime",
+    "description": "الموسم الرابع من الأنمي.",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180745-OEZaBeEdWozn.png",
+    "posterHD": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180745-OEZaBeEdWozn.png",
+    "backdrop": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
+    "year": "2026",
+    "rating": "80",
+    "popularity": 63851,
+    "genre": "دراما, نفسي",
+    "format": "TV",
+    "status": "يعرض الان",
+    "season": "SPRING",
+    "duration": 24,
+    "isNew": true,
+    "isTrending": false,
+    "isPopular": false,
+    "isFeatured": false,
+    "isAdult": false,
+    "ageRating": "TV-14",
+    "network": "TV",
+    "studios": [
+      "Lerche"
+    ],
+    "characters": [
+      {
+        "name": "Kiyotaka Ayanokouji",
+        "nameNative": "綾小路清隆",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png"
+      },
+      {
+        "name": "Suzune Horikita",
+        "nameNative": "堀北鈴音",
+        "role": "MAIN",
+        "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png"
+      }
+    ],
+    "relations": [
+      {
+        "anilistId": 146066,
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+        "type": "PREQUEL",
+        "format": "TV"
+      },
+      {
+        "anilistId": 115166,
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
+        "type": "ADAPTATION",
+        "format": "NOVEL"
+      },
+      {
+        "anilistId": 141044,
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen",
+        "type": "ALTERNATIVE",
+        "format": "MANGA"
+      }
+    ],
+    "sourceUrl": [
+      "https://witanime.you/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/"
+    ],
+    "totalSeasons": 1,
+    "totalEpisodes": 16
   },
   {
     "id": "190327",
